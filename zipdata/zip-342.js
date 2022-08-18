@@ -46,5 +46,6 @@ zipdata({
 	"3420056":[[11,"吉川市","平沼","","Yoshikawa-shi","Hiranuma",""]],
 	"3420057":[[11,"吉川市","須賀","","Yoshikawa-shi","Suka",""]],
 	"3420058":[[11,"吉川市","きよみ野","","Yoshikawa-shi","Kiyomino",""]],
-	"3420059":[[11,"吉川市","新栄","","Yoshikawa-shi","Shinei",""]]
+	"3420059":[[11,"吉川市","新栄","","Yoshikawa-shi","Shinei",""]],
+	"3420061":[[11,"吉川市","中央","","Yoshikawa-shi","Chuo",""]]
 })

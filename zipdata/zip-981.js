@@ -278,6 +278,7 @@ zipdata({
 	"9813224":[[4,"仙台市泉区","西田中","","Izumi-ku, Sendai-shi","Nishitanaka",""]],
 	"9813225":[[4,"仙台市泉区","福岡","","Izumi-ku, Sendai-shi","Fukuoka",""]],
 	"9813226":[[4,"仙台市泉区","朴沢","","Izumi-ku, Sendai-shi","Hozawa",""]],
+	"9813227":[[4,"仙台市泉区","朝日","","Izumi-ku, Sendai-shi","Asahi",""]],
 	"9813271":[[4,"黒川郡大和町","学苑","","Taiwa-cho, Kurokawa-gun","Gakuen",""]],
 	"9813300":[[4,"富谷市","","","Tomiya-shi","",""]],
 	"9813301":[[4,"富谷市","志戸田","","Tomiya-shi","Shitoda",""]],

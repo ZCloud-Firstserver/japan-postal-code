@@ -17,6 +17,7 @@ zipdata({
 	"6730016":[[28,"明石市","松の内","","Akashi-shi","Matsunochi",""]],
 	"6730017":[[28,"明石市","野々上","","Akashi-shi","Nonoe",""]],
 	"6730018":[[28,"明石市","西明石北町","","Akashi-shi","Nishiakashi Kitamachi",""]],
+	"6730019":[[28,"明石市","沢野南町","","Akashi-shi","Sawanominamimachi",""]],
 	"6730021":[[28,"明石市","北王子町","","Akashi-shi","Kitaojicho",""]],
 	"6730022":[[28,"明石市","王子","","Akashi-shi","Oji",""]],
 	"6730023":[[28,"明石市","西新町","","Akashi-shi","Nishishimmachi",""]],

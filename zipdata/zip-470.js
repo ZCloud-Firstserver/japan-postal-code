@@ -276,7 +276,7 @@ zipdata({
 	"4702305":[[23,"知多郡武豊町","下山ノ田","","Taketoyo-cho, Chita-gun","Shimoyamanota",""]],
 	"4702306":[[23,"知多郡武豊町","上山ノ田","","Taketoyo-cho, Chita-gun","Kamiyamanota",""]],
 	"4702307":[[23,"知多郡武豊町","蛇ケ谷","","Taketoyo-cho, Chita-gun","Jagatani",""]],
-	"4702308":[[23,"知多郡武豊町","二ツ峰","","Taketoyo-cho, Chita-gun","Futatsumine",""]],
+	"4702308":[[23,"知多郡武豊町","二ツ峯","","Taketoyo-cho, Chita-gun","Futatsumine",""]],
 	"4702309":[[23,"知多郡武豊町","梨子ノ木","","Taketoyo-cho, Chita-gun","Nashinoki",""]],
 	"4702311":[[23,"知多郡武豊町","石川","","Taketoyo-cho, Chita-gun","Ishikawa",""]],
 	"4702312":[[23,"知多郡武豊町","北曲輪","","Taketoyo-cho, Chita-gun","Kitaguruwa",""]],

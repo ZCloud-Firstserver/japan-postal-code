@@ -29,6 +29,7 @@ zipdata({
 	"2840035":[[12,"四街道市","和田","","Yotsukaido-shi","Wada",""]],
 	"2840036":[[12,"四街道市","中野","","Yotsukaido-shi","Nakano",""]],
 	"2840037":[[12,"四街道市","中台","","Yotsukaido-shi","Nakadai",""]],
+	"2840038":[[12,"四街道市","たかおの杜","","Yotsukaido-shi","Takaonomori",""]],
 	"2840041":[[12,"四街道市","上野","","Yotsukaido-shi","Ueno",""]],
 	"2840042":[[12,"四街道市","小名木","","Yotsukaido-shi","Onagi",""]],
 	"2840043":[[12,"四街道市","めいわ","","Yotsukaido-shi","Meiwa",""]],

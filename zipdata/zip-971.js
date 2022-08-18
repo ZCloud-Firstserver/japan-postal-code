@@ -45,5 +45,6 @@ zipdata({
 	"9718185":[[7,"いわき市","泉町","","Iwaki-shi","Izumimachi",""]],
 	"9718186":[[7,"いわき市","泉町玉露","","Iwaki-shi","Izumimachi Tamatsuyu",""]],
 	"9718187":[[7,"いわき市","葉山","","Iwaki-shi","Hayama",""]],
-	"9718188":[[7,"いわき市","泉もえぎ台","","Iwaki-shi","Izumimoegidai",""]]
+	"9718188":[[7,"いわき市","泉もえぎ台","","Iwaki-shi","Izumimoegidai",""]],
+	"9718189":[[7,"いわき市","泉滝尻","","Iwaki-shi","Izumitakijiri",""]]
 })

@@ -45,5 +45,5 @@ zipdata({
 	"2570055":[[14,"秦野市","鈴張町","","Hadano-shi","Suzuharicho",""]],
 	"2570056":[[14,"秦野市","新町","","Hadano-shi","Shincho",""]],
 	"2570057":[[14,"秦野市","富士見町","","Hadano-shi","Fujimicho",""]],
-	"2570061":[[14,"愛甲郡清川村","煤ケ谷","","Kiyokawa-mura, Aiko-gun","Susugaya",""]]
+	"2570061":[[14,"愛甲郡清川村","煤ヶ谷","","Kiyokawa-mura, Aiko-gun","Susugaya",""]]
 })

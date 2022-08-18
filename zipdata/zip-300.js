@@ -498,6 +498,7 @@ zipdata({
 	"3002405":[[8,"つくばみらい市","仁左衛門新田","","Tsukubamirai-shi","Nizaemonshinden",""]],
 	"3002406":[[8,"つくばみらい市","福岡","","Tsukubamirai-shi","Fukuoka",""]],
 	"3002407":[[8,"つくばみらい市","北山","","Tsukubamirai-shi","Kitayama",""]],
+	"3002408":[[8,"つくばみらい市","福岡工業団地","","Tsukubamirai-shi","Fukuokakogyodanchi",""]],
 	"3002411":[[8,"つくばみらい市","押砂","","Tsukubamirai-shi","Oshizuna",""]],
 	"3002412":[[8,"つくばみらい市","日川","","Tsukubamirai-shi","Nikkawa",""]],
 	"3002413":[[8,"つくばみらい市","田村","","Tsukubamirai-shi","Tamura",""]],

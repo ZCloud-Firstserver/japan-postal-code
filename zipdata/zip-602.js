@@ -231,7 +231,7 @@ zipdata({
 	"6028034":[[26,"京都市上京区","米屋町","","Kamigyo-ku, Kyoto-shi","Komeyacho",""],[26,"京都市上京区","路西入、椹木町通油小路東入、丸太町","","Kamigyo-ku, Kyoto-shi","Komeyacho",""]],
 	"6028035":[[26,"京都市上京区","六町目","","Kamigyo-ku, Kyoto-shi","Rokuchome",""]],
 	"6028036":[[26,"京都市上京区","西山崎町","","Kamigyo-ku, Kyoto-shi","Nishiyamazakicho",""]],
-	"6028037":[[26,"京都市上京区","八幡町","","Kamigyo-ku, Kyoto-shi","Hachimancho",""]],
+	"6028037":[[26,"京都市上京区","八幡町","","Kamigyo-ku, Kyoto-shi","Yahatacho",""]],
 	"6028038":[[26,"京都市上京区","東魚屋町","","Kamigyo-ku, Kyoto-shi","Higashiuoyacho",""]],
 	"6028041":[[26,"京都市上京区","藪之内町","","Kamigyo-ku, Kyoto-shi","Yabunochicho",""]],
 	"6028042":[[26,"京都市上京区","西裏辻町","","Kamigyo-ku, Kyoto-shi","Nishiuratsujicho",""]],

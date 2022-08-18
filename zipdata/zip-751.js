@@ -37,6 +37,7 @@ zipdata({
 	"7510837":[[35,"下関市","山の田中央町","","Shimonoseki-shi","Yamanota Chuocho",""]],
 	"7510838":[[35,"下関市","山の田本町","","Shimonoseki-shi","Yamanota Hommachi",""]],
 	"7510839":[[35,"下関市","山の田北町","","Shimonoseki-shi","Yamanota Kitamachi",""]],
+	"7510840":[[35,"下関市","長州出島","","Shimonoseki-shi","Choshudejima",""]],
 	"7510841":[[35,"下関市","垢田町","","Shimonoseki-shi","Akadacho",""]],
 	"7510842":[[35,"下関市","新垢田南町","","Shimonoseki-shi","Shinakada Minamimachi",""]],
 	"7510843":[[35,"下関市","新垢田東町","","Shimonoseki-shi","Shinakada Higashimachi",""]],

@@ -64,7 +64,7 @@ zipdata({
 	"8940501":[[46,"奄美市","笠利町宇宿","","Amami-shi","Kasaricho Ushuku",""]],
 	"8940502":[[46,"奄美市","笠利町万屋","","Amami-shi","Kasaricho Manya",""]],
 	"8940503":[[46,"奄美市","笠利町和野","","Amami-shi","Kasaricho Wano",""]],
-	"8940504":[[46,"奄美市","笠利町節田","","Amami-shi","Kasaricho Setsuta",""]],
+	"8940504":[[46,"奄美市","笠利町節田","","Amami-shi","Kasaricho Setta",""]],
 	"8940505":[[46,"奄美市","笠利町平","","Amami-shi","Kasaricho Taira",""]],
 	"8940506":[[46,"奄美市","笠利町手花部","","Amami-shi","Kasaricho Tekebu",""]],
 	"8940507":[[46,"奄美市","笠利町喜瀬","","Amami-shi","Kasaricho Kise",""]],

@@ -13,5 +13,6 @@ zipdata({
 	"4598013":[[23,"名古屋市緑区","高根山","","Midori-ku, Nagoya-shi","Takaneyama",""]],
 	"4598014":[[23,"名古屋市緑区","忠治山","","Midori-ku, Nagoya-shi","Chujiyama",""]],
 	"4598015":[[23,"名古屋市緑区","別所山","","Midori-ku, Nagoya-shi","Besshoyama",""]],
-	"4598016":[[23,"名古屋市緑区","南大高","","Midori-ku, Nagoya-shi","Minamiodaka",""]]
+	"4598016":[[23,"名古屋市緑区","南大高","","Midori-ku, Nagoya-shi","Minamiodaka",""]],
+	"4598017":[[23,"名古屋市緑区","瀬木南","","Midori-ku, Nagoya-shi","Segiminami",""]]
 })

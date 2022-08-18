@@ -362,7 +362,7 @@ zipdata({
 	"6018212":[[26,"京都市南区","久世上久世町","","Minami-ku, Kyoto-shi","Kuze Kamikuzecho",""]],
 	"6018213":[[26,"京都市南区","久世中久世町","","Minami-ku, Kyoto-shi","Kuze Nakakuzecho",""]],
 	"6018301":[[26,"京都市南区","吉祥院西ノ庄西浦町","","Minami-ku, Kyoto-shi","Kisshoinnishinosho Nishiuracho",""]],
-	"6018302":[[26,"京都市南区","吉祥院西ノ庄渕ノ西町","","Minami-ku, Kyoto-shi","Kisshoinnishinosho Fuchinonishicho",""]],
+	"6018302":[[26,"京都市南区","吉祥院西ノ庄淵ノ西町","","Minami-ku, Kyoto-shi","Kisshoinnishinosho Fuchinonishicho",""]],
 	"6018303":[[26,"京都市南区","吉祥院西ノ庄西中町","","Minami-ku, Kyoto-shi","Kisshoinnishinosho Nishinakacho",""]],
 	"6018304":[[26,"京都市南区","吉祥院前河原町","","Minami-ku, Kyoto-shi","Kisshoin Maegawaracho",""]],
 	"6018305":[[26,"京都市南区","吉祥院宮ノ東町","","Minami-ku, Kyoto-shi","Kisshoin Miyanohigashicho",""]],

@@ -4,6 +4,7 @@ zipdata({
 	"2580002":[[14,"足柄上郡松田町","神山","","Matsuda-machi, Ashigarakami-gun","Koyama",""]],
 	"2580003":[[14,"足柄上郡松田町","松田惣領","","Matsuda-machi, Ashigarakami-gun","Matsudasoryo",""]],
 	"2580004":[[14,"足柄上郡松田町","松田庶子","","Matsuda-machi, Ashigarakami-gun","Matsudasoshi",""]],
+	"2580010":[[14,"足柄上郡大井町","大井中央","","Oi-machi, Ashigarakami-gun","Oichuo",""]],
 	"2580011":[[14,"足柄上郡大井町","篠窪","","Oi-machi, Ashigarakami-gun","Shinokubo",""]],
 	"2580012":[[14,"足柄上郡大井町","柳","","Oi-machi, Ashigarakami-gun","Yanagi",""]],
 	"2580013":[[14,"足柄上郡大井町","高尾","","Oi-machi, Ashigarakami-gun","Takao",""]],

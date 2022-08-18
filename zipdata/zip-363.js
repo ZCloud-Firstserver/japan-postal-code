@@ -17,6 +17,7 @@ zipdata({
 	"3630016":[[11,"桶川市","寿","","Okegawa-shi","Kotobuki",""]],
 	"3630017":[[11,"桶川市","西","","Okegawa-shi","Nishi",""]],
 	"3630018":[[11,"桶川市","坂田西","","Okegawa-shi","Sakata Nishi",""]],
+	"3630020":[[11,"桶川市","上日出谷南","","Okegawa-shi","Kamihideya Minami",""]],
 	"3630021":[[11,"桶川市","泉","","Okegawa-shi","Izumi",""]],
 	"3630022":[[11,"桶川市","若宮","","Okegawa-shi","Wakamiya",""]],
 	"3630023":[[11,"桶川市","朝日","","Okegawa-shi","Asahi",""]],
@@ -24,5 +25,6 @@ zipdata({
 	"3630025":[[11,"桶川市","下日出谷","","Okegawa-shi","Shimohideya",""]],
 	"3630026":[[11,"桶川市","上日出谷","","Okegawa-shi","Kamihideya",""]],
 	"3630027":[[11,"桶川市","川田谷","","Okegawa-shi","Kawataya",""]],
-	"3630028":[[11,"桶川市","下日出谷西","","Okegawa-shi","Shimohideya Nishi",""]]
+	"3630028":[[11,"桶川市","下日出谷西","","Okegawa-shi","Shimohideya Nishi",""]],
+	"3630029":[[11,"桶川市","下日出谷東","","Okegawa-shi","Shimohideya Higashi",""]]
 })

@@ -1,7 +1,7 @@
 zipdata({
 	"7660000":[[37,"仲多度郡琴平町","","","Kotohira-cho, Nakatado-gun","",""],[37,"仲多度郡まんのう町","","","Manno-cho, Nakatado-gun","",""]],
-	"7660001":[[37,"仲多度郡琴平町","琴平町","","Kotohira-cho, Nakatado-gun","Kotohiracho",""]],
-	"7660002":[[37,"仲多度郡琴平町","琴平町","","Kotohira-cho, Nakatado-gun","Kotohiracho",""]],
+	"7660001":[[37,"仲多度郡琴平町","琴平町の次に４２７番地以降がくる場","","Kotohira-cho, Nakatado-gun","Kotohirachonotsugini427-banchiikoga",""]],
+	"7660002":[[37,"仲多度郡琴平町","琴平町の次に１〜４２６番地がくる場","","Kotohira-cho, Nakatado-gun","Kotohirachonotsugini1-426-banchigak",""]],
 	"7660003":[[37,"仲多度郡琴平町","五條","","Kotohira-cho, Nakatado-gun","Gojo",""]],
 	"7660004":[[37,"仲多度郡琴平町","榎井","","Kotohira-cho, Nakatado-gun","Enai",""]],
 	"7660005":[[37,"仲多度郡琴平町","苗田","","Kotohira-cho, Nakatado-gun","Noda",""]],

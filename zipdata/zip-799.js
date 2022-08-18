@@ -125,7 +125,7 @@ zipdata({
 	"7991534":[[38,"今治市","桜井団地","","Imabari-shi","Sakuraidanchi",""]],
 	"7991535":[[38,"今治市","登畑","","Imabari-shi","Noboribata",""]],
 	"7991536":[[38,"今治市","旦","","Imabari-shi","Dan",""]],
-	"7991537":[[38,"今治市","宮ケ崎","","Imabari-shi","Miyagazaki",""]],
+	"7991537":[[38,"今治市","宮ヶ崎","","Imabari-shi","Miyagasaki",""]],
 	"7991601":[[38,"今治市","古谷","","Imabari-shi","Koya",""]],
 	"7991602":[[38,"今治市","山口","","Imabari-shi","Yamaguchi",""]],
 	"7991603":[[38,"今治市","朝倉下","","Imabari-shi","Asakurashimo",""]],
