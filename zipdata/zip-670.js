@@ -178,7 +178,7 @@ zipdata({
 	"6700940":[[28,"姫路市","三左衛門堀西の町","","Himeji-shi","Sanzaemombori Nishinomachi",""]],
 	"6700941":[[28,"姫路市","若菜町","","Himeji-shi","Wakanacho",""]],
 	"6700942":[[28,"姫路市","日出町","","Himeji-shi","Hinodecho",""]],
-	"6700943":[[28,"姫路市","市之郷町","","Himeji-shi","Ichinogocho",""]],
+	"6700943":[[28,"姫路市","市之郷","","Himeji-shi","Ichinogo",""],[28,"姫路市","市之郷町","","Himeji-shi","Ichinogocho",""]],
 	"6700944":[[28,"姫路市","阿保","","Himeji-shi","Abo",""]],
 	"6700945":[[28,"姫路市","北条梅原町","","Himeji-shi","Hojo Umeharacho",""]],
 	"6700946":[[28,"姫路市","北条永良町","","Himeji-shi","Hojo Nagaracho",""]],

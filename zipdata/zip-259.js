@@ -88,6 +88,7 @@ zipdata({
 	"2591145":[[14,"伊勢原市","板戸","","Isehara-shi","Itado",""]],
 	"2591146":[[14,"伊勢原市","鈴川","","Isehara-shi","Suzukawa",""]],
 	"2591147":[[14,"伊勢原市","白根","","Isehara-shi","Shirane",""]],
+	"2591148":[[14,"伊勢原市","下糟屋東","","Isehara-shi","Shimokasuyahigashi",""]],
 	"2591201":[[14,"平塚市","南金目","","Hiratsuka-shi","Minamikaname",""]],
 	"2591202":[[14,"平塚市","千須谷","","Hiratsuka-shi","Senzuya",""]],
 	"2591203":[[14,"平塚市","下吉沢","","Hiratsuka-shi","Shimokichisawa",""]],

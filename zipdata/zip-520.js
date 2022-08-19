@@ -512,6 +512,7 @@ zipdata({
 	"5203253":[[25,"湖南市","正福寺","","Konan-shi","Shofukuji",""]],
 	"5203254":[[25,"湖南市","岩根中央","","Konan-shi","Iwanechuo",""]],
 	"5203255":[[25,"湖南市","日枝山手台","","Konan-shi","Hieyamatedai",""]],
+	"5203256":[[25,"湖南市","日枝あおい","","Konan-shi","Hieaoi",""]],
 	"5203301":[[25,"甲賀市","甲南町寺庄","","Koka-shi","Konancho Terasho",""]],
 	"5203302":[[25,"甲賀市","甲南町池田","","Koka-shi","Konancho Ikeda",""]],
 	"5203303":[[25,"甲賀市","甲南町上馬杉","","Koka-shi","Konancho Kamimasugi",""]],

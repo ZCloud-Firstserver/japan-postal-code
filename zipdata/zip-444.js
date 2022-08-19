@@ -609,6 +609,7 @@ zipdata({
 	"4443525":[[23,"岡崎市","蓑川町","","Okazaki-shi","Minogawacho",""]],
 	"4443526":[[23,"岡崎市","蓑川新町","","Okazaki-shi","Minokawashimmachi",""]],
 	"4443527":[[23,"岡崎市","藤川荒古","","Okazaki-shi","Fujikawaarako",""]],
+	"4443528":[[23,"岡崎市","みはらし台","","Okazaki-shi","Miharashidai",""]],
 	"4443601":[[23,"岡崎市","石原町","","Okazaki-shi","Ishiharacho",""]],
 	"4443602":[[23,"岡崎市","東河原町","","Okazaki-shi","Higashikawaharacho",""]],
 	"4443603":[[23,"岡崎市","雨山町","","Okazaki-shi","Ameyamacho",""]],

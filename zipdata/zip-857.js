@@ -165,6 +165,7 @@ zipdata({
 	"8571164":[[42,"佐世保市","白岳町","","Sasebo-shi","Shiratakecho",""]],
 	"8571165":[[42,"佐世保市","大和町","","Sasebo-shi","Yamatocho",""]],
 	"8571166":[[42,"佐世保市","木風町","","Sasebo-shi","Kikazecho",""]],
+	"8571167":[[42,"佐世保市","ひうみ町","","Sasebo-shi","Hiumimachi",""]],
 	"8571171":[[42,"佐世保市","沖新町","","Sasebo-shi","Okishimmachi",""]],
 	"8571172":[[42,"佐世保市","東浜町","","Sasebo-shi","Higashihamacho",""]],
 	"8571173":[[42,"佐世保市","十郎新町","","Sasebo-shi","Juroshimmachi",""]],

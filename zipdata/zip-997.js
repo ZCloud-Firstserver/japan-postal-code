@@ -35,6 +35,8 @@ zipdata({
 	"9970035":[[6,"鶴岡市","馬場町","","Tsuruoka-shi","Babacho",""]],
 	"9970036":[[6,"鶴岡市","家中新町","","Tsuruoka-shi","Kachushimmachi",""]],
 	"9970037":[[6,"鶴岡市","若葉町","","Tsuruoka-shi","Wakabamachi",""]],
+	"9970038":[[6,"鶴岡市","北茅原町","","Tsuruoka-shi","Kitachiwaramachi",""]],
+	"9970039":[[6,"鶴岡市","西茅原町","","Tsuruoka-shi","Nishichiwaramachi",""]],
 	"9970041":[[6,"鶴岡市","城北町","","Tsuruoka-shi","Johokumachi",""]],
 	"9970042":[[6,"鶴岡市","新形町","","Tsuruoka-shi","Niigatamachi",""]],
 	"9970043":[[6,"鶴岡市","東新斎町","","Tsuruoka-shi","Higashishinsaimachi",""]],

@@ -64,6 +64,7 @@ zipdata({
 	"2970076":[[12,"茂原市","庄吉","","Mobara-shi","Shoyoshi",""]],
 	"2970077":[[12,"茂原市","真名","","Mobara-shi","Manna",""]],
 	"2970078":[[12,"茂原市","高師台","","Mobara-shi","Takashidai",""]],
+	"2970079":[[12,"茂原市","ゆたか","","Mobara-shi","Yutaka",""]],
 	"2970100":[[12,"長生郡長南町","","","Chonan-machi, Chosei-gun","",""]],
 	"2970101":[[12,"長生郡長南町","岩川","","Chonan-machi, Chosei-gun","Iwakawa",""]],
 	"2970102":[[12,"長生郡長南町","本台","","Chonan-machi, Chosei-gun","Motodai",""]],

@@ -22,7 +22,7 @@ zipdata({
 	"8820026":[[45,"延岡市","柚の木田町","","Nobeoka-shi","Yunokidamachi",""]],
 	"8820027":[[45,"延岡市","大門町","","Nobeoka-shi","Okadomachi",""]],
 	"8820031":[[45,"延岡市","中川原町","","Nobeoka-shi","Nakagawaramachi",""]],
-	"8820032":[[45,"延岡市","中の瀬町","","Nobeoka-shi","Nakanosecho",""]],
+	"8820032":[[45,"延岡市","中の瀬町","","Nobeoka-shi","Nakanosemachi",""]],
 	"8820033":[[45,"延岡市","川原崎町","","Nobeoka-shi","Kawarasakimachi",""]],
 	"8820034":[[45,"延岡市","昭和町","","Nobeoka-shi","Showamachi",""]],
 	"8820035":[[45,"延岡市","日の出町","","Nobeoka-shi","Hinodemachi",""]],

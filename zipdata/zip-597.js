@@ -44,7 +44,7 @@ zipdata({
 	"5970093":[[27,"貝塚市","二色中町","","Kaizuka-shi","Nishiki Nakamachi",""]],
 	"5970094":[[27,"貝塚市","二色南町","","Kaizuka-shi","Nishiki Minamimachi",""]],
 	"5970095":[[27,"貝塚市","港","","Kaizuka-shi","Minato",""]],
-	"5970101":[[27,"貝塚市","三ケ山","","Kaizuka-shi","Mikeyama",""]],
+	"5970101":[[27,"貝塚市","三ケ山","","Kaizuka-shi","Mikayama",""]],
 	"5970102":[[27,"貝塚市","木積","","Kaizuka-shi","Kotsumi",""]],
 	"5970103":[[27,"貝塚市","馬場","","Kaizuka-shi","Baba",""]],
 	"5970104":[[27,"貝塚市","水間","","Kaizuka-shi","Mizuma",""]],

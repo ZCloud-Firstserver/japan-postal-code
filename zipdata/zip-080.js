@@ -119,6 +119,7 @@ zipdata({
 	"0800343":[[1,"河東郡音更町","東士狩","","Otofuke-cho, Kato-gun","Higashishikari",""]],
 	"0800344":[[1,"河東郡音更町","万年","","Otofuke-cho, Kato-gun","Mannen",""]],
 	"0800345":[[1,"河東郡音更町","高倉","","Otofuke-cho, Kato-gun","Takakura",""]],
+	"0800346":[[1,"河東郡音更町","なつぞら","","Otofuke-cho, Kato-gun","Natsuzora",""]],
 	"0800351":[[1,"河東郡音更町","然別","","Otofuke-cho, Kato-gun","Shikaribetsu",""]],
 	"0800361":[[1,"河東郡音更町","すずらん台北町","","Otofuke-cho, Kato-gun","Suzurandaikitamachi",""]],
 	"0800362":[[1,"河東郡音更町","すずらん台仲町","","Otofuke-cho, Kato-gun","Suzurandainakamachi",""]],

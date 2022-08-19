@@ -75,5 +75,6 @@ zipdata({
 	"7830093":[[39,"南国市","物部","","Nankoku-shi","Monobe",""]],
 	"7830094":[[39,"南国市","前浜","","Nankoku-shi","Maehama",""]],
 	"7830095":[[39,"南国市","下島","","Nankoku-shi","Shimojima",""]],
-	"7830096":[[39,"南国市","久枝","","Nankoku-shi","Hisaeda",""]]
+	"7830096":[[39,"南国市","久枝","","Nankoku-shi","Hisaeda",""]],
+	"7830097":[[39,"南国市","日章あけぼの","","Nankoku-shi","Nisshoakebono",""]]
 })

@@ -132,7 +132,7 @@ zipdata({
 	"6391131":[[29,"大和郡山市","野垣内町","","Yamatokoriyama-shi","Nogaitocho",""]],
 	"6391132":[[29,"大和郡山市","高田町","","Yamatokoriyama-shi","Takadacho",""]],
 	"6391133":[[29,"大和郡山市","高田口町","","Yamatokoriyama-shi","Takadaguchicho",""]],
-	"6391134":[[29,"大和郡山市","柳","","Yamatokoriyama-shi","Yanagi",""]],
+	"6391134":[[29,"大和郡山市","柳","","Yamatokoriyama-shi","Yanagi",""],[29,"大和郡山市","柳町","","Yamatokoriyama-shi","Yanagimachi",""]],
 	"6391135":[[29,"大和郡山市","天井町","","Yamatokoriyama-shi","Tenjocho",""]],
 	"6391136":[[29,"大和郡山市","本庄町","","Yamatokoriyama-shi","Honjocho",""]],
 	"6391137":[[29,"大和郡山市","東岡町","","Yamatokoriyama-shi","Higashiokacho",""]],
