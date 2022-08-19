@@ -238,7 +238,7 @@ zipdata({
 	"9692661":[[7,"耶麻郡猪苗代町","三郷","","Inawashiro-machi, Yama-gun","Misato",""]],
 	"9692662":[[7,"耶麻郡猪苗代町","八幡","","Inawashiro-machi, Yama-gun","Yahata",""]],
 	"9692663":[[7,"耶麻郡猪苗代町","川桁","","Inawashiro-machi, Yama-gun","Kawageta",""]],
-	"9692701":[[7,"耶麻郡北塩原村","桧原","","Kitashiobara-mura, Yama-gun","Hibara",""],[7,"耶麻郡北塩原村","狐鷹森、五色沼、甚九郎沢山、甚九郎","","Kitashiobara-mura, Yama-gun","Kotakamori.goshikinuma.jinkurosaway",""],[7,"耶麻郡北塩原村","簗部沢山）","","Kitashiobara-mura, Yama-gun","Yanabesawayama)",""]],
+	"9692701":[[7,"耶麻郡北塩原村","桧原","","Kitashiobara-mura, Yama-gun","Hibara",""],[7,"耶麻郡北塩原村","","","Kitashiobara-mura, Yama-gun","",""],[7,"耶麻郡北塩原村","簗部沢山","","Kitashiobara-mura, Yama-gun","Yanabesawayama",""]],
 	"9692751":[[7,"耶麻郡猪苗代町","若宮","","Inawashiro-machi, Yama-gun","Wakamiya",""]],
 	"9692752":[[7,"耶麻郡猪苗代町","蚕養","","Inawashiro-machi, Yama-gun","Kogai",""]],
 	"9693100":[[7,"耶麻郡猪苗代町","","","Inawashiro-machi, Yama-gun","",""]],
