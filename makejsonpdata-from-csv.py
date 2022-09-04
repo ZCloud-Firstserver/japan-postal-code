@@ -117,7 +117,7 @@ def normalize_city_en(city_ro):
     city_en = ', '.join(sections)
     return city_en
 
-def normalize_area_ja(area_ja):
+def normalize_area_ja(area_ja, main_area_ja):
     u""" Normalize japanese area name
     >>> normalize_area_ja('以下に掲載がない場合')
     ''
@@ -127,9 +127,15 @@ def normalize_area_ja(area_ja):
     角館町薗田
     """
     if area_ja == '以下に掲載がない場合': return ''
+    if re.search(r'の次に.*がくる', area_ja): return ''
+    if re.search(r'^[^（]*）$', area_ja): return main_area_ja
+    if re.search(r'^[^（]*、[^（]*）$', area_ja): return main_area_ja
+    if main_area_ja and '（' not in area_ja and '、' in area_ja: return main_area_ja
     words = re.sub(r'（([０-９]+階)）', r'\1', area_ja)
-    words = re.sub(r'（.*', '', words)
-    return words.replace('　', '')
+    words = re.sub(r'（.*$', '', words)
+    words = words.replace('　', '')
+
+    return words
 
 def normalize_area_en(area_ro):
     """ Normalize english area name
@@ -140,9 +146,8 @@ def normalize_area_en(area_ro):
     >>> normalize_area_en('KAKUNODATEMACHI SONODA')
     'Kakunodatemachi Sonoda'
     """
-    if area_ro == 'IKANIKEISAIGANAIBAAI': return ''
     words = re.sub(r'\((\d+)-KAI\)', r' \1F', area_ro)
-    words = re.sub(r'\(.*', '', words)
+    words = re.sub(r'\(.*$', '', words)
     words = words.split(' ')
     words = map(lambda word: word.capitalize(), words)
     return ' '.join(words)
@@ -175,17 +180,47 @@ def loadAddresses(file_name):
             prefecture_en = normalize_prefecture_en(prefecture_ro)
             city_ja = normalize_city_ja(city_ja)
             city_en = normalize_city_en(city_ro)
-            area_ja = normalize_area_ja(area_ja)
-            area_en = normalize_area_en(area_ro)
+
+            if postalcode3 in addresses and postalcode in addresses[postalcode3]:
+                main_area_ja = addresses[postalcode3][postalcode][0][3]
+                main_area_en = addresses[postalcode3][postalcode][0][6]
+            else:
+                main_area_ja = ''
+                main_area_en = ''
+
+            area_ja = normalize_area_ja(area_ja, main_area_ja)
+
+            if main_area_ja == area_ja:
+                area_en = main_area_en
+            else:
+                area_en = normalize_area_en(area_ro)
+
+            # 日本郵便株式会社提供データのローマ字表記は、以下の「ローマ字変換仕様」に基づき変換されている。
+            # https://www.post.japanpost.jp/zipcode/dl/roman_shiyou.pdf
+            #
+            # 国土地理院の「地名等の英語表記規程」では、以下のとおりとなっており、
+            # こちらのほうが一般的に通用しているローマ字表記と思われる。
+            # > 表音のローマ字表記が「ou」「oo」「uu」となるときに、対応する元の漢字が一文字の場合には
+            # > それぞれ「o」「o」「u」に短縮するが、二文字に分かれる場合には短縮しない。
+            # > ただし、短縮する表記が通用している場合には、短縮してもよい。
+            # https://www.gsi.go.jp/common/000138865.pdf
+            #
+            # そのため、暫定的に、例外ルールとして定義していくこととする。
+
+            if postalcode in ['6800034', '7080061'] and area_ja == '元魚町' and area_en == 'Motoomachi':
+                area_en = 'Motouomachi'
+
+            if postalcode == '8171223' and area_ja == '豊玉町横浦' and area_en == 'Toyotamamachi Yokora':
+                area_en = 'Toyotamamachi Yokoura'
 
             address = [postalcode, prefecture_id, city_ja, area_ja, street_ja, city_en, area_en, street_en]
-
             # print "%-90s          %-s" % (address_in_english(address), address_in_japanese(address))
 
             if postalcode3 not in addresses: addresses[postalcode3] = {}
             if postalcode  not in addresses[postalcode3]: addresses[postalcode3][postalcode] = []
 
-            addresses[postalcode3][postalcode].append(address)
+            if address not in addresses[postalcode3][postalcode]:
+                addresses[postalcode3][postalcode].append(address)
 
     return addresses
 
