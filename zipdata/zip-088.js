@@ -308,7 +308,7 @@ zipdata({
 	"0882683":[[1,"標津郡中標津町","上標津","","Nakashibetsu-cho, Shibetsu-gun","Kamishibetsu",""]],
 	"0882684":[[1,"標津郡中標津町","養老牛","","Nakashibetsu-cho, Shibetsu-gun","Yoroushi",""]],
 	"0882685":[[1,"標津郡中標津町","西竹","","Nakashibetsu-cho, Shibetsu-gun","Nishitake",""]],
-	"0882686":[[1,"標津郡中標津町","俣落","","Nakashibetsu-cho, Shibetsu-gun","Mataochi",""],[1,"標津郡中標津町","１８９６−２、１８９６−３、１９０","","Nakashibetsu-cho, Shibetsu-gun","1896-2.1896-3.1906-8.1932-2.1936.",""],[1,"標津郡中標津町","１９３６−２、１９５１−２、１９５","","Nakashibetsu-cho, Shibetsu-gun","1936-2.1951-2.1956-2.1967-2.1980-2.",""],[1,"標津郡中標津町","１９９７−３、２０００−２、２００","","Nakashibetsu-cho, Shibetsu-gun","1997-3.2000-2.2000-8.2003.2015-4.",""],[1,"標津郡中標津町","２０２３−２、２０３８−２、２２５","","Nakashibetsu-cho, Shibetsu-gun","2023-2.2038-2.2253-2.2253-5.2253-21",""],[1,"標津郡中標津町","２２５３−２４、２２５３−３５、２","","Nakashibetsu-cho, Shibetsu-gun","2253-24.2253-35.2253-63)",""]],
+	"0882686":[[1,"標津郡中標津町","俣落","","Nakashibetsu-cho, Shibetsu-gun","Mataochi",""]],
 	"0882721":[[1,"野付郡別海町","上春別緑町","","Betsukai-cho, Notsuke-gun","Kamishumbetsumidoricho",""]],
 	"0882722":[[1,"野付郡別海町","上春別旭町","","Betsukai-cho, Notsuke-gun","Kamishumbetsuasahicho",""]],
 	"0882723":[[1,"野付郡別海町","上春別南町","","Betsukai-cho, Notsuke-gun","Kamishumbetsuminamicho",""]],

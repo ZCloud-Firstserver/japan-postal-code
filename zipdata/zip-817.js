@@ -62,7 +62,7 @@ zipdata({
 	"8171212":[[42,"対馬市","豊玉町曽","","Tsushima-shi","Toyotamamachi So",""]],
 	"8171213":[[42,"対馬市","豊玉町千尋藻","","Tsushima-shi","Toyotamamachi Chiromo",""]],
 	"8171214":[[42,"対馬市","豊玉町鑓川","","Tsushima-shi","Toyotamamachi Yarikawa",""]],
-	"8171223":[[42,"対馬市","豊玉町横浦","","Tsushima-shi","Toyotamamachi Yokora",""]],
+	"8171223":[[42,"対馬市","豊玉町横浦","","Tsushima-shi","Toyotamamachi Yokoura",""]],
 	"8171231":[[42,"対馬市","豊玉町糸瀬","","Tsushima-shi","Toyotamamachi Itose",""]],
 	"8171232":[[42,"対馬市","豊玉町嵯峨","","Tsushima-shi","Toyotamamachi Saga",""]],
 	"8171233":[[42,"対馬市","豊玉町貝鮒","","Tsushima-shi","Toyotamamachi Kaifuna",""]],

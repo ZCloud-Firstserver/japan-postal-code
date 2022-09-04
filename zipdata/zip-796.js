@@ -67,7 +67,7 @@ zipdata({
 	"7960085":[[38,"八幡浜市","天神通","","Yawatahama-shi","Tenjindori",""]],
 	"7960086":[[38,"八幡浜市","旭町","","Yawatahama-shi","Asahimachi",""]],
 	"7960087":[[38,"八幡浜市","沖新田","","Yawatahama-shi","Okishinden",""]],
-	"7960088":[[38,"八幡浜市","八幡浜市の次に番地がくる場合","","Yawatahama-shi","Yawatahamashinotsuginibanchigakurub",""]],
+	"7960088":[[38,"八幡浜市","","","Yawatahama-shi","",""]],
 	"7960089":[[38,"八幡浜市","出島","","Yawatahama-shi","Dejima",""]],
 	"7960111":[[38,"八幡浜市","保内町喜木","","Yawatahama-shi","Honaicho Kiki",""]],
 	"7960112":[[38,"八幡浜市","保内町須川","","Yawatahama-shi","Honaicho Sugawa",""]],

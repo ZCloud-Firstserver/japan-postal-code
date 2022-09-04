@@ -41,7 +41,7 @@ zipdata({
 	"6510097":[[28,"神戸市中央区","布引町","","Chuo-ku, Kobe-shi","Nunobikicho",""]],
 	"6511100":[[28,"神戸市北区","","","Kita-ku, Kobe-shi","",""]],
 	"6511101":[[28,"神戸市北区","山田町小部","","Kita-ku, Kobe-shi","Yamadacho Obu",""]],
-	"6511102":[[28,"神戸市北区","山田町下谷上","","Kita-ku, Kobe-shi","Yamadachoshimotanigami",""],[28,"神戸市北区","長尾山、再度公園）","","Kita-ku, Kobe-shi","Nagaoyama.futatabikoen)",""]],
+	"6511102":[[28,"神戸市北区","山田町下谷上","","Kita-ku, Kobe-shi","Yamadachoshimotanigami",""]],
 	"6511103":[[28,"神戸市北区","中里町","","Kita-ku, Kobe-shi","Nakazatocho",""]],
 	"6511104":[[28,"神戸市北区","山田町藍那","","Kita-ku, Kobe-shi","Yamadachoaina",""]],
 	"6511105":[[28,"神戸市北区","山田町小河","","Kita-ku, Kobe-shi","Yamadacho Ogo",""]],

@@ -30,7 +30,7 @@ zipdata({
 	"9218043":[[17,"金沢市","西泉","","Kanazawa-shi","Nishiizumi",""]],
 	"9218044":[[17,"金沢市","米泉町","","Kanazawa-shi","Yonaizumimachi",""]],
 	"9218045":[[17,"金沢市","大桑","","Kanazawa-shi","Okuwa",""]],
-	"9218046":[[17,"金沢市","大桑町","","Kanazawa-shi","Okuwamachi",""],[17,"金沢市","ク、ケ、御所谷、小寺山、シ、下上野","","Kanazawa-shi","Ku.ke.goshogadani.koderayama.shi.sh",""],[17,"金沢市","中上野、中尾山、中平、中ノ大平、西","","Kanazawa-shi","Nakaueno.nakaoyama.nakadaira.nakano",""],[17,"金沢市","法師山、坊山、マ、鱒川淵、ム、元末","","Kanazawa-shi","Hoshiyama.boyama.ma.masukawabuchi.m",""],[17,"金沢市","レ甲、ロ乙、ロ甲、和）","","Kanazawa-shi","Reko.rotsu.roko.wa)",""],[17,"金沢市","三小牛町","","Kanazawa-shi","Mitsukojimachi",""]],
+	"9218046":[[17,"金沢市","大桑町","","Kanazawa-shi","Okuwamachi",""],[17,"金沢市","三小牛町","","Kanazawa-shi","Mitsukojimachi",""]],
 	"9218047":[[17,"金沢市","大豆田本町","","Kanazawa-shi","Mamedahommachi",""]],
 	"9218051":[[17,"金沢市","黒田","","Kanazawa-shi","Kuroda",""]],
 	"9218052":[[17,"金沢市","保古","","Kanazawa-shi","Hogo",""]],

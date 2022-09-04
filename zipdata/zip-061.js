@@ -301,7 +301,7 @@ zipdata({
 	"0613771":[[1,"石狩郡当別町","高岡","","Tobetsu-cho, Ishikari-gun","Takaoka",""]],
 	"0613772":[[1,"石狩郡当別町","獅子内","","Tobetsu-cho, Ishikari-gun","Shishinai",""]],
 	"0613773":[[1,"石狩郡当別町","当別太","","Tobetsu-cho, Ishikari-gun","Tobetsubuto",""]],
-	"0613774":[[1,"石狩郡当別町","川下","","Tobetsu-cho, Ishikari-gun","Kawashimo",""],[1,"石狩郡当別町","−４、５４０７−５、５４４５〜５４","","Tobetsu-cho, Ishikari-gun","-4.5407-5.5445-5446-4-banchi)",""]],
+	"0613774":[[1,"石狩郡当別町","川下","","Tobetsu-cho, Ishikari-gun","Kawashimo",""]],
 	"0613775":[[1,"石狩郡当別町","ビトエ","","Tobetsu-cho, Ishikari-gun","Bitoe",""]],
 	"0613776":[[1,"石狩郡当別町","太美町","","Tobetsu-cho, Ishikari-gun","Futomicho",""]],
 	"0613777":[[1,"石狩郡当別町","スウェーデンヒルズ","","Tobetsu-cho, Ishikari-gun","Suedenhiruzu",""]],

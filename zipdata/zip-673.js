@@ -10,7 +10,7 @@ zipdata({
 	"6730008":[[28,"明石市","沢野","","Akashi-shi","Sawano",""]],
 	"6730009":[[28,"明石市","西明石東町","","Akashi-shi","Nishiakashi Higashimachi",""]],
 	"6730011":[[28,"明石市","西明石町","","Akashi-shi","Nishiakashicho",""]],
-	"6730012":[[28,"明石市","和坂","","Akashi-shi","Kanigasaka",""],[28,"明石市","和坂","","Akashi-shi","Wasaka",""]],
+	"6730012":[[28,"明石市","和坂","","Akashi-shi","Kanigasaka",""]],
 	"6730013":[[28,"明石市","和坂稲荷町","","Akashi-shi","Wasakainaricho",""]],
 	"6730014":[[28,"明石市","川崎町","","Akashi-shi","Kawasakicho",""]],
 	"6730015":[[28,"明石市","花園町","","Akashi-shi","Hanazonocho",""]],

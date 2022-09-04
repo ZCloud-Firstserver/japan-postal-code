@@ -64,7 +64,7 @@ zipdata({
 	"0741182":[[1,"旭川市","神居町豊里","","Asahikawa-shi","Kamuicho Toyosato",""]],
 	"0741271":[[1,"深川市","音江町","","Fukagawa-shi","Otoecho",""],[1,"深川市","広里町","","Fukagawa-shi","Hirosatocho",""]],
 	"0741272":[[1,"深川市","音江町","","Fukagawa-shi","Otoecho",""]],
-	"0741273":[[1,"深川市","音江町","","Fukagawa-shi","Otoecho",""],[1,"深川市","音江町","","Fukagawa-shi","Otoecho",""]],
+	"0741273":[[1,"深川市","音江町","","Fukagawa-shi","Otoecho",""]],
 	"0741274":[[1,"深川市","音江町","","Fukagawa-shi","Otoecho",""]],
 	"0741275":[[1,"深川市","音江町","","Fukagawa-shi","Otoecho",""]],
 	"0741276":[[1,"深川市","音江町","","Fukagawa-shi","Otoecho",""]]

@@ -71,7 +71,7 @@ zipdata({
 	"9380105":[[16,"下新川郡入善町","中沢","","Nyuzen-machi, Shimoniikawa-gun","Nakazawa",""]],
 	"9380106":[[16,"下新川郡入善町","野中","","Nyuzen-machi, Shimoniikawa-gun","Nonaka",""]],
 	"9380161":[[16,"下新川郡朝日町","殿町","","Asahi-machi, Shimoniikawa-gun","Tonomachi",""]],
-	"9380162":[[16,"下新川郡朝日町","山崎","","Asahi-machi, Shimoniikawa-gun","Yamazaki",""],[16,"下新川郡朝日町","山崎","","Asahi-machi, Shimoniikawa-gun","Yamazaki",""],[16,"下新川郡朝日町","山崎","","Asahi-machi, Shimoniikawa-gun","Yamazaki",""],[16,"下新川郡朝日町","山崎","","Asahi-machi, Shimoniikawa-gun","Yamazaki",""],[16,"下新川郡朝日町","山崎","","Asahi-machi, Shimoniikawa-gun","Yamazaki",""],[16,"下新川郡朝日町","山崎","","Asahi-machi, Shimoniikawa-gun","Yamazaki",""],[16,"下新川郡朝日町","山崎","","Asahi-machi, Shimoniikawa-gun","Yamazaki",""],[16,"下新川郡朝日町","山崎","","Asahi-machi, Shimoniikawa-gun","Yamazaki",""]],
+	"9380162":[[16,"下新川郡朝日町","山崎","","Asahi-machi, Shimoniikawa-gun","Yamazaki",""]],
 	"9380163":[[16,"下新川郡朝日町","湯ノ瀬","","Asahi-machi, Shimoniikawa-gun","Yunose",""]],
 	"9380164":[[16,"下新川郡朝日町","棚山","","Asahi-machi, Shimoniikawa-gun","Tanayama",""]],
 	"9380165":[[16,"下新川郡朝日町","山崎新","","Asahi-machi, Shimoniikawa-gun","Yamazakishin",""]],

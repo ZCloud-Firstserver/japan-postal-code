@@ -337,7 +337,7 @@ zipdata({
 	"4418021":[[23,"豊橋市","白河町","","Toyohashi-shi","Shirakawacho",""]],
 	"4418022":[[23,"豊橋市","野黒町","","Toyohashi-shi","Nogurocho",""]],
 	"4418023":[[23,"豊橋市","八通町","","Toyohashi-shi","Yatoricho",""]],
-	"4418024":[[23,"豊橋市","花田町","","Toyohashi-shi","Hanadacho",""],[23,"豊橋市","花田町","","Toyohashi-shi","Hanadacho",""],[23,"豊橋市","花田町","","Toyohashi-shi","Hanadacho",""]],
+	"4418024":[[23,"豊橋市","花田町","","Toyohashi-shi","Hanadacho",""]],
 	"4418025":[[23,"豊橋市","羽根井町","","Toyohashi-shi","Haneicho",""]],
 	"4418026":[[23,"豊橋市","羽根井西町","","Toyohashi-shi","Hanei Nishimachi",""]],
 	"4418027":[[23,"豊橋市","錦町","","Toyohashi-shi","Nishikimachi",""]],
@@ -438,6 +438,6 @@ zipdata({
 	"4418153":[[23,"豊橋市","高師本郷町","","Toyohashi-shi","Takashi Hongocho",""]],
 	"4418154":[[23,"豊橋市","西高師町","","Toyohashi-shi","Nishitakashicho",""]],
 	"4418155":[[23,"豊橋市","芦原町","","Toyohashi-shi","Ashiharacho",""]],
-	"4418156":[[23,"豊橋市","高師町","","Toyohashi-shi","Takashicho",""],[23,"豊橋市","高師町","","Toyohashi-shi","Takashicho",""],[23,"豊橋市","高師町","","Toyohashi-shi","Takashicho",""],[23,"豊橋市","高師町","","Toyohashi-shi","Takashicho",""]],
+	"4418156":[[23,"豊橋市","高師町","","Toyohashi-shi","Takashicho",""]],
 	"4418157":[[23,"豊橋市","上野町","","Toyohashi-shi","Uenocho",""]]
 })

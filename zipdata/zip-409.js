@@ -79,7 +79,7 @@ zipdata({
 	"4091314":[[19,"甲州市","勝沼町藤井","","Koshu-shi","Katsunumacho Fujii",""]],
 	"4091315":[[19,"甲州市","勝沼町等々力","","Koshu-shi","Katsunumacho Todoroki",""]],
 	"4091316":[[19,"甲州市","勝沼町勝沼","","Koshu-shi","Katsunumacho Katsunuma",""]],
-	"4091321":[[19,"甲州市","塩山牛奥","","Koshu-shi","Enzan Ushioku",""],[19,"甲州市","−２、５２８９−１５）","","Koshu-shi","-2.5289-15)",""]],
+	"4091321":[[19,"甲州市","塩山牛奥","","Koshu-shi","Enzan Ushioku",""]],
 	"4091501":[[19,"北杜市","大泉町西井出","","Hokuto-shi","Oizumichonishiide",""]],
 	"4091502":[[19,"北杜市","大泉町谷戸","","Hokuto-shi","Oizumicho Yato",""]],
 	"4092100":[[19,"南巨摩郡南部町","","","Nambu-cho, Minamikoma-gun","",""]],

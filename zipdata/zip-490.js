@@ -55,7 +55,7 @@ zipdata({
 	"4901315":[[23,"稲沢市","平和町平池","","Inazawa-shi","Heiwacho Hiraike",""]],
 	"4901321":[[23,"稲沢市","平和町東城","","Inazawa-shi","Heiwacho Tojo",""]],
 	"4901322":[[23,"稲沢市","平和町","","Inazawa-shi","Heiwacho",""]],
-	"4901323":[[23,"稲沢市","平和町","","Inazawa-shi","Heiwacho",""],[23,"稲沢市","城之内、須ケ脇、那古良、平六、前平","","Inazawa-shi","Shironochi.sukawaki.nakora.heiroku.",""]],
+	"4901323":[[23,"稲沢市","平和町","","Inazawa-shi","Heiwacho",""]],
 	"4901400":[[23,"海部郡飛島村","","","Tobishima-mura, Ama-gun","",""]],
 	"4901401":[[23,"弥富市","六條町","","Yatomi-shi","Rokujocho",""]],
 	"4901402":[[23,"弥富市","五斗山","","Yatomi-shi","Gotoyama",""]],

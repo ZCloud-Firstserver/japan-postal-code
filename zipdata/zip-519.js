@@ -409,7 +409,7 @@ zipdata({
 	"5195201":[[24,"南牟婁郡御浜町","神木","","Mihama-cho, Minamimuro-gun","Konogi",""]],
 	"5195202":[[24,"南牟婁郡御浜町","志原","","Mihama-cho, Minamimuro-gun","Shiwara",""]],
 	"5195203":[[24,"南牟婁郡御浜町","下市木","","Mihama-cho, Minamimuro-gun","Shimoichigi",""],[24,"南牟婁郡御浜町","萩内","","Mihama-cho, Minamimuro-gun","Hagiuchi",""]],
-	"5195204":[[24,"南牟婁郡御浜町","阿田和","","Mihama-cho, Minamimuro-gun","Atawa",""],[24,"南牟婁郡御浜町","阿田和","","Mihama-cho, Minamimuro-gun","Atawa ",""],[24,"南牟婁郡御浜町","山地","","Mihama-cho, Minamimuro-gun","Yamaji",""]],
+	"5195204":[[24,"南牟婁郡御浜町","阿田和","","Mihama-cho, Minamimuro-gun","Atawa",""],[24,"南牟婁郡御浜町","山地","","Mihama-cho, Minamimuro-gun","Yamaji",""]],
 	"5195205":[[24,"南牟婁郡御浜町","引作","","Mihama-cho, Minamimuro-gun","Hikitsukuri",""]],
 	"5195206":[[24,"南牟婁郡御浜町","柿原","","Mihama-cho, Minamimuro-gun","Kakihara",""]],
 	"5195211":[[24,"南牟婁郡御浜町","上市木","","Mihama-cho, Minamimuro-gun","Kamiichigi",""]],

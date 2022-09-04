@@ -59,7 +59,7 @@ zipdata({
 	"6060065":[[26,"京都市左京区","上高野八幡町","","Sakyo-ku, Kyoto-shi","Kamitakano Hachimancho",""]],
 	"6060066":[[26,"京都市左京区","上高野水車町","","Sakyo-ku, Kyoto-shi","Kamitakano Suishacho",""]],
 	"6060067":[[26,"京都市左京区","上高野東山","","Sakyo-ku, Kyoto-shi","Kamitakanohigashiyama",""]],
-	"6060068":[[26,"京都市左京区","八瀬野瀬町","","Sakyo-ku, Kyoto-shi","Yasenosecho",""],[26,"京都市左京区","〜１８、２０〜２２、２４〜２６、３","","Sakyo-ku, Kyoto-shi","-18.20-22.24-26.32.287.300-banchi)",""]],
+	"6060068":[[26,"京都市左京区","八瀬野瀬町","","Sakyo-ku, Kyoto-shi","Yasenosecho",""]],
 	"6060071":[[26,"京都市左京区","上高野防山","","Sakyo-ku, Kyoto-shi","Kamitakano Boyama",""]],
 	"6060072":[[26,"京都市左京区","上高野掃部林町","","Sakyo-ku, Kyoto-shi","Kamitakano Kamonhayashicho",""]],
 	"6060073":[[26,"京都市左京区","上高野釜土町","","Sakyo-ku, Kyoto-shi","Kamitakano Kamatsuchicho",""]],

@@ -47,5 +47,5 @@ zipdata({
 	"9960211":[[6,"最上郡大蔵村","合海","","Okura-mura, Mogami-gun","Aikai",""]],
 	"9960212":[[6,"最上郡大蔵村","清水","","Okura-mura, Mogami-gun","Shimizu",""]],
 	"9960213":[[6,"最上郡大蔵村","赤松","","Okura-mura, Mogami-gun","Akamatsu",""]],
-	"9960301":[[6,"最上郡大蔵村","南山","","Okura-mura, Mogami-gun","Minamiyama",""],[6,"最上郡大蔵村","１９２３−５を除く」、大谷地、折渡","","Okura-mura, Mogami-gun","1923-5-onozoku>.oyachi.oriwatari.ka",""],[6,"最上郡大蔵村","肘折、平林）","","Okura-mura, Mogami-gun","Hijiori.hirabayashi)",""]]
+	"9960301":[[6,"最上郡大蔵村","南山","","Okura-mura, Mogami-gun","Minamiyama",""]]
 })

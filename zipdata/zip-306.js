@@ -127,7 +127,7 @@ zipdata({
 	"3060427":[[8,"猿島郡境町","浦向","","Sakai-machi, Sashima-gun","Uramuko",""]],
 	"3060431":[[8,"猿島郡境町","西泉田","","Sakai-machi, Sashima-gun","Nishiizumida",""]],
 	"3060432":[[8,"猿島郡境町","下小橋","","Sakai-machi, Sashima-gun","Shimokobashi",""]],
-	"3060433":[[8,"猿島郡境町","境町の次に番地がくる場合","","Sakai-machi, Sashima-gun","Sakaimachinotsuginibanchigakurubaai",""]],
+	"3060433":[[8,"猿島郡境町","","","Sakai-machi, Sashima-gun","",""]],
 	"3060434":[[8,"猿島郡境町","上小橋","","Sakai-machi, Sashima-gun","Kamikobashi",""]],
 	"3060435":[[8,"猿島郡境町","陽光台","","Sakai-machi, Sashima-gun","Yokodai",""]],
 	"3060501":[[8,"坂東市","逆井","","Bando-shi","Sakasai",""]],

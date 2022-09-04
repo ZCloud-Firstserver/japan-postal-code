@@ -46,5 +46,5 @@ zipdata({
 	"9910064":[[6,"寒河江市","平塩","","Sagae-shi","Hirashio",""]],
 	"9910065":[[6,"寒河江市","中郷","","Sagae-shi","Nakago",""]],
 	"9910066":[[6,"寒河江市","松川","","Sagae-shi","Matsukawa",""]],
-	"9910801":[[6,"西村山郡大江町","左沢","","Oe-machi, Nishimurayama-gun","Aterazawa",""],[6,"西村山郡大江町","２２５７−２８、２３１６〜２３１８","","Oe-machi, Nishimurayama-gun","2257-28.2316-2318.2430-1-2431-75)",""]]
+	"9910801":[[6,"西村山郡大江町","左沢","","Oe-machi, Nishimurayama-gun","Aterazawa",""]]
 })

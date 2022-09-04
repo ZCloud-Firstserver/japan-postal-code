@@ -57,7 +57,7 @@ zipdata({
 	"8631215":[[43,"天草市","河浦町白木河内","","Amakusa-shi","Kawauramachi Shirakikawachi",""]],
 	"8631216":[[43,"天草市","河浦町新合","","Amakusa-shi","Kawauramachi Shingo",""]],
 	"8631401":[[43,"天草市","天草町大江向","","Amakusa-shi","Amakusamachi Oemuko",""]],
-	"8631403":[[43,"天草市","河浦町今富","","Amakusa-shi","Kawauramachi Imatomi",""],[43,"天草市","１９７０、１９７４、１９７６、１９","","Amakusa-shi","1970.1974.1976.1983.1988-3.1990-5.",""],[43,"天草市","２００３、２０５１）","","Amakusa-shi","2003.2051)",""]],
+	"8631403":[[43,"天草市","河浦町今富","","Amakusa-shi","Kawauramachi Imatomi",""]],
 	"8631404":[[43,"天草市","河浦町崎津","","Amakusa-shi","Kawauramachi Sakitsu",""]],
 	"8631431":[[43,"天草市","二浦町早浦","","Amakusa-shi","Futauramachi Hayaura",""]],
 	"8631432":[[43,"天草市","二浦町亀浦","","Amakusa-shi","Futauramachi Kameura",""]],

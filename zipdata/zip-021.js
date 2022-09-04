@@ -37,7 +37,7 @@ zipdata({
 	"0210063":[[3,"一関市","山目","","Ichinoseki-shi","Yamanome",""]],
 	"0210064":[[3,"一関市","山目","","Ichinoseki-shi","Yamanome",""]],
 	"0210101":[[3,"一関市","厳美町","","Ichinoseki-shi","Gembicho",""]],
-	"0210102":[[3,"一関市","萩荘","","Ichinoseki-shi","Hagisho",""],[3,"一関市","坂、三月田、下宇津野、下本郷、外山","","Ichinoseki-shi","Zaka.sangatsuda.shimotsuno.shimohon",""],[3,"一関市","八森、馬場、広面、平場、古釜場、曲","","Ichinoseki-shi","Hachimori.baba.hiromote.hiraba.furu",""],[3,"一関市","八幡、山ノ沢）","","Ichinoseki-shi","Yahata.yamanosawa)",""]],
+	"0210102":[[3,"一関市","萩荘","","Ichinoseki-shi","Hagisho",""]],
 	"0210221":[[3,"一関市","舞川","","Ichinoseki-shi","Maikawa",""]],
 	"0210801":[[3,"一関市","桜街","","Ichinoseki-shi","Sakurakoji",""]],
 	"0210802":[[3,"一関市","北十軒街","","Ichinoseki-shi","Kitajukkenkoji",""]],

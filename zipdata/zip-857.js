@@ -213,7 +213,7 @@ zipdata({
 	"8572424":[[42,"西海市","大島町塩田","","Saikai-shi","Oshimachoshioda",""]],
 	"8572425":[[42,"西海市","大島町田浦","","Saikai-shi","Oshimachotanora",""]],
 	"8572426":[[42,"西海市","大島町大島","","Saikai-shi","Oshimachoojima",""]],
-	"8572427":[[42,"西海市","大島町の次に番地がくる場合","","Saikai-shi","Oshimacho Notsuginibanchigakurubaai",""]],
+	"8572427":[[42,"西海市","","","Saikai-shi","",""]],
 	"8572531":[[42,"西海市","大瀬戸町松島内郷","","Saikai-shi","Osetocho Matsushimauchigo",""]],
 	"8572532":[[42,"西海市","大瀬戸町松島外郷","","Saikai-shi","Osetocho Matsushimasotogo",""]],
 	"8573101":[[42,"西海市","崎戸町蠣浦郷","","Saikai-shi","Sakitocho Kakinorago",""]],

@@ -85,7 +85,7 @@ zipdata({
 	"9660403":[[7,"耶麻郡北塩原村","関屋","","Kitashiobara-mura, Yama-gun","Sekiya",""]],
 	"9660404":[[7,"耶麻郡北塩原村","北山","","Kitashiobara-mura, Yama-gun","Kitayama",""]],
 	"9660405":[[7,"耶麻郡北塩原村","下吉","","Kitashiobara-mura, Yama-gun","Shimoyoshi",""]],
-	"9660501":[[7,"耶麻郡北塩原村","桧原","","Kitashiobara-mura, Yama-gun","Hibara",""],[7,"耶麻郡北塩原村","原、早稲沢、小屋沢、水梨原、中原、","","Kitashiobara-mura, Yama-gun","Hara.wasezawa.koyasawa.mizunashihar",""]],
+	"9660501":[[7,"耶麻郡北塩原村","桧原","","Kitashiobara-mura, Yama-gun","Hibara",""]],
 	"9660801":[[7,"喜多方市","常盤台","","Kitakata-shi","Tokiwadai",""]],
 	"9660802":[[7,"喜多方市","桜ガ丘","","Kitakata-shi","Sakuragaoka",""]],
 	"9660803":[[7,"喜多方市","落合","","Kitakata-shi","Ochiai",""]],

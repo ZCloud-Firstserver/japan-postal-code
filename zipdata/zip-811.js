@@ -240,7 +240,7 @@ zipdata({
 	"8113209":[[40,"福津市","日蒔野","","Fukutsu-shi","Himakino",""]],
 	"8113211":[[40,"福津市","有弥の里","","Fukutsu-shi","Yuminosato",""]],
 	"8113212":[[40,"福津市","福間南","","Fukutsu-shi","Fukumaminami",""]],
-	"8113213":[[40,"福津市","福津市の次に番地がくる場合","","Fukutsu-shi","Fukutsushinotsuginibanchigakurubaai",""]],
+	"8113213":[[40,"福津市","","","Fukutsu-shi","",""]],
 	"8113214":[[40,"福津市","花見が丘","","Fukutsu-shi","Hanamigaoka",""]],
 	"8113215":[[40,"福津市","花見の里","","Fukutsu-shi","Hanaminosato",""]],
 	"8113216":[[40,"福津市","花見が浜","","Fukutsu-shi","Hanamigahama",""]],

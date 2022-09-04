@@ -114,8 +114,8 @@ zipdata({
 	"7422516":[[35,"大島郡周防大島町","和田","","Suooshima-cho, Oshima-gun","Wada",""]],
 	"7422517":[[35,"大島郡周防大島町","小泊","","Suooshima-cho, Oshima-gun","Kodomari",""]],
 	"7422518":[[35,"大島郡周防大島町","和佐","","Suooshima-cho, Oshima-gun","Wasa",""]],
-	"7422601":[[35,"大島郡周防大島町","伊保田","","Suooshima-cho, Oshima-gun","Ihota",""],[35,"大島郡周防大島町","伊保田","","Suooshima-cho, Oshima-gun","Ihota",""],[35,"大島郡周防大島町","伊保田","","Suooshima-cho, Oshima-gun","Ihota",""],[35,"大島郡周防大島町","伊保田","","Suooshima-cho, Oshima-gun","Ihota",""],[35,"大島郡周防大島町","伊保田","","Suooshima-cho, Oshima-gun","Ihota",""]],
-	"7422602":[[35,"大島郡周防大島町","油宇","","Suooshima-cho, Oshima-gun","Yu",""],[35,"大島郡周防大島町","油宇","","Suooshima-cho, Oshima-gun","Yu",""],[35,"大島郡周防大島町","油宇","","Suooshima-cho, Oshima-gun","Yu",""]],
+	"7422601":[[35,"大島郡周防大島町","伊保田","","Suooshima-cho, Oshima-gun","Ihota",""]],
+	"7422602":[[35,"大島郡周防大島町","油宇","","Suooshima-cho, Oshima-gun","Yu",""]],
 	"7422711":[[35,"大島郡周防大島町","家房","","Suooshima-cho, Oshima-gun","Kabo",""]],
 	"7422712":[[35,"大島郡周防大島町","出井","","Suooshima-cho, Oshima-gun","Izui",""]],
 	"7422713":[[35,"大島郡周防大島町","津海木","","Suooshima-cho, Oshima-gun","Tsunogi",""]],
@@ -129,8 +129,8 @@ zipdata({
 	"7422805":[[35,"大島郡周防大島町","東安下庄","","Suooshima-cho, Oshima-gun","Higashiagenosho",""]],
 	"7422806":[[35,"大島郡周防大島町","西安下庄","","Suooshima-cho, Oshima-gun","Nishiagenosho",""]],
 	"7422807":[[35,"大島郡周防大島町","秋","","Suooshima-cho, Oshima-gun","Aki",""]],
-	"7422921":[[35,"大島郡周防大島町","西方","","Suooshima-cho, Oshima-gun","Nishigata",""],[35,"大島郡周防大島町","西方","","Suooshima-cho, Oshima-gun","Nishigata",""],[35,"大島郡周防大島町","西方","","Suooshima-cho, Oshima-gun","Nishigata",""],[35,"大島郡周防大島町","西方","","Suooshima-cho, Oshima-gun","Nishigata",""],[35,"大島郡周防大島町","西方","","Suooshima-cho, Oshima-gun","Nishigata",""],[35,"大島郡周防大島町","西方","","Suooshima-cho, Oshima-gun","Nishigata",""]],
+	"7422921":[[35,"大島郡周防大島町","西方","","Suooshima-cho, Oshima-gun","Nishigata",""]],
 	"7422922":[[35,"大島郡周防大島町","沖家室島","","Suooshima-cho, Oshima-gun","Okikamurojima",""]],
-	"7422923":[[35,"大島郡周防大島町","地家室","","Suooshima-cho, Oshima-gun","Jikamuro",""],[35,"大島郡周防大島町","地家室","","Suooshima-cho, Oshima-gun","Jikamuro",""]],
-	"7422924":[[35,"大島郡周防大島町","外入","","Suooshima-cho, Oshima-gun","Tononyu",""],[35,"大島郡周防大島町","外入","","Suooshima-cho, Oshima-gun","Tononyu",""]]
+	"7422923":[[35,"大島郡周防大島町","地家室","","Suooshima-cho, Oshima-gun","Jikamuro",""]],
+	"7422924":[[35,"大島郡周防大島町","外入","","Suooshima-cho, Oshima-gun","Tononyu",""]]
 })

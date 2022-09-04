@@ -66,7 +66,7 @@ zipdata({
 	"9220114":[[17,"加賀市","山中温泉東町","","Kaga-shi","Yamanakaonsen Higashimachi",""]],
 	"9220115":[[17,"加賀市","山中温泉本町","","Kaga-shi","Yamanakaonsen Hommachi",""]],
 	"9220116":[[17,"加賀市","山中温泉白山町","","Kaga-shi","Yamanakaonsen Hakusammachi",""]],
-	"9220117":[[17,"加賀市","山中温泉上野町","","Kaga-shi","Yamanakaonsen Uenomachi ",""],[17,"加賀市","山中温泉上野町","","Kaga-shi","Yamanakaonsen Uenomachi",""]],
+	"9220117":[[17,"加賀市","山中温泉上野町","","Kaga-shi","Yamanakaonsen Uenomachi ",""]],
 	"9220118":[[17,"加賀市","山中温泉加美谷台","","Kaga-shi","Yamanakaonsen Kamiyadai",""]],
 	"9220121":[[17,"加賀市","山中温泉富士見町","","Kaga-shi","Yamanakaonsen Fujimimachi",""]],
 	"9220122":[[17,"加賀市","山中温泉湯の本町","","Kaga-shi","Yamanakaonsen Yunohommachi",""]],
