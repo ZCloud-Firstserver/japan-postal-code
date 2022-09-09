@@ -119,11 +119,11 @@ def normalize_city_en(city_ro):
 
 def normalize_area_ja(area_ja, main_area_ja):
     u""" Normalize japanese area name
-    >>> normalize_area_ja('以下に掲載がない場合', '札幌市中央区')
+    >>> normalize_area_ja('以下に掲載がない場合', '')
     ''
-    >>> print normalize_area_ja('北二条西（１〜１９丁目）', '札幌市中央区')
+    >>> print normalize_area_ja('北二条西（１〜１９丁目）', '')
     北二条西
-    >>> print normalize_area_ja('角館町　薗田', '仙北市')
+    >>> print normalize_area_ja('角館町　薗田', '')
     角館町薗田
     """
     if area_ja == '以下に掲載がない場合': return ''
@@ -180,8 +180,8 @@ def loadAddresses(file_name):
             city_en = normalize_city_en(city_ro)
 
             if postalcode3 in addresses and postalcode in addresses[postalcode3]:
-                main_area_ja = addresses[postalcode3][postalcode][0][3] # 最初のcity_ja
-                main_area_en = addresses[postalcode3][postalcode][0][6] # 最初のcity_en
+                main_area_ja = addresses[postalcode3][postalcode][0][3] # 最初のarea_ja
+                main_area_en = addresses[postalcode3][postalcode][0][6] # 最初のarea_en
             else:
                 main_area_ja = ''
                 main_area_en = ''
