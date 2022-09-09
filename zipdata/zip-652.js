@@ -43,7 +43,7 @@ zipdata({
 	"6520063":[[28,"神戸市兵庫区","夢野町","","Hyogo-ku, Kobe-shi","Yumenocho",""]],
 	"6520064":[[28,"神戸市兵庫区","熊野町","","Hyogo-ku, Kobe-shi","Kumanocho",""]],
 	"6520065":[[28,"神戸市兵庫区","清水町","","Hyogo-ku, Kobe-shi","Shimizucho",""]],
-	"6520071":[[28,"神戸市北区","山田町下谷上","","Kita-ku, Kobe-shi","Yamadachoshimotanigami",""],[28,"神戸市北区","念仏堂、ひよどり越）","","Kita-ku, Kobe-shi","Nembutsudo.hiyodorigoe)",""]],
+	"6520071":[[28,"神戸市北区","山田町下谷上","","Kita-ku, Kobe-shi","Yamadachoshimotanigami",""]],
 	"6520801":[[28,"神戸市兵庫区","中道通","","Hyogo-ku, Kobe-shi","Nakamichidori",""]],
 	"6520802":[[28,"神戸市兵庫区","水木通","","Hyogo-ku, Kobe-shi","Mizukidori",""]],
 	"6520803":[[28,"神戸市兵庫区","大開通","","Hyogo-ku, Kobe-shi","Daikaidori",""]],

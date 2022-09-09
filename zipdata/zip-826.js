@@ -12,7 +12,7 @@ zipdata({
 	"8260033":[[40,"田川市","丸山町","","Tagawa-shi","Maruyamamachi",""]],
 	"8260041":[[40,"田川市","弓削田","","Tagawa-shi","Yugeta",""]],
 	"8260042":[[40,"田川市","川宮","","Tagawa-shi","Kawamiya",""]],
-	"8260043":[[40,"田川市","奈良","","Tagawa-shi","Nara",""],[40,"田川市","松の木、三井後藤寺、緑町、月見ケ丘","","Tagawa-shi","Matsunoki.mitsuigotoji.midorimachi.",""]],
+	"8260043":[[40,"田川市","奈良","","Tagawa-shi","Nara",""]],
 	"8260044":[[40,"田川市","位登","","Tagawa-shi","Ito",""]],
 	"8260045":[[40,"田川市","猪国","","Tagawa-shi","Inokuni",""]]
 })

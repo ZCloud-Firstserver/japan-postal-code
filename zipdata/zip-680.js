@@ -22,7 +22,7 @@ zipdata({
 	"6800031":[[31,"鳥取市","本町","","Tottori-shi","Hommachi",""]],
 	"6800032":[[31,"鳥取市","茶町","","Tottori-shi","Chamachi",""]],
 	"6800033":[[31,"鳥取市","二階町","","Tottori-shi","Nikaimachi",""]],
-	"6800034":[[31,"鳥取市","元魚町","","Tottori-shi","Motoomachi",""]],
+	"6800034":[[31,"鳥取市","元魚町","","Tottori-shi","Motouomachi",""]],
 	"6800035":[[31,"鳥取市","新町","","Tottori-shi","Shimmachi",""]],
 	"6800036":[[31,"鳥取市","川端","","Tottori-shi","Kawabata",""]],
 	"6800037":[[31,"鳥取市","元町","","Tottori-shi","Motomachi",""]],

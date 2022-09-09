@@ -6,7 +6,7 @@ zipdata({
 	"7770005":[[36,"美馬市","穴吹町穴吹","","Mima-shi","Anabukicho Anabuki",""]],
 	"7770006":[[36,"美馬市","穴吹町口山","","Mima-shi","Anabukicho Kuchiyama",""]],
 	"7770007":[[36,"美馬市","穴吹町古宮","","Mima-shi","Anabukicho Furumiya",""]],
-	"7770301":[[36,"美馬市","木屋平","","Mima-shi","Koyadaira",""],[36,"美馬市","地神滝、菅蔵、杖谷、葛尾、ハジコノ","","Mima-shi","Jijindaki.sugezo.tsuedani.tsuzuro.h",""],[36,"美馬市","南張、向樫原）","","Mima-shi","Minamibari.mukokashiwara)",""]],
+	"7770301":[[36,"美馬市","木屋平","","Mima-shi","Koyadaira",""]],
 	"7770302":[[36,"美馬市","木屋平","","Mima-shi","Koyadaira",""]],
 	"7770303":[[36,"美馬市","木屋平","","Mima-shi","Koyadaira",""]]
 })

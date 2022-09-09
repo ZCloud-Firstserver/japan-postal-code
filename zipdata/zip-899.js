@@ -296,7 +296,7 @@ zipdata({
 	"8996506":[[46,"霧島市","牧園町下中津川","","Kirishima-shi","Makizonocho Shimonakatsugawa",""]],
 	"8996507":[[46,"霧島市","牧園町宿窪田","","Kirishima-shi","Makizonocho Shukukubota",""]],
 	"8996601":[[46,"霧島市","牧園町万膳","","Kirishima-shi","Makizonocho Manzen",""]],
-	"8996602":[[46,"霧島市","牧園町三体堂","","Kirishima-shi","Makizonocho Santaido",""],[46,"霧島市","１８３５−８１、１８３５−１０８、","","Kirishima-shi","1835-81.1835-108.1835-109.1835-228.",""],[46,"霧島市","１８３５−２３８、１８３５−２５３","","Kirishima-shi","1835-238.1835-253.2003-5.2003-9.",""],[46,"霧島市","２００３−１４、２００３−１７、２","","Kirishima-shi","2003-14.2003-17.2003-18.2057-8)",""]],
+	"8996602":[[46,"霧島市","牧園町三体堂","","Kirishima-shi","Makizonocho Santaido",""]],
 	"8996603":[[46,"霧島市","牧園町高千穂","","Kirishima-shi","Makizonocho Takachiho",""]],
 	"8996604":[[46,"霧島市","牧園町上中津川","","Kirishima-shi","Makizonocho Kaminakatsugawa",""]],
 	"8997100":[[46,"志布志市","","","Shibushi-shi","",""]],

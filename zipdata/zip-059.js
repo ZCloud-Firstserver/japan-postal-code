@@ -4,7 +4,7 @@ zipdata({
 	"0590002":[[1,"登別市","幸町","","Noboribetsu-shi","Saiwaicho",""]],
 	"0590003":[[1,"登別市","千歳町","","Noboribetsu-shi","Chitosecho",""]],
 	"0590004":[[1,"登別市","来馬町","","Noboribetsu-shi","Raibacho",""]],
-	"0590005":[[1,"登別市","札内町","","Noboribetsu-shi","Satsunaicho",""],[1,"登別市","１８４、２３１、３８９−２、４９９","","Noboribetsu-shi","184.231.389-2.499.500-banchi)",""]],
+	"0590005":[[1,"登別市","札内町","","Noboribetsu-shi","Satsunaicho",""]],
 	"0590011":[[1,"登別市","常盤町","","Noboribetsu-shi","Tokiwacho",""]],
 	"0590012":[[1,"登別市","中央町","","Noboribetsu-shi","Chuocho",""]],
 	"0590013":[[1,"登別市","幌別町","","Noboribetsu-shi","Horobetsucho",""]],

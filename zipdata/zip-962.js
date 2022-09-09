@@ -58,7 +58,7 @@ zipdata({
 	"9620203":[[7,"須賀川市","長沼","","Sukagawa-shi","Naganuma",""]],
 	"9620204":[[7,"須賀川市","江花","","Sukagawa-shi","Ebana",""]],
 	"9620205":[[7,"須賀川市","勢至堂","","Sukagawa-shi","Seishido",""]],
-	"9620211":[[7,"須賀川市","滝","","Sukagawa-shi","Taki",""],[7,"須賀川市","日向前、本郷、前田）","","Sukagawa-shi","Hinatamae.hongo.maeta)",""]],
+	"9620211":[[7,"須賀川市","滝","","Sukagawa-shi","Taki",""]],
 	"9620301":[[7,"須賀川市","今泉","","Sukagawa-shi","Imaizumi",""]],
 	"9620302":[[7,"須賀川市","柱田","","Sukagawa-shi","Hashirata",""]],
 	"9620303":[[7,"須賀川市","梅田","","Sukagawa-shi","Umeta",""]],

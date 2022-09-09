@@ -127,7 +127,7 @@ zipdata({
 	"6492108":[[30,"西牟婁郡上富田町","下鮎川","","Kamitonda-cho, Nishimuro-gun","Shimoayukawa",""]],
 	"6492200":[[30,"西牟婁郡白浜町","","","Shirahama-cho, Nishimuro-gun","",""]],
 	"6492201":[[30,"西牟婁郡白浜町","堅田","","Shirahama-cho, Nishimuro-gun","Katata",""]],
-	"6492211":[[30,"西牟婁郡白浜町","白浜町の次に番地がくる場合","","Shirahama-cho, Nishimuro-gun","Shirahamachonotsuginibanchigakuruba",""]],
+	"6492211":[[30,"西牟婁郡白浜町","","","Shirahama-cho, Nishimuro-gun","",""]],
 	"6492321":[[30,"西牟婁郡白浜町","保呂","","Shirahama-cho, Nishimuro-gun","Horo",""]],
 	"6492322":[[30,"西牟婁郡白浜町","内ノ川","","Shirahama-cho, Nishimuro-gun","Uchinokawa",""]],
 	"6492323":[[30,"西牟婁郡白浜町","庄川","","Shirahama-cho, Nishimuro-gun","Shagawa",""]],

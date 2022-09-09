@@ -14,7 +14,7 @@ zipdata({
 	"7690207":[[37,"綾歌郡宇多津町","浜七番丁","","Utazu-cho, Ayauta-gun","Hama7-bancho",""]],
 	"7690208":[[37,"綾歌郡宇多津町","浜八番丁","","Utazu-cho, Ayauta-gun","Hama8-bancho",""]],
 	"7690209":[[37,"綾歌郡宇多津町","浜九番丁","","Utazu-cho, Ayauta-gun","Hama9-bancho",""]],
-	"7690210":[[37,"綾歌郡宇多津町","宇多津町の次に番地がくる場合","","Utazu-cho, Ayauta-gun","Utazuchonotsuginibanchigakurubaai",""]],
+	"7690210":[[37,"綾歌郡宇多津町","","","Utazu-cho, Ayauta-gun","",""]],
 	"7690211":[[37,"綾歌郡宇多津町","十楽寺","","Utazu-cho, Ayauta-gun","Jurakuji",""]],
 	"7690212":[[37,"綾歌郡宇多津町","沼ノ池","","Utazu-cho, Ayauta-gun","Numanoike",""]],
 	"7690213":[[37,"綾歌郡宇多津町","東分","","Utazu-cho, Ayauta-gun","Higashibun",""]],

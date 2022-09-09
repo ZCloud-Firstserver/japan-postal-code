@@ -74,5 +74,5 @@ zipdata({
 	"3250301":[[9,"那須郡那須町","湯本","","Nasu-machi, Nasu-gun","Yumoto",""]],
 	"3250302":[[9,"那須郡那須町","高久丙","","Nasu-machi, Nasu-gun","Takakuhei",""]],
 	"3250303":[[9,"那須郡那須町","高久乙","","Nasu-machi, Nasu-gun","Takakuotsu",""]],
-	"3250304":[[9,"那須郡那須町","高久甲","","Nasu-machi, Nasu-gun","Takakuko",""],[9,"那須郡那須町","６１１４〜６１４１、６３２８、６４","","Nasu-machi, Nasu-gun","6114-6141.6328.6437.6438)",""]]
+	"3250304":[[9,"那須郡那須町","高久甲","","Nasu-machi, Nasu-gun","Takakuko",""]]
 })

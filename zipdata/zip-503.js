@@ -415,7 +415,7 @@ zipdata({
 	"5032112":[[21,"不破郡垂井町","綾戸","","Tarui-cho, Fuwa-gun","Ayado",""]],
 	"5032113":[[21,"不破郡垂井町","清水","","Tarui-cho, Fuwa-gun","Shimizu",""]],
 	"5032114":[[21,"不破郡垂井町","府中","","Tarui-cho, Fuwa-gun","Fuchu",""]],
-	"5032121":[[21,"不破郡垂井町","垂井町の次に番地がくる場合","","Tarui-cho, Fuwa-gun","Taruichonotsuginibanchigakurubaai",""]],
+	"5032121":[[21,"不破郡垂井町","","","Tarui-cho, Fuwa-gun","",""]],
 	"5032122":[[21,"不破郡垂井町","表佐","","Tarui-cho, Fuwa-gun","Osa",""]],
 	"5032123":[[21,"不破郡垂井町","栗原","","Tarui-cho, Fuwa-gun","Kurihara",""]],
 	"5032124":[[21,"不破郡垂井町","宮代","","Tarui-cho, Fuwa-gun","Miyashiro",""]],

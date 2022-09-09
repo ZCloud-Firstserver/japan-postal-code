@@ -220,7 +220,7 @@ zipdata({
 	"7314229":[[34,"安芸郡熊野町","平谷","","Kumano-cho, Aki-gun","Hiradani",""]],
 	"7314231":[[34,"広島市安芸区","阿戸町","","Aki-ku, Hiroshima-shi","Atocho",""]],
 	"7314300":[[34,"安芸郡坂町","","","Saka-cho, Aki-gun","",""]],
-	"7314301":[[34,"安芸郡坂町","坂町の次に番地がくる場合","","Saka-cho, Aki-gun","Sakachonotsuginibanchigakurubaai",""]],
+	"7314301":[[34,"安芸郡坂町","","","Saka-cho, Aki-gun","",""]],
 	"7314311":[[34,"安芸郡坂町","北新地","","Saka-cho, Aki-gun","Kitashinchi",""]],
 	"7314312":[[34,"安芸郡坂町","平成ケ浜","","Saka-cho, Aki-gun","Heiseigahama",""]],
 	"7314313":[[34,"安芸郡坂町","坂東","","Saka-cho, Aki-gun","Sakahigashi",""]],

@@ -34,7 +34,7 @@ zipdata({
 	"7080051":[[33,"津山市","椿高下","","Tsuyama-shi","Tsubakikoge",""]],
 	"7080052":[[33,"津山市","田町","","Tsuyama-shi","Tamachi",""]],
 	"7080053":[[33,"津山市","細工町","","Tsuyama-shi","Saikunocho",""]],
-	"7080061":[[33,"津山市","元魚町","","Tsuyama-shi","Motoomachi",""]],
+	"7080061":[[33,"津山市","元魚町","","Tsuyama-shi","Motouomachi",""]],
 	"7080062":[[33,"津山市","京町","","Tsuyama-shi","Kyomachi",""]],
 	"7080063":[[33,"津山市","小性町","","Tsuyama-shi","Koshomachi",""]],
 	"7080064":[[33,"津山市","堺町","","Tsuyama-shi","Sakaimachi",""]],

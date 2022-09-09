@@ -253,7 +253,7 @@ zipdata({
 	"7372606":[[34,"呉市","川尻町久筋","","Kure-shi","Kawajiricho Kusuji",""]],
 	"7372607":[[34,"呉市","川尻町東","","Kure-shi","Kawajiricho Higashi",""]],
 	"7372608":[[34,"呉市","川尻町小用","","Kure-shi","Kawajiricho Koyo",""]],
-	"7372609":[[34,"呉市","川尻町野呂山","","Kure-shi","Kawajiricho Norosan",""],[34,"呉市","仁方町","","Kure-shi","Nigatacho",""],[34,"呉市","野呂山","","Kure-shi","Norosan",""],[34,"呉市","広町","","Kure-shi","Hiromachi",""],[34,"呉市","安浦町中切","","Kure-shi","Yasuracho Nakagiri",""],[34,"呉市","安浦町中畑","","Kure-shi","Yasuracho Nakahata",""],[34,"呉市","安浦町中畑","","Kure-shi","Yasuracho Nakahata",""],[34,"呉市","安浦町中畑","","Kure-shi","Yasuracho Nakahata",""],[34,"呉市","安浦町中畑","","Kure-shi","Yasuracho Nakahata",""],[34,"呉市","安浦町中畑","","Kure-shi","Yasuracho Nakahata",""],[34,"呉市","安浦町中畑","","Kure-shi","Yasuracho Nakahata",""],[34,"呉市","安浦町野呂山","","Kure-shi","Yasuracho Norosan",""]],
+	"7372609":[[34,"呉市","川尻町野呂山","","Kure-shi","Kawajiricho Norosan",""],[34,"呉市","仁方町","","Kure-shi","Nigatacho",""],[34,"呉市","野呂山","","Kure-shi","Norosan",""],[34,"呉市","広町","","Kure-shi","Hiromachi",""],[34,"呉市","安浦町中切","","Kure-shi","Yasuracho Nakagiri",""],[34,"呉市","安浦町中畑","","Kure-shi","Yasuracho Nakahata",""],[34,"呉市","安浦町野呂山","","Kure-shi","Yasuracho Norosan",""]],
 	"7372614":[[34,"呉市","川尻町大原","","Kure-shi","Kawajiricho Obara",""]],
 	"7372615":[[34,"呉市","川尻町真光地","","Kure-shi","Kawajiricho Shinkochi",""]],
 	"7372616":[[34,"呉市","川尻町水落","","Kure-shi","Kawajiricho Mizuochi",""]],

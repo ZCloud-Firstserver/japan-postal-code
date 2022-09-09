@@ -28,7 +28,7 @@ zipdata({
 	"8550034":[[42,"島原市","田町","","Shimabara-shi","Tamachi",""]],
 	"8550035":[[42,"島原市","先魁町","","Shimabara-shi","Sakigakemachi",""]],
 	"8550036":[[42,"島原市","城内","","Shimabara-shi","Jonai",""]],
-	"8550038":[[42,"島原市","島原市の次に番地がくる場合","","Shimabara-shi","Shimabarashinotsuginibanchigakuruba",""]],
+	"8550038":[[42,"島原市","","","Shimabara-shi","",""]],
 	"8550041":[[42,"島原市","宮の町","","Shimabara-shi","Miyanomachi",""]],
 	"8550042":[[42,"島原市","片町","","Shimabara-shi","Katamachi",""]],
 	"8550043":[[42,"島原市","新田町","","Shimabara-shi","Shindemmachi",""]],

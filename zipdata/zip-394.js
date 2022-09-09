@@ -43,5 +43,5 @@ zipdata({
 	"3940087":[[20,"岡谷市","長地鎮","","Okaya-shi","Osachishizume",""]],
 	"3940088":[[20,"岡谷市","長地梨久保","","Okaya-shi","Osachinashikubo",""]],
 	"3940089":[[20,"岡谷市","長地出早","","Okaya-shi","Osachiizuhaya",""]],
-	"3940091":[[20,"岡谷市","岡谷市の次に番地がくる場合","","Okaya-shi","Okayashinotsuginibanchigakurubaai",""]]
+	"3940091":[[20,"岡谷市","","","Okaya-shi","",""]]
 })

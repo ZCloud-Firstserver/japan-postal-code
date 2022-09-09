@@ -7,7 +7,7 @@ zipdata({
 	"8080005":[[40,"北九州市若松区","下原町","","Wakamatsu-ku, Kitakyushu-shi","Shimoharamachi",""]],
 	"8080006":[[40,"北九州市若松区","宮前町","","Wakamatsu-ku, Kitakyushu-shi","Miyamaemachi",""]],
 	"8080007":[[40,"北九州市若松区","小石","","Wakamatsu-ku, Kitakyushu-shi","Koishi",""]],
-	"8080008":[[40,"北九州市若松区","小竹","","Wakamatsu-ku, Kitakyushu-shi","Odake",""],[40,"北九州市若松区","椿、脇ノ浦）","","Wakamatsu-ku, Kitakyushu-shi","Tsubaki.wakinora)",""]],
+	"8080008":[[40,"北九州市若松区","小竹","","Wakamatsu-ku, Kitakyushu-shi","Odake",""]],
 	"8080011":[[40,"北九州市若松区","響南町","","Wakamatsu-ku, Kitakyushu-shi","Kyonammachi",""]],
 	"8080012":[[40,"北九州市若松区","深町","","Wakamatsu-ku, Kitakyushu-shi","Fukamachi",""]],
 	"8080013":[[40,"北九州市若松区","波打町","","Wakamatsu-ku, Kitakyushu-shi","Namiuchimachi",""]],

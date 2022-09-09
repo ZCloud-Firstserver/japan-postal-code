@@ -39,7 +39,7 @@ zipdata({
 	"4280046":[[22,"島田市","金谷金山町","","Shimada-shi","Kanayakinzancho",""]],
 	"4280047":[[22,"島田市","金谷新町","","Shimada-shi","Kanayashimmachi",""]],
 	"4280048":[[22,"島田市","金谷城山町","","Shimada-shi","Kanayashiroyamacho",""]],
-	"4280049":[[22,"島田市","牧之原","","Shimada-shi","Makinohara",""],[22,"島田市","２７６、２９４〜３００、３０２〜３","","Shimada-shi","276.294-300.302-304-banchionozoku>)",""]],
+	"4280049":[[22,"島田市","牧之原","","Shimada-shi","Makinohara",""]],
 	"4280101":[[22,"島田市","川根町笹間渡","","Shimada-shi","Kawanecho Sasamado",""]],
 	"4280102":[[22,"島田市","川根町上河内","","Shimada-shi","Kawanecho Kamigochi",""]],
 	"4280103":[[22,"島田市","川根町身成","","Shimada-shi","Kawanecho Minari",""]],

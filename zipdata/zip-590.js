@@ -102,7 +102,7 @@ zipdata({
 	"5900155":[[27,"堺市南区","野々井","","Minami-ku, Sakai-shi","Nonoi",""]],
 	"5900156":[[27,"堺市南区","稲葉","","Minami-ku, Sakai-shi","Inaba",""]],
 	"5900157":[[27,"堺市南区","高尾","","Minami-ku, Sakai-shi","Takao",""]],
-	"5900158":[[27,"堺市南区","太平寺","","Minami-ku, Sakai-shi","Taiheiji",""],[27,"堺市南区","７２６−１、７２７、７２８、７２８","","Minami-ku, Sakai-shi","726-1.727.728.728-1.729.730.731.732",""],[27,"堺市南区","７３３−１〜７３３−２、７３５、７","","Minami-ku, Sakai-shi","733-1-733-2.735.786-3-banchi)",""]],
+	"5900158":[[27,"堺市南区","太平寺","","Minami-ku, Sakai-shi","Taiheiji",""]],
 	"5900400":[[27,"泉南郡熊取町","","","Kumatori-cho, Sennan-gun","",""]],
 	"5900401":[[27,"泉南郡熊取町","大久保","","Kumatori-cho, Sennan-gun","Okubo",""]],
 	"5900402":[[27,"泉南郡熊取町","大久保北","","Kumatori-cho, Sennan-gun","Okubokita",""]],

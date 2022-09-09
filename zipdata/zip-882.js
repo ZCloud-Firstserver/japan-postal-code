@@ -95,7 +95,7 @@ zipdata({
 	"8820243":[[45,"延岡市","北方町早日渡","","Nobeoka-shi","Kitakatamachi Hayahito",""]],
 	"8820244":[[45,"延岡市","北方町早中","","Nobeoka-shi","Kitakatamachi Hayanaka",""]],
 	"8820245":[[45,"延岡市","北方町早上","","Nobeoka-shi","Kitakatamachi Hayakami",""]],
-	"8820301":[[45,"西臼杵郡日之影町","七折","","Hinokage-cho, Nishiusuki-gun","Nanaori",""],[45,"西臼杵郡日之影町","西ノ内、舟ノ尾、八戸、簗崎）","","Hinokage-cho, Nishiusuki-gun","Nishinochi.funeno.yato.yanazaki)",""]],
+	"8820301":[[45,"西臼杵郡日之影町","七折","","Hinokage-cho, Nishiusuki-gun","Nanaori",""]],
 	"8820302":[[45,"西臼杵郡日之影町","岩井川","","Hinokage-cho, Nishiusuki-gun","Iwaikawa",""]],
 	"8820304":[[45,"西臼杵郡日之影町","分城","","Hinokage-cho, Nishiusuki-gun","Wakejo",""]],
 	"8820400":[[45,"西臼杵郡日之影町","","","Hinokage-cho, Nishiusuki-gun","",""]],

@@ -215,7 +215,7 @@ zipdata({
 	"7812106":[[39,"吾川郡いの町","駅南町","","Ino-cho, Agawa-gun","Ekiminamimachi",""]],
 	"7812107":[[39,"吾川郡いの町","駅前町","","Ino-cho, Agawa-gun","Ekimaecho",""]],
 	"7812108":[[39,"吾川郡いの町","駅東町","","Ino-cho, Agawa-gun","Ekihigashimachi",""]],
-	"7812110":[[39,"吾川郡いの町","いの町の次に番地がくる場合","","Ino-cho, Agawa-gun","Inochonotsuginibanchigakurubaai",""]],
+	"7812110":[[39,"吾川郡いの町","","","Ino-cho, Agawa-gun","",""]],
 	"7812111":[[39,"吾川郡いの町","羽根町","","Ino-cho, Agawa-gun","Hanemachi",""]],
 	"7812112":[[39,"吾川郡いの町","西町","","Ino-cho, Agawa-gun","Nishimachi",""]],
 	"7812113":[[39,"吾川郡いの町","元町","","Ino-cho, Agawa-gun","Motomachi",""]],

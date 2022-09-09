@@ -342,7 +342,7 @@ zipdata({
 	"3293211":[[9,"那須郡那須町","豊原甲","","Nasu-machi, Nasu-gun","Toyoharako",""]],
 	"3293212":[[9,"那須郡那須町","富岡","","Nasu-machi, Nasu-gun","Tomioka",""]],
 	"3293213":[[9,"那須郡那須町","豊原","","Nasu-machi, Nasu-gun","Toyohara",""]],
-	"3293214":[[9,"那須郡那須町","横岡","","Nasu-machi, Nasu-gun","Yokoka",""],[9,"那須郡那須町","８、１７６７−４番地）","","Nasu-machi, Nasu-gun","8.1767-4-banchi)",""]],
+	"3293214":[[9,"那須郡那須町","横岡","","Nasu-machi, Nasu-gun","Yokoka",""]],
 	"3293215":[[9,"那須郡那須町","寺子乙","","Nasu-machi, Nasu-gun","Terakotsu",""]],
 	"3293221":[[9,"那須郡那須町","漆塚","","Nasu-machi, Nasu-gun","Urushitsuka",""]],
 	"3293222":[[9,"那須郡那須町","寺子丙","","Nasu-machi, Nasu-gun","Terakohei",""]],

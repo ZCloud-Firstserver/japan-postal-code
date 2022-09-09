@@ -187,7 +187,7 @@ zipdata({
 	"9151111":[[18,"南条郡南越前町","河野","","Minamiechizen-cho, Nanjo-gun","Kono",""]],
 	"9151112":[[18,"南条郡南越前町","今泉","","Minamiechizen-cho, Nanjo-gun","Imaizumi",""]],
 	"9151113":[[18,"南条郡南越前町","甲楽城","","Minamiechizen-cho, Nanjo-gun","Kaburaki",""]],
-	"9151114":[[18,"南条郡南越前町","糠","","Minamiechizen-cho, Nanjo-gun","Nuka",""],[18,"南条郡南越前町","糠","","Minamiechizen-cho, Nanjo-gun","Nuka",""],[18,"南条郡南越前町","糠","","Minamiechizen-cho, Nanjo-gun","Nuka",""],[18,"南条郡南越前町","八田","","Minamiechizen-cho, Nanjo-gun","Hatta",""]],
+	"9151114":[[18,"南条郡南越前町","糠","","Minamiechizen-cho, Nanjo-gun","Nuka",""],[18,"南条郡南越前町","八田","","Minamiechizen-cho, Nanjo-gun","Hatta",""]],
 	"9151201":[[18,"越前市","安養寺町","","Echizen-shi","Anyojicho",""]],
 	"9151202":[[18,"越前市","黒川町","","Echizen-shi","Kurokawacho",""]],
 	"9151203":[[18,"越前市","上杉本町","","Echizen-shi","Kamisugimotocho",""]],

@@ -1,6 +1,6 @@
 zipdata({
 	"4110000":[[22,"三島市","","","Mishima-shi","",""],[22,"駿東郡清水町","","","Shimizu-cho, Sunto-gun","",""],[22,"駿東郡長泉町","","","Nagaizumi-cho, Sunto-gun","",""]],
-	"4110001":[[22,"田方郡函南町","桑原","","Kannami-cho, Tagata-gun","Kuwahara",""],[22,"田方郡函南町","桑原","","Kannami-cho, Tagata-gun","Kuwahara",""]],
+	"4110001":[[22,"田方郡函南町","桑原","","Kannami-cho, Tagata-gun","Kuwahara",""]],
 	"4110011":[[22,"三島市","山中新田","","Mishima-shi","Yamanakashinden",""]],
 	"4110012":[[22,"三島市","笹原新田","","Mishima-shi","Sasaharashinden",""]],
 	"4110013":[[22,"三島市","三ツ谷新田","","Mishima-shi","Mitsuyashinden",""]],

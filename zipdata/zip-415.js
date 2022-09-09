@@ -1,6 +1,6 @@
 zipdata({
 	"4150000":[[22,"下田市","","","Shimoda-shi","",""]],
-	"4150001":[[22,"下田市","下田市の次に番地がくる場合","","Shimoda-shi","Shimodashinotsuginibanchigakurubaai",""]],
+	"4150001":[[22,"下田市","","","Shimoda-shi","",""]],
 	"4150011":[[22,"下田市","河内","","Shimoda-shi","Kochi",""]],
 	"4150012":[[22,"下田市","白浜","","Shimoda-shi","Shirahama",""]],
 	"4150013":[[22,"下田市","柿崎","","Shimoda-shi","Kakisaki",""]],
