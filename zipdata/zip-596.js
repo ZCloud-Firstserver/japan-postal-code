@@ -57,7 +57,7 @@ zipdata({
 	"5960077":[[27,"岸和田市","上町","","Kishiwada-shi","Uemachi",""]],
 	"5960078":[[27,"岸和田市","南上町","","Kishiwada-shi","Minamiuemachi",""]],
 	"5960101":[[27,"岸和田市","包近町","","Kishiwada-shi","Kanechikacho",""]],
-	"5960102":[[27,"岸和田市","山直中町","","Kishiwada-shi","Yamadainakacho",""]],
+	"5960102":[[27,"岸和田市","山直中町","","Kishiwada-shi","Yamadainakamachi",""]],
 	"5960103":[[27,"岸和田市","稲葉町","","Kishiwada-shi","Inabacho",""]],
 	"5960104":[[27,"岸和田市","積川町","","Kishiwada-shi","Tsugawacho",""]],
 	"5960105":[[27,"岸和田市","内畑町","","Kishiwada-shi","Uchihatacho",""]],

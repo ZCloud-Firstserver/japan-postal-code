@@ -86,6 +86,7 @@ zipdata({
 	"0611113":[[1,"北広島市","共栄町","","Kitahiroshima-shi","Kyoeicho",""]],
 	"0611114":[[1,"北広島市","東共栄","","Kitahiroshima-shi","Higashikyoei",""]],
 	"0611115":[[1,"北広島市","美咲き野","","Kitahiroshima-shi","Misakino",""]],
+	"0611116":[[1,"北広島市","Ｆビレッジ","","Kitahiroshima-shi","Efubirejji",""]],
 	"0611121":[[1,"北広島市","中央","","Kitahiroshima-shi","Chuo",""]],
 	"0611122":[[1,"北広島市","広島","","Kitahiroshima-shi","Hiroshima",""]],
 	"0611123":[[1,"北広島市","朝日町","","Kitahiroshima-shi","Asahicho",""]],

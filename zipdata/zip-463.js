@@ -17,6 +17,8 @@ zipdata({
 	"4630015":[[23,"名古屋市守山区","西島町","","Moriyama-ku, Nagoya-shi","Nishijimacho",""]],
 	"4630016":[[23,"名古屋市守山区","大屋敷","","Moriyama-ku, Nagoya-shi","Oyashiki",""]],
 	"4630017":[[23,"名古屋市守山区","喜多山","","Moriyama-ku, Nagoya-shi","Kitayama",""]],
+	"4630018":[[23,"名古屋市守山区","桜坂","","Moriyama-ku, Nagoya-shi","Sakurazaka",""]],
+	"4630019":[[23,"名古屋市守山区","東禅寺","","Moriyama-ku, Nagoya-shi","Tozenji",""]],
 	"4630021":[[23,"名古屋市守山区","大森","","Moriyama-ku, Nagoya-shi","Omori",""]],
 	"4630022":[[23,"名古屋市守山区","八剣","","Moriyama-ku, Nagoya-shi","Yatsurugi",""]],
 	"4630023":[[23,"名古屋市守山区","今尻町","","Moriyama-ku, Nagoya-shi","Imajiricho",""]],

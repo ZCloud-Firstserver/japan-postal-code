@@ -34,6 +34,7 @@ zipdata({
 	"7460036":[[35,"周南市","温田","","Shunan-shi","Onda",""]],
 	"7460037":[[35,"周南市","丸山町","","Shunan-shi","Maruyamacho",""]],
 	"7460038":[[35,"周南市","福川","","Shunan-shi","Fukugawa",""]],
+	"7460039":[[35,"周南市","富田新町","","Shunan-shi","Tondashimmachi",""]],
 	"7460041":[[35,"周南市","社地町","","Shunan-shi","Shachicho",""]],
 	"7460042":[[35,"周南市","福川南町","","Shunan-shi","Fukugawaminamimachi",""]],
 	"7460043":[[35,"周南市","新田","","Shunan-shi","Shinden",""]],

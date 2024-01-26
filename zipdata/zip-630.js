@@ -201,7 +201,7 @@ zipdata({
 	"6308124":[[29,"奈良市","三条桧町","","Nara-shi","Sanjo Hinokimachi",""]],
 	"6308125":[[29,"奈良市","三条川西町","","Nara-shi","Sanjo Kawanishicho",""]],
 	"6308126":[[29,"奈良市","三条栄町","","Nara-shi","Sanjo Sakaemachi",""]],
-	"6308127":[[29,"奈良市","三条添川町","","Nara-shi","Sanjo Soegawacho",""]],
+	"6308127":[[29,"奈良市","三条添川町","","Nara-shi","Sanjo Soekawacho",""]],
 	"6308131":[[29,"奈良市","大森町","","Nara-shi","Omoricho",""]],
 	"6308132":[[29,"奈良市","大森西町","","Nara-shi","Omorinishimachi",""]],
 	"6308133":[[29,"奈良市","大安寺","","Nara-shi","Daianji",""]],

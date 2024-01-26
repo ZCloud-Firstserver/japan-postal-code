@@ -282,6 +282,7 @@ zipdata({
 	"4440922":[[23,"岡崎市","八帖南町","","Okazaki-shi","Hatcho Minamimachi",""]],
 	"4440923":[[23,"岡崎市","八帖町","","Okazaki-shi","Hatchocho",""]],
 	"4440924":[[23,"岡崎市","八帖北町","","Okazaki-shi","Hatcho Kitamachi",""]],
+	"4440925":[[23,"岡崎市","八丁町","","Okazaki-shi","Hatchocho",""]],
 	"4440931":[[23,"岡崎市","大和町","","Okazaki-shi","Daiwacho",""]],
 	"4440932":[[23,"岡崎市","筒針町","","Okazaki-shi","Tsutsubaricho",""]],
 	"4440933":[[23,"岡崎市","渡町","","Okazaki-shi","Wataricho",""]],

@@ -80,7 +80,7 @@ zipdata({
 	"3210225":[[9,"下都賀郡壬生町","本丸","","Mibu-machi, Shimotsuga-gun","Hommaru",""]],
 	"3210226":[[9,"下都賀郡壬生町","中央町","","Mibu-machi, Shimotsuga-gun","Chuocho",""]],
 	"3210227":[[9,"下都賀郡壬生町","通町","","Mibu-machi, Shimotsuga-gun","Torimachi",""]],
-	"3210228":[[9,"下都賀郡壬生町","大師町","","Mibu-machi, Shimotsuga-gun","Daishimachi",""]],
+	"3210228":[[9,"下都賀郡壬生町","大師町","","Mibu-machi, Shimotsuga-gun","Daishicho",""]],
 	"3210231":[[9,"下都賀郡壬生町","上田","","Mibu-machi, Shimotsuga-gun","Kamida",""]],
 	"3210232":[[9,"下都賀郡壬生町","中泉","","Mibu-machi, Shimotsuga-gun","Nakaizumi",""]],
 	"3210233":[[9,"下都賀郡壬生町","助谷","","Mibu-machi, Shimotsuga-gun","Sukegai",""]],

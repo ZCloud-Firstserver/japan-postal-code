@@ -45,7 +45,7 @@ zipdata({
 	"6900056":[[32,"松江市","雑賀町","","Matsue-shi","Saikamachi",""]],
 	"6900057":[[32,"松江市","新町","","Matsue-shi","Shimmachi",""]],
 	"6900058":[[32,"松江市","田和山町","","Matsue-shi","Tawayamacho",""]],
-	"6900061":[[32,"松江市","白潟本町","","Matsue-shi","Shirakatahommachi",""]],
+	"6900061":[[32,"松江市","白瀉本町","","Matsue-shi","Shirakatahommachi",""]],
 	"6900062":[[32,"松江市","魚町","","Matsue-shi","Uomachi",""]],
 	"6900063":[[32,"松江市","寺町","","Matsue-shi","Teramachi",""]],
 	"6900064":[[32,"松江市","天神町","","Matsue-shi","Tenjimmachi",""]],

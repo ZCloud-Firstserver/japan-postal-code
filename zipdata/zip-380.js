@@ -68,7 +68,7 @@ zipdata({
 	"3800903":[[20,"長野市","鶴賀","","Nagano-shi","Tsuruga",""]],
 	"3800904":[[20,"長野市","鶴賀","","Nagano-shi","Tsuruga",""],[20,"長野市","七瀬中町","","Nagano-shi","Nanasenakamachi",""]],
 	"3800905":[[20,"長野市","鶴賀","","Nagano-shi","Tsuruga",""],[20,"長野市","七瀬南部","","Nagano-shi","Nanasenambu",""]],
-	"3800906":[[20,"長野市","鶴賀","","Nagano-shi","Tsuruga",""],[20,"長野市","七瀬","","Nagano-shi","Nanase",""]],
+	"3800906":[[20,"長野市","鶴賀","","Nagano-shi","Tsuruga",""]],
 	"3800907":[[20,"長野市","鶴賀","","Nagano-shi","Tsuruga",""]],
 	"3800911":[[20,"長野市","稲葉","","Nagano-shi","Inaba",""]],
 	"3800912":[[20,"長野市","稲葉日詰","","Nagano-shi","Inabahizume",""]],

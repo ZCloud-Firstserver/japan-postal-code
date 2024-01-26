@@ -178,6 +178,7 @@ zipdata({
 	"8112318":[[40,"糟屋郡粕屋町","戸原東","","Kasuya-machi, Kasuya-gun","Tobarahigashi",""]],
 	"8112319":[[40,"糟屋郡粕屋町","戸原西","","Kasuya-machi, Kasuya-gun","Tobaranishi",""]],
 	"8112320":[[40,"糟屋郡粕屋町","内橋東","","Kasuya-machi, Kasuya-gun","Uchihashihigashi",""]],
+	"8112321":[[40,"糟屋郡粕屋町","内橋西","","Kasuya-machi, Kasuya-gun","Uchihashinishi",""]],
 	"8112400":[[40,"糟屋郡篠栗町","","","Sasaguri-machi, Kasuya-gun","",""]],
 	"8112401":[[40,"糟屋郡篠栗町","高田","","Sasaguri-machi, Kasuya-gun","Takata",""]],
 	"8112402":[[40,"糟屋郡篠栗町","金出","","Sasaguri-machi, Kasuya-gun","Kanaide",""]],

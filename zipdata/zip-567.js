@@ -53,7 +53,7 @@ zipdata({
 	"5670059":[[27,"茨木市","清水","","Ibaraki-shi","Shimizu",""]],
 	"5670061":[[27,"茨木市","福井","","Ibaraki-shi","Fukui",""]],
 	"5670062":[[27,"茨木市","東福井","","Ibaraki-shi","Higashifukui",""]],
-	"5670063":[[27,"茨木市","中河原町","","Ibaraki-shi","Nakakaharacho",""]],
+	"5670063":[[27,"茨木市","中河原町","","Ibaraki-shi","Nakagawaracho",""]],
 	"5670064":[[27,"茨木市","上野町","","Ibaraki-shi","Uenocho",""]],
 	"5670065":[[27,"茨木市","上郡","","Ibaraki-shi","Kamigori",""]],
 	"5670066":[[27,"茨木市","下井町","","Ibaraki-shi","Shimoicho",""]],

@@ -76,6 +76,7 @@ zipdata({
 	"9500114":[[15,"新潟市江南区","茗荷谷","","Konan-ku, Niigata-shi","Myogadani",""]],
 	"9500115":[[15,"新潟市江南区","丸山","","Konan-ku, Niigata-shi","Maruyama",""]],
 	"9500116":[[15,"新潟市東区","北山","","Higashi-ku, Niigata-shi","Kitayama",""],[15,"新潟市江南区","北山","","Konan-ku, Niigata-shi","Kitayama",""]],
+	"9500117":[[15,"新潟市江南区","丸山ノ内善之丞組","","Konan-ku, Niigata-shi","Maruyamanochizennojogumi",""]],
 	"9500121":[[15,"新潟市江南区","亀田向陽","","Konan-ku, Niigata-shi","Kameda Koyo",""]],
 	"9500122":[[15,"新潟市江南区","稲葉","","Konan-ku, Niigata-shi","Inaba",""]],
 	"9500123":[[15,"新潟市江南区","亀田水道町","","Konan-ku, Niigata-shi","Kameda Suidocho",""]],

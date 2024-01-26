@@ -309,7 +309,7 @@ zipdata({
 	"9813363":[[4,"富谷市","杜乃橋","","Tomiya-shi","Morinohashi",""]],
 	"9813401":[[4,"黒川郡大和町","落合三ケ内","","Taiwa-cho, Kurokawa-gun","Ochiai Sangauchi",""]],
 	"9813402":[[4,"黒川郡大和町","落合報恩寺","","Taiwa-cho, Kurokawa-gun","Ochiai Hoonji",""]],
-	"9813403":[[4,"黒川郡大和町","落合檜和田","","Taiwa-cho, Kurokawa-gun","Ochiai Hiwada",""]],
+	"9813403":[[4,"黒川郡大和町","落合桧和田","","Taiwa-cho, Kurokawa-gun","Ochiai Hiwada",""]],
 	"9813404":[[4,"黒川郡大和町","落合相川","","Taiwa-cho, Kurokawa-gun","Ochiai Aikawa",""]],
 	"9813405":[[4,"黒川郡大和町","落合舞野","","Taiwa-cho, Kurokawa-gun","Ochiai Maino",""]],
 	"9813406":[[4,"黒川郡大和町","落合蒜袋","","Taiwa-cho, Kurokawa-gun","Ochiai Hirubukuro",""]],

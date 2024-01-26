@@ -298,6 +298,7 @@ zipdata({
 	"9493427":[[15,"上越市","吉川区顕法寺","","Joetsu-shi","Yoshikawaku Kempoji",""]],
 	"9493428":[[15,"上越市","吉川区十町歩","","Joetsu-shi","Yoshikawaku Jitchobu",""]],
 	"9493429":[[15,"上越市","吉川区河沢","","Joetsu-shi","Yoshikawaku Kozo",""]],
+	"9493430":[[15,"上越市","吉川区大滝","","Joetsu-shi","Yoshikawaku Otaki",""]],
 	"9493431":[[15,"上越市","吉川区田尻","","Joetsu-shi","Yoshikawaku Tajiri",""]],
 	"9493432":[[15,"上越市","吉川区六万部","","Joetsu-shi","Yoshikawaku Rokumambu",""]],
 	"9493433":[[15,"上越市","吉川区町田","","Joetsu-shi","Yoshikawaku Machida",""]],

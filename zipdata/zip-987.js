@@ -330,7 +330,7 @@ zipdata({
 	"9872262":[[4,"栗原市","築館唐竹林","","Kurihara-shi","Tsukidate Karatakebayashi",""]],
 	"9872263":[[4,"栗原市","築館新田","","Kurihara-shi","Tsukidate Shinden",""],[4,"栗原市","築館薬師ケ丘","","Kurihara-shi","Tsukidate Yakushigaoka",""]],
 	"9872264":[[4,"栗原市","築館薬師台","","Kurihara-shi","Tsukidate Yakushidai",""]],
-	"9872265":[[4,"栗原市","築館小淵西","","Kurihara-shi","Tsukidate Kobuchinishi",""],[4,"栗原市","築館小淵東","","Kurihara-shi","Tsukidate Kobuchihigashi",""],[4,"栗原市","築館境田","","Kurihara-shi","Tsukidate Sakaida",""],[4,"栗原市","築館佐野原","","Kurihara-shi","Tsukidate Sanohara",""]],
+	"9872265":[[4,"栗原市","築館小淵西","","Kurihara-shi","Tsukidate Kobuchinishi",""],[4,"栗原市","築館小淵東","","Kurihara-shi","Tsukidate Kobuchihigashi",""],[4,"栗原市","築館境田","","Kurihara-shi","Tsukidate Sakaida",""],[4,"栗原市","築館左野原","","Kurihara-shi","Tsukidate Sanohara",""]],
 	"9872271":[[4,"栗原市","築館芋埣","","Kurihara-shi","Tsukidate Imozone",""]],
 	"9872272":[[4,"栗原市","築館留場","","Kurihara-shi","Tsukidate Tomeba",""]],
 	"9872273":[[4,"栗原市","築館左足","","Kurihara-shi","Tsukidate Koedate",""]],

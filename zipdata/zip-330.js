@@ -3,7 +3,7 @@ zipdata({
 	"3300041":[[11,"さいたま市浦和区","三崎","","Urawa-ku, Saitama-shi","Misaki",""]],
 	"3300042":[[11,"さいたま市浦和区","木崎","","Urawa-ku, Saitama-shi","Kizaki",""]],
 	"3300043":[[11,"さいたま市浦和区","大東","","Urawa-ku, Saitama-shi","Daito",""]],
-	"3300044":[[11,"さいたま市浦和区","瀬ケ崎","","Urawa-ku, Saitama-shi","Segasaki",""]],
+	"3300044":[[11,"さいたま市浦和区","瀬ヶ崎","","Urawa-ku, Saitama-shi","Segasaki",""]],
 	"3300045":[[11,"さいたま市浦和区","皇山町","","Urawa-ku, Saitama-shi","Kozancho",""]],
 	"3300046":[[11,"さいたま市浦和区","大原","","Urawa-ku, Saitama-shi","Ohara",""]],
 	"3300051":[[11,"さいたま市浦和区","駒場","","Urawa-ku, Saitama-shi","Komaba",""]],

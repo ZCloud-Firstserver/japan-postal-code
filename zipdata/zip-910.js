@@ -337,6 +337,7 @@ zipdata({
 	"9102146":[[18,"福井市","下毘沙門町","","Fukui-shi","Shimobishamoncho",""]],
 	"9102147":[[18,"福井市","成願寺町","","Fukui-shi","Joganjicho",""]],
 	"9102148":[[18,"福井市","篠尾町","","Fukui-shi","Shinocho",""]],
+	"9102149":[[18,"福井市","東郷美里町","","Fukui-shi","Togo Misatocho",""]],
 	"9102151":[[18,"福井市","安波賀中島町","","Fukui-shi","Abakanakajimacho",""]],
 	"9102152":[[18,"福井市","安波賀町","","Fukui-shi","Abakacho",""]],
 	"9102153":[[18,"福井市","城戸ノ内町","","Fukui-shi","Kidonochicho",""]],

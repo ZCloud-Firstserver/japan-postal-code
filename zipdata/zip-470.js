@@ -64,6 +64,7 @@ zipdata({
 	"4700225":[[23,"みよし市","福田町","","Miyoshi-shi","Fukutacho",""]],
 	"4700226":[[23,"みよし市","西一色町","","Miyoshi-shi","Nishiishikicho",""]],
 	"4700227":[[23,"みよし市","園原","","Miyoshi-shi","Sonohara",""]],
+	"4700228":[[23,"みよし市","新前田","","Miyoshi-shi","Shimmaeda",""]],
 	"4700231":[[23,"みよし市","黒笹","","Miyoshi-shi","Kurozasa",""]],
 	"4700232":[[23,"みよし市","黒笹いずみ","","Miyoshi-shi","Kurozasa Izumi",""]],
 	"4700233":[[23,"みよし市","三好丘あおば","","Miyoshi-shi","Miyoshigaoka Aoba",""]],

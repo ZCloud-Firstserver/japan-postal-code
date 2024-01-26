@@ -23,7 +23,7 @@ zipdata({
 	"5980033":[[27,"泉佐野市","南中安松","","Izumisano-shi","Minaminakayasumatsu",""]],
 	"5980034":[[27,"泉佐野市","長滝","","Izumisano-shi","Nagataki",""]],
 	"5980035":[[27,"泉佐野市","南中樫井","","Izumisano-shi","Minaminakakashii",""]],
-	"5980036":[[27,"泉佐野市","南中岡本","","Izumisano-shi","Minaminakaokamoto",""]],
+	"5980036":[[27,"泉佐野市","岡本","","Izumisano-shi","Okamoto",""],[27,"泉佐野市","南中岡本","","Izumisano-shi","Minaminakaokamoto",""]],
 	"5980037":[[27,"泉佐野市","羽倉崎上町","","Izumisano-shi","Hagurazakiuemachi",""]],
 	"5980041":[[27,"泉佐野市","野出町","","Izumisano-shi","Nodecho",""]],
 	"5980042":[[27,"泉佐野市","西本町","","Izumisano-shi","Nishihommachi",""]],

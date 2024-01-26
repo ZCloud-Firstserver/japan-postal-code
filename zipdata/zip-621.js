@@ -80,6 +80,7 @@ zipdata({
 	"6210804":[[26,"亀岡市","追分町","","Kameoka-shi","Oiwakecho",""]],
 	"6210805":[[26,"亀岡市","安町","","Kameoka-shi","Yasumachi",""]],
 	"6210806":[[26,"亀岡市","余部町","","Kameoka-shi","Amarubecho",""]],
+	"6210807":[[26,"亀岡市","亀岡駅北","","Kameoka-shi","Kameokaekikita",""]],
 	"6210811":[[26,"亀岡市","北古世町","","Kameoka-shi","Kitakosecho",""]],
 	"6210812":[[26,"亀岡市","横町","","Kameoka-shi","Yokocho",""]],
 	"6210813":[[26,"亀岡市","突抜町","","Kameoka-shi","Tsukinukecho",""]],

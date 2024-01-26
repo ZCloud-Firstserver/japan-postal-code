@@ -51,6 +51,7 @@ zipdata({
 	"6550852":[[28,"神戸市垂水区","名谷町","","Tarumi-ku, Kobe-shi","Myodanicho",""]],
 	"6550853":[[28,"神戸市垂水区","つつじが丘","","Tarumi-ku, Kobe-shi","Tsutsujigaoka",""]],
 	"6550854":[[28,"神戸市垂水区","桃山台","","Tarumi-ku, Kobe-shi","Momoyamadai",""]],
+	"6550855":[[28,"神戸市垂水区","みずき台","","Tarumi-ku, Kobe-shi","Mizukidai",""]],
 	"6550861":[[28,"神戸市垂水区","下畑町","","Tarumi-ku, Kobe-shi","Shimohatacho",""]],
 	"6550862":[[28,"神戸市垂水区","朝谷町","","Tarumi-ku, Kobe-shi","Asatanicho",""]],
 	"6550863":[[28,"神戸市垂水区","塩屋北町","","Tarumi-ku, Kobe-shi","Shioyakitamachi",""]],
