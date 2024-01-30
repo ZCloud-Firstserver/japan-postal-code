@@ -307,6 +307,7 @@ zipdata({
 	"2993235":[[12,"大網白里市","駒込","","Oamishirasato-shi","Komagome",""]],
 	"2993236":[[12,"大網白里市","みやこ野","","Oamishirasato-shi","Miyakono",""]],
 	"2993237":[[12,"大網白里市","仏島","","Oamishirasato-shi","Hotokeshima",""]],
+	"2993238":[[12,"大網白里市","東駒込","","Oamishirasato-shi","Higashikomagome",""]],
 	"2993241":[[12,"大網白里市","季美の森南","","Oamishirasato-shi","Kiminomoriminami",""]],
 	"2993242":[[12,"大網白里市","金谷郷","","Oamishirasato-shi","Kanayago",""]],
 	"2993243":[[12,"大網白里市","大竹","","Oamishirasato-shi","Odake",""]],

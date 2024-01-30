@@ -5,7 +5,7 @@ zipdata({
 	"8130003":[[40,"福岡市東区","香住ヶ丘","","Higashi-ku, Fukuoka-shi","Kasumigaoka",""]],
 	"8130004":[[40,"福岡市東区","松香台","","Higashi-ku, Fukuoka-shi","Matsukadai",""]],
 	"8130005":[[40,"福岡市東区","御島崎","","Higashi-ku, Fukuoka-shi","Mishimazaki",""]],
-	"8130008":[[40,"糟屋郡粕屋町","内橋７９０の１","","Kasuya-machi, Kasuya-gun","Uchihashi 790-1",""]],
+	"8130008":[[40,"糟屋郡粕屋町","内橋西","","Kasuya-machi, Kasuya-gun","Uchihashinishi",""]],
 	"8130011":[[40,"福岡市東区","香椎","","Higashi-ku, Fukuoka-shi","Kashii",""]],
 	"8130012":[[40,"福岡市東区","香椎駅東","","Higashi-ku, Fukuoka-shi","Kashiiekihigashi",""]],
 	"8130013":[[40,"福岡市東区","香椎駅前","","Higashi-ku, Fukuoka-shi","Kashiiekimae",""]],

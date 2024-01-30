@@ -164,7 +164,7 @@ zipdata({
 	"0150866":[[5,"由利本荘市","堤脇","","Yurihonjo-shi","Tsutsumiwaki",""]],
 	"0150867":[[5,"由利本荘市","千刈","","Yurihonjo-shi","Sengari",""]],
 	"0150868":[[5,"由利本荘市","大堤下","","Yurihonjo-shi","Ozutsumishita",""]],
-	"0150869":[[5,"由利本荘市","陣場岱","","Yurihonjo-shi","Jimbadai",""]],
+	"0150869":[[5,"由利本荘市","陳場岱","","Yurihonjo-shi","Jimbadai",""]],
 	"0150871":[[5,"由利本荘市","尾崎","","Yurihonjo-shi","Ozaki",""]],
 	"0150872":[[5,"由利本荘市","瓦谷地","","Yurihonjo-shi","Kawarayachi",""]],
 	"0150873":[[5,"由利本荘市","鶴沼","","Yurihonjo-shi","Tsurunuma",""]],

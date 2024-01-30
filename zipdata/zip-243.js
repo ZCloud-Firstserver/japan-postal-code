@@ -57,6 +57,7 @@ zipdata({
 	"2430215":[[14,"厚木市","上古沢","","Atsugi-shi","Kamifurusawa",""]],
 	"2430216":[[14,"厚木市","宮の里","","Atsugi-shi","Miyanosato",""]],
 	"2430217":[[14,"厚木市","三田南","","Atsugi-shi","Sandaminami",""]],
+	"2430218":[[14,"厚木市","飯山南","","Atsugi-shi","Iiyamaminami",""]],
 	"2430300":[[14,"愛甲郡愛川町","","","Aikawa-machi, Aiko-gun","",""]],
 	"2430301":[[14,"愛甲郡愛川町","角田","","Aikawa-machi, Aiko-gun","Sumida",""]],
 	"2430302":[[14,"愛甲郡愛川町","春日台","","Aikawa-machi, Aiko-gun","Kasugadai",""]],

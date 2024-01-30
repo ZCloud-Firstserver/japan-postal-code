@@ -45,6 +45,7 @@ zipdata({
 	"0240082":[[3,"北上市","町分","","Kitakami-shi","Machibun",""]],
 	"0240083":[[3,"北上市","柳原町","","Kitakami-shi","Yanagiharacho",""]],
 	"0240084":[[3,"北上市","さくら通り","","Kitakami-shi","Sakuradori",""]],
+	"0240085":[[3,"北上市","しらゆり","","Kitakami-shi","Shirayuri",""]],
 	"0240091":[[3,"北上市","大曲町","","Kitakami-shi","Omagaricho",""]],
 	"0240092":[[3,"北上市","新穀町","","Kitakami-shi","Shinkokucho",""]],
 	"0240093":[[3,"北上市","本石町","","Kitakami-shi","Hongokucho",""]],

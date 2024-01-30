@@ -73,7 +73,6 @@ zipdata({
 	"6310825":[[29,"奈良市","西大寺芝町","","Nara-shi","Saidaiji Shibamachi",""]],
 	"6310826":[[29,"奈良市","西大寺町","","Nara-shi","Saidaijicho",""]],
 	"6310827":[[29,"奈良市","西大寺小坊町","","Nara-shi","Saidaiji Kobocho",""]],
-	"6310828":[[29,"奈良市","横領町","","Nara-shi","Yokoryocho",""]],
 	"6310831":[[29,"奈良市","西大寺宝ヶ丘","","Nara-shi","Saidaiji Takaragaoka",""]],
 	"6310832":[[29,"奈良市","西大寺新田町","","Nara-shi","Saidaiji Shindencho",""]],
 	"6310833":[[29,"奈良市","西大寺野神町","","Nara-shi","Saidaiji Nogamicho",""]],

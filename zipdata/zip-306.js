@@ -111,6 +111,7 @@ zipdata({
 	"3060405":[[8,"猿島郡境町","塚崎","","Sakai-machi, Sashima-gun","Tsukazaki",""]],
 	"3060406":[[8,"猿島郡境町","横塚","","Sakai-machi, Sashima-gun","Yokotsuka",""]],
 	"3060407":[[8,"猿島郡境町","稲尾","","Sakai-machi, Sashima-gun","Inao",""]],
+	"3060408":[[8,"猿島郡境町","みらい平","","Sakai-machi, Sashima-gun","Miraidaira",""]],
 	"3060411":[[8,"猿島郡境町","下砂井","","Sakai-machi, Sashima-gun","Shimoisagoi",""]],
 	"3060412":[[8,"猿島郡境町","栗山","","Sakai-machi, Sashima-gun","Kuriyama",""]],
 	"3060413":[[8,"猿島郡境町","山崎","","Sakai-machi, Sashima-gun","Yamazaki",""]],

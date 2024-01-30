@@ -14,6 +14,7 @@ zipdata({
 	"3140015":[[8,"鹿嶋市","泉川","","Kashima-shi","Izumigawa",""]],
 	"3140016":[[8,"鹿嶋市","国末","","Kashima-shi","Kunisue",""]],
 	"3140017":[[8,"鹿嶋市","旭ケ丘","","Kashima-shi","Asahigaoka",""]],
+	"3140018":[[8,"鹿嶋市","平井東","","Kashima-shi","Hiraihigashi",""]],
 	"3140021":[[8,"鹿嶋市","粟生","","Kashima-shi","Ao",""]],
 	"3140022":[[8,"鹿嶋市","長栖","","Kashima-shi","Nagasu",""]],
 	"3140023":[[8,"鹿嶋市","谷原","","Kashima-shi","Yawara",""]],

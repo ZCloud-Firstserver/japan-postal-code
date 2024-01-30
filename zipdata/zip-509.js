@@ -15,6 +15,7 @@ zipdata({
 	"5090115":[[21,"各務原市","緑苑南","","Kakamigahara-shi","Ryokuen Minami",""]],
 	"5090116":[[21,"各務原市","緑苑西","","Kakamigahara-shi","Ryokuen Nishi",""]],
 	"5090117":[[21,"各務原市","鵜沼大安寺町","","Kakamigahara-shi","Unuma Daianjicho",""]],
+	"5090118":[[21,"各務原市","各務山","","Kakamigahara-shi","Kakamiyama",""]],
 	"5090121":[[21,"各務原市","鵜沼台","","Kakamigahara-shi","Unumadai",""]],
 	"5090122":[[21,"各務原市","新鵜沼台","","Kakamigahara-shi","Shinunumadai",""]],
 	"5090123":[[21,"各務原市","鵜沼宝積寺町","","Kakamigahara-shi","Unuma Hoshakujicho",""]],

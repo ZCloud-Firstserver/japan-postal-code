@@ -281,7 +281,7 @@ zipdata({
 	"7812613":[[39,"吾川郡いの町","足谷","","Ino-cho, Agawa-gun","Ashidani",""]],
 	"7812614":[[39,"吾川郡いの町","葛原","","Ino-cho, Agawa-gun","Kazurahara",""]],
 	"7812615":[[39,"吾川郡いの町","桑瀬","","Ino-cho, Agawa-gun","Kuwaze",""]],
-	"7812616":[[39,"吾川郡いの町","中ノ川","","Ino-cho, Agawa-gun","Nakanokawa",""]],
+	"7812616":[[39,"吾川郡いの町","中野川","","Ino-cho, Agawa-gun","Nakanokawa",""]],
 	"7813101":[[39,"高知市","鏡大河内","","Kochi-shi","Kagami Ogachi",""]],
 	"7813102":[[39,"高知市","鏡小浜","","Kochi-shi","Kagami Kohama",""]],
 	"7813103":[[39,"高知市","鏡大利","","Kochi-shi","Kagami Ori",""]],

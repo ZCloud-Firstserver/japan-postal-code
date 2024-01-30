@@ -15,7 +15,7 @@ zipdata({
 	"0050015":[[1,"札幌市南区","真駒内泉町","","Minami-ku, Sapporo-shi","Makomanaiizumimachi",""]],
 	"0050016":[[1,"札幌市南区","真駒内南町","","Minami-ku, Sapporo-shi","Makomanaiminamimachi",""]],
 	"0050017":[[1,"札幌市南区","真駒内公園","","Minami-ku, Sapporo-shi","Makomanaikoen",""]],
-	"0050018":[[1,"札幌市南区","真駒内曙町","","Minami-ku, Sapporo-shi","Makomanaiakebonocho",""]],
+	"0050018":[[1,"札幌市南区","真駒内曙町","","Minami-ku, Sapporo-shi","Makomanaiakebonomachi",""]],
 	"0050021":[[1,"札幌市南区","真駒内本町","","Minami-ku, Sapporo-shi","Makomanaihoncho",""]],
 	"0050022":[[1,"札幌市南区","真駒内柏丘","","Minami-ku, Sapporo-shi","Makomanaikashiwaoka",""]],
 	"0050030":[[1,"札幌市南区","南三十条西","","Minami-ku, Sapporo-shi","Minami30-jonishi",""]],

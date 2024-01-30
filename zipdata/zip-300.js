@@ -537,6 +537,7 @@ zipdata({
 	"3002505":[[8,"常総市","中妻町","","Joso-shi","Nakatsumamachi",""]],
 	"3002506":[[8,"常総市","三坂町","","Joso-shi","Misakamachi",""]],
 	"3002507":[[8,"常総市","三坂新田町","","Joso-shi","Misakashindemmachi",""]],
+	"3002508":[[8,"常総市","むすびまち","","Joso-shi","Musubimachi",""]],
 	"3002511":[[8,"常総市","花島町","","Joso-shi","Hanashimamachi",""]],
 	"3002512":[[8,"常総市","大輪町","","Joso-shi","Owamachi",""]],
 	"3002513":[[8,"常総市","羽生町","","Joso-shi","Hanyumachi",""]],

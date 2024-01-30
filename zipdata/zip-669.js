@@ -2,7 +2,7 @@ zipdata({
 	"6691101":[[28,"西宮市","塩瀬町生瀬","","Nishinomiya-shi","Shiosecho Namaze",""]],
 	"6691102":[[28,"西宮市","生瀬町","","Nishinomiya-shi","Namazecho",""]],
 	"6691103":[[28,"西宮市","生瀬東町","","Nishinomiya-shi","Namaze Higashimachi",""]],
-	"6691104":[[28,"西宮市","生瀬武庫川町","","Nishinomiya-shi","Namasemukogawacho",""]],
+	"6691104":[[28,"西宮市","生瀬武庫川町","","Nishinomiya-shi","Namazemukogawacho",""]],
 	"6691111":[[28,"西宮市","生瀬高台","","Nishinomiya-shi","Namaze Takadai",""]],
 	"6691112":[[28,"西宮市","宝生ケ丘","","Nishinomiya-shi","Hoshogaoka",""]],
 	"6691121":[[28,"西宮市","花の峯","","Nishinomiya-shi","Hananomine",""]],

@@ -227,6 +227,7 @@ zipdata({
 	"6562126":[[28,"洲本市","安乎町宮野原","","Sumoto-shi","Aigacho Miyanohara",""]],
 	"6562131":[[28,"淡路市","志筑","","Awaji-shi","Shizuki",""]],
 	"6562132":[[28,"淡路市","志筑新島","","Awaji-shi","Shizukiniijima",""]],
+	"6562133":[[28,"淡路市","志筑新浜","","Awaji-shi","Shizukiniihama",""]],
 	"6562141":[[28,"淡路市","塩尾","","Awaji-shi","Shio",""]],
 	"6562142":[[28,"淡路市","塩田新島","","Awaji-shi","Shiotaniijima",""]],
 	"6562143":[[28,"淡路市","里","","Awaji-shi","Sato",""]],

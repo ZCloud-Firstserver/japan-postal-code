@@ -53,6 +53,7 @@ zipdata({
 	"5250065":[[25,"草津市","橋岡町","","Kusatsu-shi","Hashiokacho",""]],
 	"5250066":[[25,"草津市","矢橋町","","Kusatsu-shi","Yabasecho",""]],
 	"5250067":[[25,"草津市","新浜町","","Kusatsu-shi","Shinhamacho",""]],
+	"5250068":[[25,"草津市","南草津プリムタウン","","Kusatsu-shi","Minamikusatsupurimutaun",""]],
 	"5250071":[[25,"草津市","南笠東","","Kusatsu-shi","Minamigasahigashi",""]],
 	"5250072":[[25,"草津市","笠山","","Kusatsu-shi","Kasayama",""]]
 })

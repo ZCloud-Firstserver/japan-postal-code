@@ -5,7 +5,7 @@ zipdata({
 	"9460003":[[15,"魚沼市","諏訪町","","Uonuma-shi","Suwacho",""]],
 	"9460004":[[15,"魚沼市","大塚新田","","Uonuma-shi","Ozukashinden",""]],
 	"9460005":[[15,"魚沼市","横町","","Uonuma-shi","Yokocho",""]],
-	"9460006":[[15,"魚沼市","中之島","","Uonuma-shi","Nakanoshima",""]],
+	"9460006":[[15,"魚沼市","中ノ島","","Uonuma-shi","Nakanoshima",""]],
 	"9460007":[[15,"魚沼市","四日町","","Uonuma-shi","Yokkamachi",""]],
 	"9460011":[[15,"魚沼市","小出島","","Uonuma-shi","Koidejima",""]],
 	"9460012":[[15,"魚沼市","浦町","","Uonuma-shi","Uramachi",""]],
