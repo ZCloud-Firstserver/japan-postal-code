@@ -46,6 +46,7 @@ zipdata({
 	"9830824":[[4,"仙台市宮城野区","鶴ケ谷","","Miyagino-ku, Sendai-shi","Tsurugaya",""]],
 	"9830825":[[4,"仙台市宮城野区","鶴ケ谷北","","Miyagino-ku, Sendai-shi","Tsurugayakita",""]],
 	"9830826":[[4,"仙台市宮城野区","鶴ケ谷東","","Miyagino-ku, Sendai-shi","Tsurugayahigashi",""]],
+	"9830827":[[4,"仙台市宮城野区","神谷沢","","Miyagino-ku, Sendai-shi","Kamiyasawa",""]],
 	"9830828":[[4,"仙台市宮城野区","岩切分台","","Miyagino-ku, Sendai-shi","Iwakiribundai",""]],
 	"9830831":[[4,"仙台市宮城野区","自由ケ丘","","Miyagino-ku, Sendai-shi","Jiyugaoka",""]],
 	"9830832":[[4,"仙台市宮城野区","安養寺","","Miyagino-ku, Sendai-shi","Anyoji",""]],

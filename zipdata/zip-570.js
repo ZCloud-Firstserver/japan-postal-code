@@ -36,7 +36,7 @@ zipdata({
 	"5700039":[[27,"守口市","橋波西之町","","Moriguchi-shi","Hashiba Nishinocho",""]],
 	"5700041":[[27,"守口市","東郷通","","Moriguchi-shi","Togodori",""]],
 	"5700042":[[27,"守口市","寺方錦通","","Moriguchi-shi","Terakata Nishikidori",""]],
-	"5700043":[[27,"守口市","高瀬旧大枝","","Moriguchi-shi","Takasekyu Oeda",""],[27,"守口市","高瀬旧世木","","Moriguchi-shi","Takasekyu Segi",""],[27,"守口市","高瀬旧馬場","","Moriguchi-shi","Takasekyu Baba",""],[27,"守口市","南寺方東通","","Moriguchi-shi","Minamiterakata Higashidori",""]],
+	"5700043":[[27,"守口市","南寺方東通","","Moriguchi-shi","Minamiterakata Higashidori",""]],
 	"5700044":[[27,"守口市","南寺方南通","","Moriguchi-shi","Minamiterakata Minamidori",""]],
 	"5700045":[[27,"守口市","南寺方中通","","Moriguchi-shi","Minamiterakata Nakadori",""]],
 	"5700046":[[27,"守口市","南寺方北通","","Moriguchi-shi","Minamiterakata Kitadori",""]],

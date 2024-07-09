@@ -52,5 +52,6 @@ zipdata({
 	"3450833":[[11,"南埼玉郡宮代町","西粂原","","Miyashiro-machi, Minamisaitama-gun","Nishikumehara",""]],
 	"3450834":[[11,"南埼玉郡宮代町","国納","","Miyashiro-machi, Minamisaitama-gun","Kokuno",""]],
 	"3450835":[[11,"南埼玉郡宮代町","宮代台","","Miyashiro-machi, Minamisaitama-gun","Miyashirodai",""]],
-	"3450836":[[11,"南埼玉郡宮代町","和戸","","Miyashiro-machi, Minamisaitama-gun","Wado",""]]
+	"3450836":[[11,"南埼玉郡宮代町","和戸","","Miyashiro-machi, Minamisaitama-gun","Wado",""]],
+	"3450837":[[11,"南埼玉郡宮代町","和戸横町","","Miyashiro-machi, Minamisaitama-gun","Wadoyokomachi",""]]
 })

@@ -16,6 +16,7 @@ zipdata({
 	"5540041":[[27,"大阪市此花区","北港白津","","Konohana-ku, Osaka-shi","Hokuko Shiratsu",""]],
 	"5540042":[[27,"大阪市此花区","北港緑地","","Konohana-ku, Osaka-shi","Hokuko Ryokuchi",""]],
 	"5540043":[[27,"大阪市此花区","夢洲東","","Konohana-ku, Osaka-shi","Yumeshimahigashi",""]],
+	"5540044":[[27,"大阪市此花区","夢洲中","","Konohana-ku, Osaka-shi","Yumeshimanaka",""]],
 	"5540051":[[27,"大阪市此花区","酉島","","Konohana-ku, Osaka-shi","Torishima",""]],
 	"5540052":[[27,"大阪市此花区","常吉","","Konohana-ku, Osaka-shi","Tsuneyoshi",""]]
 })

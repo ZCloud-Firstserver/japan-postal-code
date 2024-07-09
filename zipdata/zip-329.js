@@ -159,6 +159,7 @@ zipdata({
 	"3291314":[[9,"さくら市","柿木沢","","Sakura-shi","Kakinokizawa",""]],
 	"3291315":[[9,"さくら市","氏家新田","","Sakura-shi","Ujiieshinden",""]],
 	"3291316":[[9,"さくら市","上阿久津","","Sakura-shi","Kamiakutsu",""]],
+	"3291317":[[9,"さくら市","きぬの里","","Sakura-shi","Kinunosato",""]],
 	"3291321":[[9,"さくら市","馬場","","Sakura-shi","Baba",""]],
 	"3291322":[[9,"さくら市","北草川","","Sakura-shi","Kitakusagawa",""]],
 	"3291323":[[9,"さくら市","卯の里","","Sakura-shi","Unosato",""]],

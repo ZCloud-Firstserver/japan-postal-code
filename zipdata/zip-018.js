@@ -40,6 +40,7 @@ zipdata({
 	"0180146":[[5,"にかほ市","象潟町蒲谷地","","Nikaho-shi","Kisakatamachi Kabayachi",""]],
 	"0180147":[[5,"にかほ市","象潟町立石","","Nikaho-shi","Kisakatamachi Tateishi",""]],
 	"0180148":[[5,"にかほ市","象潟町下浜山","","Nikaho-shi","Kisakatamachi Shimohamayama",""]],
+	"0180149":[[5,"にかほ市","象潟町上谷地","","Nikaho-shi","Kisakatamachi Kamiyachi",""]],
 	"0180151":[[5,"にかほ市","象潟町横岡","","Nikaho-shi","Kisakatamachi Yokoka",""]],
 	"0180152":[[5,"にかほ市","象潟町本郷","","Nikaho-shi","Kisakatamachi Hongo",""]],
 	"0180153":[[5,"にかほ市","象潟町小滝","","Nikaho-shi","Kisakatamachi Kodaki",""]],

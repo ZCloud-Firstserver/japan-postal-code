@@ -97,6 +97,7 @@ zipdata({
 	"3691245":[[11,"深谷市","荒川","","Fukaya-shi","Arakawa",""]],
 	"3691246":[[11,"深谷市","小前田","","Fukaya-shi","Omaeda",""]],
 	"3691247":[[11,"深谷市","緑台","","Fukaya-shi","Midoridai",""]],
+	"3691248":[[11,"深谷市","花園","","Fukaya-shi","Hanazono",""]],
 	"3691300":[[11,"秩父郡長瀞町","","","Nagatoro-machi, Chichibu-gun","",""]],
 	"3691301":[[11,"秩父郡長瀞町","矢那瀬","","Nagatoro-machi, Chichibu-gun","Yanase",""]],
 	"3691302":[[11,"秩父郡長瀞町","野上下郷","","Nagatoro-machi, Chichibu-gun","Nogamishimogo",""]],

@@ -84,6 +84,7 @@ zipdata({
 	"5110104":[[24,"桑名市","多度町肱江","","Kuwana-shi","Tadocho Hijie",""]],
 	"5110105":[[24,"桑名市","多度町小山","","Kuwana-shi","Tadocho Oyama",""]],
 	"5110106":[[24,"桑名市","多度町多度","","Kuwana-shi","Tadocho Tado",""]],
+	"5110107":[[24,"桑名市","多度町小山台","","Kuwana-shi","Tadocho Oyamadai",""]],
 	"5110111":[[24,"桑名市","多度町平古","","Kuwana-shi","Tadocho Hirako",""]],
 	"5110112":[[24,"桑名市","多度町福永","","Kuwana-shi","Tadocho Fukunaga",""]],
 	"5110113":[[24,"桑名市","多度町上之郷","","Kuwana-shi","Tadocho Kaminogo",""]],

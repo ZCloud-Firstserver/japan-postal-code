@@ -82,6 +82,7 @@ zipdata({
 	"8991923":[[46,"薩摩川内市","湯島町","","Satsumasendai-shi","Yushimacho",""]],
 	"8991924":[[46,"薩摩川内市","港町","","Satsumasendai-shi","Minatocho",""]],
 	"8991925":[[46,"薩摩川内市","網津町","","Satsumasendai-shi","Ozucho",""]],
+	"8991926":[[46,"薩摩川内市","サーキュラーパーク","","Satsumasendai-shi","Sakyurapaku",""]],
 	"8992101":[[46,"いちき串木野市","湊町","","Ichikikushikino-shi","Minatomachi",""]],
 	"8992102":[[46,"いちき串木野市","川上","","Ichikikushikino-shi","Kawakami",""]],
 	"8992103":[[46,"いちき串木野市","大里","","Ichikikushikino-shi","Ozato",""]],
