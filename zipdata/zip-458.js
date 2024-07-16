@@ -73,6 +73,7 @@ zipdata({
 	"4580835":[[23,"名古屋市緑区","鳴海町","","Midori-ku, Nagoya-shi","Narumicho ",""]],
 	"4580836":[[23,"名古屋市緑区","白土","","Midori-ku, Nagoya-shi","Shirotsuchi",""]],
 	"4580837":[[23,"名古屋市緑区","赤松","","Midori-ku, Nagoya-shi","Akamatsu",""]],
+	"4580838":[[23,"名古屋市緑区","東陵","","Midori-ku, Nagoya-shi","Toryo",""]],
 	"4580841":[[23,"名古屋市緑区","鳴海町","","Midori-ku, Nagoya-shi","Narumicho ",""]],
 	"4580842":[[23,"名古屋市緑区","鳴海町","","Midori-ku, Nagoya-shi","Narumicho ",""]],
 	"4580843":[[23,"名古屋市緑区","松が根台","","Midori-ku, Nagoya-shi","Matsuganedai",""]],

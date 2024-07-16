@@ -61,7 +61,7 @@ zipdata({
 	"9140075":[[18,"敦賀市","曙町","","Tsuruga-shi","Akebonocho",""]],
 	"9140076":[[18,"敦賀市","元町","","Tsuruga-shi","Motomachi",""]],
 	"9140077":[[18,"敦賀市","栄新町","","Tsuruga-shi","Sakaeshimmachi",""]],
-	"9140078":[[18,"敦賀市","桜町","","Tsuruga-shi","Sakuracho",""]],
+	"9140078":[[18,"敦賀市","桜町","","Tsuruga-shi","Sakuramachi",""]],
 	"9140079":[[18,"敦賀市","港町","","Tsuruga-shi","Minatomachi",""]],
 	"9140121":[[18,"敦賀市","野神","","Tsuruga-shi","Nogami",""]],
 	"9140122":[[18,"敦賀市","新和町","","Tsuruga-shi","Shinwacho",""]],

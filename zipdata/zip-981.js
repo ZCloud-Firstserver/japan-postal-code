@@ -13,6 +13,7 @@ zipdata({
 	"9810122":[[4,"宮城郡利府町","菅谷","","Rifu-cho, Miyagi-gun","Sugaya",""]],
 	"9810123":[[4,"宮城郡利府町","沢乙","","Rifu-cho, Miyagi-gun","Sawaoto",""]],
 	"9810124":[[4,"宮城郡利府町","沢乙東","","Rifu-cho, Miyagi-gun","Sawaotohigashi",""]],
+	"9810125":[[4,"宮城郡利府町","岩切","","Rifu-cho, Miyagi-gun","Iwakiri",""]],
 	"9810131":[[4,"宮城郡利府町","青山","","Rifu-cho, Miyagi-gun","Aoyama",""]],
 	"9810132":[[4,"宮城郡利府町","花園","","Rifu-cho, Miyagi-gun","Hanazono",""]],
 	"9810133":[[4,"宮城郡利府町","青葉台","","Rifu-cho, Miyagi-gun","Aobadai",""]],

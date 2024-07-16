@@ -488,6 +488,7 @@ zipdata({
 	"9638045":[[7,"郡山市","新屋敷","","Koriyama-shi","Arayashiki",""]],
 	"9638046":[[7,"郡山市","町東","","Koriyama-shi","Machihigashi",""]],
 	"9638047":[[7,"郡山市","富田東","","Koriyama-shi","Tomitahigashi",""]],
+	"9638048":[[7,"郡山市","富田西","","Koriyama-shi","Tomitanishi",""]],
 	"9638051":[[7,"郡山市","富久山町八山田","","Koriyama-shi","Fukuyamamachi Yatsuyamada",""]],
 	"9638052":[[7,"郡山市","八山田","","Koriyama-shi","Yatsuyamada",""]],
 	"9638053":[[7,"郡山市","八山田西","","Koriyama-shi","Yatsuyamadanishi",""]],

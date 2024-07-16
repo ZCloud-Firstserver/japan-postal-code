@@ -19,7 +19,7 @@ zipdata({
 	"8100024":[[40,"福岡市中央区","桜坂","","Chuo-ku, Fukuoka-shi","Sakurazaka",""]],
 	"8100025":[[40,"福岡市中央区","薬院伊福町","","Chuo-ku, Fukuoka-shi","Yakuinifukumachi",""]],
 	"8100026":[[40,"福岡市中央区","古小烏町","","Chuo-ku, Fukuoka-shi","Furukogarasumachi",""]],
-	"8100027":[[40,"福岡市中央区","御所ケ谷","","Chuo-ku, Fukuoka-shi","Goshogadani",""]],
+	"8100027":[[40,"福岡市中央区","御所ヶ谷","","Chuo-ku, Fukuoka-shi","Goshogatani",""]],
 	"8100028":[[40,"福岡市中央区","浄水通","","Chuo-ku, Fukuoka-shi","Josuidori",""]],
 	"8100029":[[40,"福岡市中央区","平尾浄水町","","Chuo-ku, Fukuoka-shi","Hiraojosuimachi",""]],
 	"8100031":[[40,"福岡市中央区","谷","","Chuo-ku, Fukuoka-shi","Tani",""]],

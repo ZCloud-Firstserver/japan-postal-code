@@ -117,7 +117,7 @@ zipdata({
 	"3550212":[[11,"比企郡嵐山町","太郎丸","","Ranzan-machi, Hiki-gun","Taromaru",""]],
 	"3550213":[[11,"比企郡嵐山町","川島","","Ranzan-machi, Hiki-gun","Kawashima",""]],
 	"3550214":[[11,"比企郡嵐山町","志賀","","Ranzan-machi, Hiki-gun","Shiga",""]],
-	"3550215":[[11,"比企郡嵐山町","平沢","","Ranzan-machi, Hiki-gun","Hirasawa",""]],
+	"3550215":[[11,"比企郡嵐山町","平澤","","Ranzan-machi, Hiki-gun","Hirasawa",""]],
 	"3550216":[[11,"比企郡嵐山町","むさし台","","Ranzan-machi, Hiki-gun","Musashidai",""]],
 	"3550221":[[11,"比企郡嵐山町","菅谷","","Ranzan-machi, Hiki-gun","Sugaya",""]],
 	"3550222":[[11,"比企郡嵐山町","大蔵","","Ranzan-machi, Hiki-gun","Okura",""]],

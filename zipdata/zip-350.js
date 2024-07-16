@@ -200,6 +200,7 @@ zipdata({
 	"3500415":[[11,"入間郡越生町","上野","","Ogose-machi, Iruma-gun","Ueno",""]],
 	"3500416":[[11,"入間郡越生町","越生","","Ogose-machi, Iruma-gun","Ogose",""]],
 	"3500417":[[11,"入間郡越生町","上野東","","Ogose-machi, Iruma-gun","Uenohigashi",""]],
+	"3500418":[[11,"入間郡越生町","春日","","Ogose-machi, Iruma-gun","Kasuga",""]],
 	"3500421":[[11,"入間郡越生町","麦原","","Ogose-machi, Iruma-gun","Mugihara",""]],
 	"3500422":[[11,"入間郡越生町","小杉","","Ogose-machi, Iruma-gun","Kosugi",""]],
 	"3500423":[[11,"入間郡越生町","大満","","Ogose-machi, Iruma-gun","Daima",""]],

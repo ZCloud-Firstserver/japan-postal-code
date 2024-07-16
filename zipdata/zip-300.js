@@ -154,6 +154,7 @@ zipdata({
 	"3000513":[[8,"稲敷市","桑山","","Inashiki-shi","Kuwayama",""]],
 	"3000514":[[8,"稲敷市","駒塚","","Inashiki-shi","Komatsuka",""]],
 	"3000515":[[8,"稲敷市","南ケ丘","","Inashiki-shi","Minamigaoka",""]],
+	"3000520":[[8,"稲敷市","君賀の森","","Inashiki-shi","Kimiganomori",""]],
 	"3000521":[[8,"稲敷市","月出里","","Inashiki-shi","Sudachi",""]],
 	"3000522":[[8,"稲敷市","蒲ケ山","","Inashiki-shi","Kamagayama",""]],
 	"3000523":[[8,"稲敷市","時崎","","Inashiki-shi","Tokizaki",""]],
