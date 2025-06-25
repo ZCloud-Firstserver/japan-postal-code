@@ -36,7 +36,7 @@ zipdata({
 	"0530047":[[1,"苫小牧市","泉町","","Tomakomai-shi","Izumicho",""]],
 	"0530051":[[1,"苫小牧市","明野元町","","Tomakomai-shi","Akenomotomachi",""]],
 	"0530052":[[1,"苫小牧市","新開町","","Tomakomai-shi","Shinkaicho",""]],
-	"0530053":[[1,"苫小牧市","柳町","","Tomakomai-shi","Yanagimachi",""]],
+	"0530053":[[1,"苫小牧市","柳町","","Tomakomai-shi","Yanagicho",""]],
 	"0530054":[[1,"苫小牧市","明野新町","","Tomakomai-shi","Akenoshimmachi",""]],
 	"0530055":[[1,"苫小牧市","新明町","","Tomakomai-shi","Shimmeicho",""]],
 	"0530056":[[1,"苫小牧市","あけぼの町","","Tomakomai-shi","Akebonocho",""]],

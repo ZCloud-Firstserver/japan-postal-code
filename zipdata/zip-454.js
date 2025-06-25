@@ -173,6 +173,8 @@ zipdata({
 	"4540974":[[23,"名古屋市中川区","島井町","","Nakagawa-ku, Nagoya-shi","Shimaicho",""]],
 	"4540975":[[23,"名古屋市中川区","七反田町","","Nakagawa-ku, Nagoya-shi","Hichitandacho",""]],
 	"4540976":[[23,"名古屋市中川区","服部","","Nakagawa-ku, Nagoya-shi","Hattori",""]],
+	"4540977":[[23,"名古屋市中川区","千音寺","","Nakagawa-ku, Nagoya-shi","Sennonji",""]],
+	"4540978":[[23,"名古屋市中川区","赤星","","Nakagawa-ku, Nagoya-shi","Akaboshi",""]],
 	"4540981":[[23,"名古屋市中川区","吉津","","Nakagawa-ku, Nagoya-shi","Yoshizu",""]],
 	"4540982":[[23,"名古屋市中川区","西伏屋","","Nakagawa-ku, Nagoya-shi","Nishifushiya",""]],
 	"4540983":[[23,"名古屋市中川区","東春田","","Nakagawa-ku, Nagoya-shi","Higashiharuta",""]],

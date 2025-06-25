@@ -29,5 +29,5 @@ zipdata({
 	"5918043":[[27,"堺市北区","北長尾町","","Kita-ku, Sakai-shi","Kitanagaocho",""]],
 	"5918044":[[27,"堺市北区","中長尾町","","Kita-ku, Sakai-shi","Nakanagaocho",""]],
 	"5918045":[[27,"堺市北区","南長尾町","","Kita-ku, Sakai-shi","Minaminagaocho",""]],
-	"5918046":[[27,"堺市北区","東三国ケ丘町","","Kita-ku, Sakai-shi","Higashimikunigaokacho",""]]
+	"5918046":[[27,"堺市北区","東三国ヶ丘町","","Kita-ku, Sakai-shi","Higashimikunigaokacho",""]]
 })

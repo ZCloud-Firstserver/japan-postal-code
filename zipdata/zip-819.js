@@ -175,5 +175,6 @@ zipdata({
 	"8191627":[[40,"糸島市","二丈松国","","Itoshima-shi","Nijo Matsukuni",""]],
 	"8191631":[[40,"糸島市","二丈福井","","Itoshima-shi","Nijo Fukui",""]],
 	"8191641":[[40,"糸島市","二丈吉井","","Itoshima-shi","Nijo Yoshii",""]],
-	"8191642":[[40,"糸島市","二丈鹿家","","Itoshima-shi","Nijo Shikaka",""]]
+	"8191642":[[40,"糸島市","二丈鹿家","","Itoshima-shi","Nijo Shikaka",""]],
+	"8191643":[[40,"糸島市","福吉","","Itoshima-shi","Fukuyoshi",""]]
 })

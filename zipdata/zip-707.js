@@ -11,6 +11,7 @@ zipdata({
 	"7070014":[[33,"美作市","北山","","Mimasaka-shi","Kitayama",""]],
 	"7070015":[[33,"美作市","豊国原","","Mimasaka-shi","Toyokunihara",""]],
 	"7070016":[[33,"美作市","下香山","","Mimasaka-shi","Shimokayama",""]],
+	"7070017":[[33,"美作市","美来","","Mimasaka-shi","Mirai",""]],
 	"7070021":[[33,"美作市","楢原中","","Mimasaka-shi","Naraharanaka",""]],
 	"7070022":[[33,"美作市","楢原上","","Mimasaka-shi","Naraharakami",""]],
 	"7070023":[[33,"美作市","平福","","Mimasaka-shi","Hirafuku",""]],

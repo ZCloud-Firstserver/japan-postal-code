@@ -648,6 +648,7 @@ zipdata({
 	"9696266":[[7,"大沼郡会津美里町","油田","","Aizumisato-machi, Onuma-gun","Aburaden",""],[7,"大沼郡会津美里町","新丁屋敷","","Aizumisato-machi, Onuma-gun","Shinchoyashiki",""],[7,"大沼郡会津美里町","館ノ越","","Aizumisato-machi, Onuma-gun","Tatenokoshi",""],[7,"大沼郡会津美里町","西裏屋敷添","","Aizumisato-machi, Onuma-gun","Nishiurayashikizoe",""],[7,"大沼郡会津美里町","布才地","","Aizumisato-machi, Onuma-gun","Fusaichi",""],[7,"大沼郡会津美里町","竜興寺北","","Aizumisato-machi, Onuma-gun","Ryukojikita",""]],
 	"9696267":[[7,"大沼郡会津美里町","新丁西","","Aizumisato-machi, Onuma-gun","Shinchonishi",""],[7,"大沼郡会津美里町","西裏","","Aizumisato-machi, Onuma-gun","Nishiura",""]],
 	"9696268":[[7,"大沼郡会津美里町","谷地","","Aizumisato-machi, Onuma-gun","Yachi",""],[7,"大沼郡会津美里町","谷地前","","Aizumisato-machi, Onuma-gun","Yachimae",""],[7,"大沼郡会津美里町","柳台","","Aizumisato-machi, Onuma-gun","Yanagidai",""],[7,"大沼郡会津美里町","柳台甲","","Aizumisato-machi, Onuma-gun","Yanagidaiko",""]],
+	"9696269":[[7,"大沼郡会津美里町","新布才地","","Aizumisato-machi, Onuma-gun","Shinfusaichi",""]],
 	"9696271":[[7,"大沼郡会津美里町","寺崎","","Aizumisato-machi, Onuma-gun","Terasaki",""],[7,"大沼郡会津美里町","沼ノ上","","Aizumisato-machi, Onuma-gun","Numanoe",""]],
 	"9696272":[[7,"大沼郡会津美里町","赤留","","Aizumisato-machi, Onuma-gun","Akaru",""]],
 	"9696273":[[7,"大沼郡会津美里町","八木沢","","Aizumisato-machi, Onuma-gun","Yagisawa",""]],

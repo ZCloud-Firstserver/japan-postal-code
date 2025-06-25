@@ -196,7 +196,6 @@ zipdata({
 	"8700833":[[44,"大分市","上野丘東","","Oita-shi","Uenogaoka Higashi",""]],
 	"8700834":[[44,"大分市","上野丘西","","Oita-shi","Uenogaoka Nishi",""]],
 	"8700835":[[44,"大分市","上野丘","","Oita-shi","Uenogaoka",""]],
-	"8700836":[[44,"大分市","上野南","","Oita-shi","Uenominami",""]],
 	"8700837":[[44,"大分市","太平町","","Oita-shi","Taiheimachi",""]],
 	"8700838":[[44,"大分市","桜ケ丘","","Oita-shi","Sakuragaoka",""]],
 	"8700839":[[44,"大分市","金池南","","Oita-shi","Kanaikeminami",""]],

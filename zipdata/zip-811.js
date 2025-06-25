@@ -192,6 +192,7 @@ zipdata({
 	"8112416":[[40,"糟屋郡篠栗町","田中","","Sasaguri-machi, Kasuya-gun","Tanaka",""]],
 	"8112417":[[40,"糟屋郡篠栗町","中央","","Sasaguri-machi, Kasuya-gun","Chuo",""]],
 	"8112418":[[40,"糟屋郡篠栗町","彩り台","","Sasaguri-machi, Kasuya-gun","Irodoridai",""]],
+	"8112419":[[40,"糟屋郡篠栗町","庄","","Sasaguri-machi, Kasuya-gun","Sho",""]],
 	"8112500":[[40,"糟屋郡久山町","","","Hisayama-machi, Kasuya-gun","",""]],
 	"8112501":[[40,"糟屋郡久山町","久原","","Hisayama-machi, Kasuya-gun","Kubara",""]],
 	"8112502":[[40,"糟屋郡久山町","山田","","Hisayama-machi, Kasuya-gun","Yamada",""]],

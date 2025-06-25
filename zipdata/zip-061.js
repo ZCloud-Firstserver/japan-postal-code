@@ -299,6 +299,7 @@ zipdata({
 	"0613603":[[1,"石狩市","厚田区小谷","","Ishikari-shi","Atsutaku Kotani",""]],
 	"0613605":[[1,"石狩市","厚田区別狩","","Ishikari-shi","Atsutaku Bekkari",""]],
 	"0613606":[[1,"石狩市","厚田区安瀬","","Ishikari-shi","Atsutaku Yasosuke",""]],
+	"0613770":[[1,"石狩郡当別町","ロイズタウン","","Tobetsu-cho, Ishikari-gun","Roizutaun",""]],
 	"0613771":[[1,"石狩郡当別町","高岡","","Tobetsu-cho, Ishikari-gun","Takaoka",""]],
 	"0613772":[[1,"石狩郡当別町","獅子内","","Tobetsu-cho, Ishikari-gun","Shishinai",""]],
 	"0613773":[[1,"石狩郡当別町","当別太","","Tobetsu-cho, Ishikari-gun","Tobetsubuto",""]],

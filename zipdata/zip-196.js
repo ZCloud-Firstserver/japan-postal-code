@@ -4,6 +4,7 @@ zipdata({
 	"1960002":[[13,"昭島市","拝島町","","Akishima-shi","Haijimacho",""]],
 	"1960003":[[13,"昭島市","松原町","","Akishima-shi","Matsubaracho",""]],
 	"1960004":[[13,"昭島市","緑町","","Akishima-shi","Midoricho",""]],
+	"1960005":[[13,"昭島市","代官山","","Akishima-shi","Daikanyama",""]],
 	"1960011":[[13,"昭島市","上川原町","","Akishima-shi","Jogawaracho",""]],
 	"1960012":[[13,"昭島市","つつじが丘","","Akishima-shi","Tsutsujigaoka",""]],
 	"1960013":[[13,"昭島市","大神町","","Akishima-shi","Ogamicho",""]],

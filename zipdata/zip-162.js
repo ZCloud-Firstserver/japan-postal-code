@@ -61,7 +61,7 @@ zipdata({
 	"1620852":[[13,"新宿区","南榎町","","Shinjuku-ku","Minamienokicho",""]],
 	"1620853":[[13,"新宿区","北山伏町","","Shinjuku-ku","Kitayamabushicho",""]],
 	"1620854":[[13,"新宿区","南山伏町","","Shinjuku-ku","Minamiyamabushicho",""]],
-	"1620855":[[13,"新宿区","二十騎町","","Shinjuku-ku","Nijutsukimachi",""]],
+	"1620855":[[13,"新宿区","二十騎町","","Shinjuku-ku","Nijukkimachi",""]],
 	"1620856":[[13,"新宿区","市谷甲良町","","Shinjuku-ku","Ichigayakoracho",""]],
 	"1620857":[[13,"新宿区","市谷山伏町","","Shinjuku-ku","Ichigayayamabushicho",""]]
 })

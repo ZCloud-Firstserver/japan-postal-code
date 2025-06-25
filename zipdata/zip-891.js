@@ -90,7 +90,7 @@ zipdata({
 	"8911222":[[46,"鹿児島市","小野町","","Kagoshima-shi","Onocho",""]],
 	"8911231":[[46,"鹿児島市","小山田町","","Kagoshima-shi","Koyamadacho",""]],
 	"8911274":[[46,"鹿児島市","緑ヶ丘町","","Kagoshima-shi","Midorigaokacho",""]],
-	"8911275":[[46,"鹿児島市","川上町","","Kagoshima-shi","Kawakamicho",""]],
+	"8911275":[[46,"鹿児島市","川上町","","Kagoshima-shi","Kawakamicho",""],[46,"鹿児島市","４２４４−４番地）","","Kagoshima-shi","4244-4-banchi)",""]],
 	"8911301":[[46,"鹿児島市","西佐多町","","Kagoshima-shi","Nishisatacho",""]],
 	"8911302":[[46,"鹿児島市","東佐多町","","Kagoshima-shi","Higashisatacho",""]],
 	"8911303":[[46,"鹿児島市","本城町","","Kagoshima-shi","Honjocho",""]],

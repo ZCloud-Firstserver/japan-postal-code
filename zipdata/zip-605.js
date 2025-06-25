@@ -33,7 +33,7 @@ zipdata({
 	"6050034":[[26,"京都市東山区","中之町","","Higashiyama-ku, Kyoto-shi","Nakanocho",""],[26,"京都市東山区","４丁目）","","Higashiyama-ku, Kyoto-shi","Nakanocho",""]],
 	"6050035":[[26,"京都市東山区","粟田口三条坊町","","Higashiyama-ku, Kyoto-shi","Awataguchi Sanjobocho",""]],
 	"6050036":[[26,"京都市東山区","五軒町","","Higashiyama-ku, Kyoto-shi","Gokencho",""]],
-	"6050037":[[26,"京都市東山区","西町","","Higashiyama-ku, Kyoto-shi","Nishimachi",""]],
+	"6050037":[[26,"京都市東山区","西町","","Higashiyama-ku, Kyoto-shi","Nishicho",""]],
 	"6050038":[[26,"京都市東山区","堀池町","","Higashiyama-ku, Kyoto-shi","Horiikecho",""]],
 	"6050041":[[26,"京都市東山区","東町","","Higashiyama-ku, Kyoto-shi","Higashicho",""]],
 	"6050042":[[26,"京都市東山区","今道町","","Higashiyama-ku, Kyoto-shi","Imamichicho",""]],

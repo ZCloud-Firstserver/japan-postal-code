@@ -441,6 +441,7 @@ zipdata({
 	"9502026":[[15,"新潟市西区","小針南台","","Nishi-ku, Niigata-shi","Kobariminamidai",""]],
 	"9502027":[[15,"新潟市西区","小新大通","","Nishi-ku, Niigata-shi","Koshinodori",""]],
 	"9502028":[[15,"新潟市西区","小新南","","Nishi-ku, Niigata-shi","Koshimminami",""]],
+	"9502029":[[15,"新潟市西区","小新流通東","","Nishi-ku, Niigata-shi","Koshinryutsuhigashi",""]],
 	"9502031":[[15,"新潟市西区","流通センター","","Nishi-ku, Niigata-shi","Ryutsusenta",""]],
 	"9502032":[[15,"新潟市西区","的場流通","","Nishi-ku, Niigata-shi","Matobaryutsu",""]],
 	"9502033":[[15,"新潟市西区","亀貝","","Nishi-ku, Niigata-shi","Kamegai",""]],

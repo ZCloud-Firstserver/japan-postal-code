@@ -178,7 +178,6 @@ zipdata({
 	"3994321":[[20,"駒ヶ根市","東伊那","","Komagane-shi","Higashiina",""]],
 	"3994431":[[20,"伊那市","西春近","","Ina-shi","Nishiharuchika",""]],
 	"3994432":[[20,"伊那市","東春近","","Ina-shi","Higashiharuchika",""]],
-	"3994501":[[20,"伊那市","西箕輪","","Ina-shi","Nishiminowa",""]],
 	"3994511":[[20,"上伊那郡南箕輪村","南箕輪村一円","","Minamiminowa-mura, Kamiina-gun","Minamiminowamuraichien",""]],
 	"3994600":[[20,"上伊那郡箕輪町","","","Minowa-machi, Kamiina-gun","",""]],
 	"3994601":[[20,"上伊那郡箕輪町","中箕輪","","Minowa-machi, Kamiina-gun","Nakaminowa",""]],

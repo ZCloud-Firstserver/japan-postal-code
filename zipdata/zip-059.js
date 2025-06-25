@@ -88,7 +88,7 @@ zipdata({
 	"0591306":[[1,"苫小牧市","ウトナイ北","","Tomakomai-shi","Utonaikita",""]],
 	"0591307":[[1,"苫小牧市","ウトナイ南","","Tomakomai-shi","Utonaiminami",""]],
 	"0591361":[[1,"苫小牧市","美沢","","Tomakomai-shi","Misawa",""]],
-	"0591362":[[1,"苫小牧市","柏原","","Tomakomai-shi","Kashiwabara",""]],
+	"0591362":[[1,"苫小牧市","柏原","","Tomakomai-shi","Kashiwahara",""]],
 	"0591363":[[1,"苫小牧市","静川","","Tomakomai-shi","Shizukawa",""]],
 	"0591364":[[1,"苫小牧市","沼ノ端","","Tomakomai-shi","Numanohata",""]],
 	"0591365":[[1,"苫小牧市","植苗","","Tomakomai-shi","Uenae",""]],

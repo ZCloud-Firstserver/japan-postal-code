@@ -2,7 +2,7 @@ zipdata({
 	"5930000":[[27,"堺市西区","","","Nishi-ku, Sakai-shi","",""]],
 	"5938301":[[27,"堺市西区","上野芝町","","Nishi-ku, Sakai-shi","Uenoshibacho",""]],
 	"5938302":[[27,"堺市西区","北条町","","Nishi-ku, Sakai-shi","Hojocho",""]],
-	"5938303":[[27,"堺市西区","上野芝向ケ丘町","","Nishi-ku, Sakai-shi","Uenoshibamukogaokacho",""]],
+	"5938303":[[27,"堺市西区","上野芝向ヶ丘町","","Nishi-ku, Sakai-shi","Uenoshibamukogaokacho",""]],
 	"5938304":[[27,"堺市西区","家原寺町","","Nishi-ku, Sakai-shi","Ebarajicho",""]],
 	"5938305":[[27,"堺市西区","堀上緑町","","Nishi-ku, Sakai-shi","Horiagemidorimachi",""]],
 	"5938306":[[27,"堺市西区","八田寺町","","Nishi-ku, Sakai-shi","Handaijicho",""]],

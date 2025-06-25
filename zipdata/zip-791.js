@@ -41,7 +41,7 @@ zipdata({
 	"7910216":[[38,"東温市","野田","","Toon-shi","Noda",""]],
 	"7910221":[[38,"東温市","上村","","Toon-shi","Uemura",""]],
 	"7910222":[[38,"東温市","下林","","Toon-shi","Shimobayashi",""]],
-	"7910223":[[38,"東温市","上林","","Toon-shi","Kamibayashi",""]],
+	"7910223":[[38,"東温市","上林","","Toon-shi","Kamihayashi",""]],
 	"7910241":[[38,"松山市","小野町","","Matsuyama-shi","Onomachi",""]],
 	"7910242":[[38,"松山市","北梅本町","","Matsuyama-shi","Kitaumemotomachi",""]],
 	"7910243":[[38,"松山市","平井町","","Matsuyama-shi","Hiraimachi",""]],

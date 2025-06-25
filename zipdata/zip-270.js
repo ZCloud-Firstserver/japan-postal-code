@@ -33,6 +33,7 @@ zipdata({
 	"2700101":[[12,"流山市","東深井","","Nagareyama-shi","Higashifukai",""]],
 	"2700102":[[12,"流山市","こうのす台","","Nagareyama-shi","Konosudai",""]],
 	"2700103":[[12,"流山市","美原","","Nagareyama-shi","Mihara",""]],
+	"2700104":[[12,"流山市","森のロジスティクスパーク","","Nagareyama-shi","Morinorojisuteikusupaku",""]],
 	"2700105":[[12,"流山市","平方","","Nagareyama-shi","Hirakata",""]],
 	"2700106":[[12,"流山市","平方村新田","","Nagareyama-shi","Hirakata Murashinden",""]],
 	"2700107":[[12,"流山市","西深井","","Nagareyama-shi","Nishifukai",""]],
