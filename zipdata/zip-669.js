@@ -34,7 +34,7 @@ zipdata({
 	"6691222":[[28,"宝塚市","境野","","Takarazuka-shi","Sakaino",""]],
 	"6691231":[[28,"宝塚市","玉瀬","","Takarazuka-shi","Tamase",""]],
 	"6691241":[[28,"宝塚市","切畑","","Takarazuka-shi","Kirihata",""]],
-	"6691251":[[28,"西宮市","塩瀬町名塩","","Nishinomiya-shi","Shiosechonajio",""],[28,"西宮市","５３１３−３５番地）","","Nishinomiya-shi","5313-35-banchi)",""]],
+	"6691251":[[28,"西宮市","塩瀬町名塩","","Nishinomiya-shi","Shiosechonajio",""]],
 	"6691300":[[28,"三田市","","","Sanda-shi","",""]],
 	"6691301":[[28,"三田市","上青野","","Sanda-shi","Kamiaono",""]],
 	"6691302":[[28,"三田市","下青野","","Sanda-shi","Shimoaono",""]],

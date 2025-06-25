@@ -1,6 +1,6 @@
 zipdata({
 	"4530000":[[23,"名古屋市中村区","","","Nakamura-ku, Nagoya-shi","",""]],
-	"4530002":[[23,"名古屋市中村区","名駅","","Nakamura-ku, Nagoya-shi","Meieki",""],[23,"名古屋市中村区","１−３−７）","","Nakamura-ku, Nagoya-shi","1-3-7)",""]],
+	"4530002":[[23,"名古屋市中村区","名駅","","Nakamura-ku, Nagoya-shi","Meieki",""]],
 	"4530011":[[23,"名古屋市中村区","千原町","","Nakamura-ku, Nagoya-shi","Chiharacho",""]],
 	"4530012":[[23,"名古屋市中村区","井深町","","Nakamura-ku, Nagoya-shi","Ibukacho",""]],
 	"4530013":[[23,"名古屋市中村区","亀島","","Nakamura-ku, Nagoya-shi","Kamejima",""]],

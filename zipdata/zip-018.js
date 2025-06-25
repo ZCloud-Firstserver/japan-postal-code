@@ -490,7 +490,7 @@ zipdata({
 	"0185337":[[5,"鹿角市","十和田末広","","Kazuno-shi","Towada Suehiro",""]],
 	"0185421":[[5,"鹿角市","十和田大湯","","Kazuno-shi","Towada Oyu",""]],
 	"0185422":[[5,"鹿角市","十和田草木","","Kazuno-shi","Towada Kusagi",""]],
-	"0185501":[[2,"十和田市","奥瀬","","Towada-shi","Okuse",""],[2,"十和田市","十和田湖畔休屋）","","Towada-shi","Towadakohanyasumiya)",""]],
+	"0185501":[[2,"十和田市","奥瀬","","Towada-shi","Okuse",""]],
 	"0185511":[[5,"鹿角郡小坂町","十和田湖","","Kosaka-machi, Kazuno-gun","Towadako",""]],
 	"0185601":[[5,"大館市","十二所","","Odate-shi","Junisho",""]],
 	"0185602":[[5,"大館市","道目木","","Odate-shi","Domeki",""]],
