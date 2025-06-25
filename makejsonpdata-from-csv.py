@@ -148,7 +148,7 @@ def normalize_area_en(area_ro):
     words = re.sub(r'\(.*$', '', words)
     words = words.split(' ')
     words = map(lambda word: word.capitalize(), words)
-    return ' '.join(words)
+    return ' '.join(words).strip()
 
 def address_in_english(address):
     postalcode, prefecture_id, city_ja, area_ja, street_ja, city_en, area_en, street_en = address
