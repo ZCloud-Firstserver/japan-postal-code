@@ -188,7 +188,6 @@ def loadAddresses(file_name):
 
             postalcode, prefecture_ja, city_ja_raw, area_ja_raw, prefecture_ro, city_ro, area_ro = row
             street_ja, street_ro, street_en = '', '', ''
-            # original_city_ja = city_ja # 未使用のため削除
 
             postalcode3   = postalcode[0:3]
             prefecture_id = prefecture_ja_to_prefecture_id(prefecture_ja)
