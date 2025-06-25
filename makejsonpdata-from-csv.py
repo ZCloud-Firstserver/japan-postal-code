@@ -138,11 +138,11 @@ def normalize_area_ja(area_ja, main_area_ja):
     words = area_ja
     words = re.sub(u'（([０-９]+階)）', u'\\1', words) # u''で明示的にUnicode文字指定
 
-    # 開き括弧以降の補足情報を確実に削除 (変更点)
+    # 開き括弧以降の補足情報を確実に削除
     if u'（' in words:
         words = words.split(u'（', 1)[0] # 最初の開き括弧で分割し、その前の部分のみを取得
 
-    # 開き括弧がない単独の閉じ括弧を削除するロジック (変更点)
+    # 開き括弧がない単独の閉じ括弧を削除するロジック
     if u'（' not in words and u'）' in words:
         words = words.replace(u'）', u'') # u''で明示的にUnicode文字指定
 
@@ -158,11 +158,11 @@ def normalize_area_en(area_ro):
     'Kakunodatemachi Sonoda'
     """
     words = re.sub(r'\((\d+)-KAI\)', r' \1F', area_ro)
-    words = re.sub(r'\)$', '', words) # 末尾の閉じ括弧を削除する処理を追加 (変更点)
+    words = re.sub(r'\)$', '', words) # 末尾の閉じ括弧を削除する処理を追加
     words = re.sub(r'\(.*$', '', words)
     words = words.split(' ')
     words = map(lambda word: word.capitalize(), words)
-    return ' '.join(words).strip() # .strip()を追加して末尾の空白を削除 (変更点)
+    return ' '.join(words).strip() # .strip()を追加して末尾の空白を削除
 
 def address_in_english(address):
     postalcode, prefecture_id, city_ja, area_ja, street_ja, city_en, area_en, street_en = address
@@ -183,7 +183,7 @@ def loadAddresses(file_name):
     with open(file_name, 'rb') as f: # Python 2互換のため'rb'を維持
         reader = csv.reader(f)
         for row in reader:
-            # 各要素をUTF-8からUnicode文字列にデコード (変更点)
+            # 各要素をUTF-8からUnicode文字列にデコード
             row = [s.decode('utf-8') for s in row] 
 
             postalcode, prefecture_ja, city_ja_raw, area_ja_raw, prefecture_ro, city_ro, area_ro = row
@@ -198,7 +198,7 @@ def loadAddresses(file_name):
 
             should_exclude_entry = False
 
-            # 特定の例外ルールを最優先で処理 (変更点)
+            # 特定の例外ルールを最優先で処理
             if postalcode in [u'6800034', u'7080061'] and area_ja_raw == u'元魚町':
                 area_ja = u'元魚町'
                 area_en = u'Motouomachi' # ここをMotouomachiに修正
@@ -206,7 +206,7 @@ def loadAddresses(file_name):
             elif postalcode == u'8171223' and area_ja_raw.replace(u' ', u'').replace(u'　', u'').strip() == u'豊玉町横浦': # 全角・半角スペースを除去して比較
                 area_ja = u'豊玉町横浦'
                 area_en = u'Toyotamamachi Yokoura'
-            # 「X番地）」のようなパターンをフィルタリング (変更点)
+            # 「X番地）」のようなパターンをフィルタリング
             elif area_ja_raw.endswith(u'）') and u'（' not in area_ja_raw:
                 should_exclude_entry = True
                 area_ja = normalize_area_ja(area_ja_raw, city_ja) # フィルタリングされるが、念のため設定
