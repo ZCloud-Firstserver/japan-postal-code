@@ -74,7 +74,7 @@ def normalize_city_ja(city_ja):
     >>> print normalize_city_ja('名古屋市　千種区')
     名古屋市千種区
     """
-    return city_ja.replace(u'　', u'') # 'u'を追記
+    return city_ja.replace('　', '')
 
 def normalize_city_en(city_ro):
     """ Normalize english city name
@@ -125,28 +125,16 @@ def normalize_area_ja(area_ja, main_area_ja):
     北二条西
     >>> print normalize_area_ja('角館町　薗田', '')
     角館町薗田
-    >>> print normalize_area_ja('川上町（３６４９、３６６１、３６６', '')
-    川上町
     """
     if area_ja == '以下に掲載がない場合': return ''
-    if re.search(u'の次に.*がくる', area_ja): return u''
-    # ここから下の3行は、loadAddressesで先に処理されるケースがあるため、残りのケース用として維持
-    if re.search(u'^[^\uff08]*\uff09$', area_ja): return main_area_ja # u''で明示的にUnicode文字指定
-    if re.search(u'^[^\uff08]*\u3001[^\uff08]*\uff09$', area_ja): return main_area_ja # u''で明示的にUnicode文字指定
-    if main_area_ja and u'（' not in area_ja and u'、' in area_ja: return main_area_ja
-
-    words = area_ja
-    words = re.sub(u'（([０-９]+階)）', u'\\1', words) # u''で明示的にUnicode文字指定
-
-    # 開き括弧以降の補足情報を確実に削除
-    if u'（' in words:
-        words = words.split(u'（', 1)[0] # 最初の開き括弧で分割し、その前の部分のみを取得
-
-    # 開き括弧がない単独の閉じ括弧を削除するロジック
-    if u'（' not in words and u'）' in words:
-        words = words.replace(u'）', u'') # u''で明示的にUnicode文字指定
-
-    words = words.replace(u'　', u'') # 'u'を追記
+    if re.search(r'の次に.*がくる', area_ja): return ''
+    if re.search(r'^[^（]*）$', area_ja): return main_area_ja
+    if re.search(r'^[^（]*、[^（]*）$', area_ja): return main_area_ja
+    if main_area_ja and '（' not in area_ja and '、' in area_ja: return main_area_ja
+    if main_area_ja and area_ja != main_area_ja and area_ja.endswith(u'）') and u'（' not in area_ja: return main_area_ja
+    words = re.sub(r'（([０-９]+階)）', r'\1', area_ja)
+    words = re.sub(r'（.*$', '', words)
+    words = words.replace('　', '')
 
     return words
 
@@ -158,11 +146,10 @@ def normalize_area_en(area_ro):
     'Kakunodatemachi Sonoda'
     """
     words = re.sub(r'\((\d+)-KAI\)', r' \1F', area_ro)
-    words = re.sub(r'\)$', '', words) # 末尾の閉じ括弧を削除する処理を追加
     words = re.sub(r'\(.*$', '', words)
     words = words.split(' ')
     words = map(lambda word: word.capitalize(), words)
-    return ' '.join(words).strip() # .strip()を追加して末尾の空白を削除
+    return ' '.join(words).strip()
 
 def address_in_english(address):
     postalcode, prefecture_id, city_ja, area_ja, street_ja, city_en, area_en, street_en = address
@@ -180,55 +167,53 @@ def address_in_japanese(address):
 def loadAddresses(file_name):
     addresses = {}
 
-    with open(file_name, 'rb') as f: # Python 2互換のため'rb'を維持
+    with open(file_name, 'rb') as f:
         reader = csv.reader(f)
         for row in reader:
-            # 各要素をUTF-8からUnicode文字列にデコード
-            row = [s.decode('utf-8') for s in row] 
-
-            postalcode, prefecture_ja, city_ja_raw, area_ja_raw, prefecture_ro, city_ro, area_ro = row
+            postalcode, prefecture_ja, city_ja, area_ja, prefecture_ro, city_ro, area_ro = row
             street_ja, street_ro, street_en = '', '', ''
+            original_city_ja = city_ja
 
             postalcode3   = postalcode[0:3]
             prefecture_id = prefecture_ja_to_prefecture_id(prefecture_ja)
             prefecture_en = normalize_prefecture_en(prefecture_ro)
-            city_ja = normalize_city_ja(city_ja_raw)
+            city_ja = normalize_city_ja(city_ja)
             city_en = normalize_city_en(city_ro)
 
-            should_exclude_entry = False
-
-            # 特定の例外ルールを最優先で処理
-            if postalcode in [u'6800034', u'7080061'] and area_ja_raw == u'元魚町':
-                area_ja = u'元魚町'
-                area_en = u'Motouomachi' # ここをMotouomachiに修正
-            # 豊玉町横浦の修正: 比較文字列をさらにクリーニングして確実にマッチさせる
-            elif postalcode == u'8171223' and area_ja_raw.replace(u' ', u'').replace(u'　', u'').strip() == u'豊玉町横浦': # 全角・半角スペースを除去して比較
-                area_ja = u'豊玉町横浦'
-                area_en = u'Toyotamamachi Yokoura'
-            # 「X番地）」のようなパターンをフィルタリング
-            elif area_ja_raw.endswith(u'）') and u'（' not in area_ja_raw:
-                should_exclude_entry = True
-                area_ja = normalize_area_ja(area_ja_raw, city_ja) # フィルタリングされるが、念のため設定
-                area_en = normalize_area_en(area_ro) # フィルタリングされるが、念のため設定
+            if postalcode3 in addresses and postalcode in addresses[postalcode3]:
+                main_area_ja = addresses[postalcode3][postalcode][0][3] # 最初のarea_ja
+                main_area_en = addresses[postalcode3][postalcode][0][6] # 最初のarea_en
             else:
-                # 通常の正規化ロジック
                 main_area_ja = ''
                 main_area_en = ''
-                if postalcode3 in addresses and postalcode in addresses[postalcode3]:
-                    main_area_ja = addresses[postalcode3][postalcode][0][3]
-                    main_area_en = addresses[postalcode3][postalcode][0][6]
 
-                area_ja = normalize_area_ja(area_ja_raw, main_area_ja)
+            area_ja = normalize_area_ja(area_ja, main_area_ja)
 
-                if area_ja == main_area_ja:
-                    area_en = main_area_en
-                else:
-                    area_en = normalize_area_en(area_ro)
+            if area_ja == main_area_ja:
+                area_en = main_area_en
+            else:
+                area_en = normalize_area_en(area_ro)
 
-            if should_exclude_entry:
-                continue
+            # 日本郵便株式会社提供データのローマ字表記は、以下の「ローマ字変換仕様」に基づき変換されている。
+            # https://www.post.japanpost.jp/zipcode/dl/roman_shiyou.pdf
+            #
+            # 国土地理院の「地名等の英語表記規程」では、以下のとおりとなっており、
+            # こちらのほうが一般的に通用しているローマ字表記と思われる。
+            # > 表音のローマ字表記が「ou」「oo」「uu」となるときに、対応する元の漢字が一文字の場合には
+            # > それぞれ「o」「o」「u」に短縮するが、二文字に分かれる場合には短縮しない。
+            # > ただし、短縮する表記が通用している場合には、短縮してもよい。
+            # https://www.gsi.go.jp/common/000138865.pdf
+            #
+            # そのため、暫定的に、例外ルールとして定義していくこととする。
+
+            if postalcode in ['6800034', '7080061'] and area_ja == '元魚町' and area_en == 'Motoomachi':
+                area_en = 'Motouomachi'
+
+            if postalcode == '8171223' and area_ja == '豊玉町横浦' and area_en == 'Toyotamamachi Yokora':
+                area_en = 'Toyotamamachi Yokoura'
 
             address = [postalcode, prefecture_id, city_ja, area_ja, street_ja, city_en, area_en, street_en]
+            # print "%-90s          %-s" % (address_in_english(address), address_in_japanese(address))
 
             if postalcode3 not in addresses: addresses[postalcode3] = {}
             if postalcode  not in addresses[postalcode3]: addresses[postalcode3][postalcode] = []
