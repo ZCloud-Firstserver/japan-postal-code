@@ -44,6 +44,6 @@ zipdata({
 	"7750509":[[36,"海部郡海陽町","塩深","","Kaiyo-cho, Kaifu-gun","Shiofuka",""]],
 	"7750510":[[36,"海部郡海陽町","船津","","Kaiyo-cho, Kaifu-gun","Funatsu",""]],
 	"7750511":[[36,"海部郡海陽町","久尾","","Kaiyo-cho, Kaifu-gun","Kuo",""]],
-	"7750512":[[36,"海部郡海陽町","宍喰浦","","Kaiyo-cho, Kaifu-gun","Shishikuiura ",""]],
-	"7750513":[[36,"海部郡海陽町","宍喰浦","","Kaiyo-cho, Kaifu-gun","Shishikuiura ",""]]
+	"7750512":[[36,"海部郡海陽町","宍喰浦","","Kaiyo-cho, Kaifu-gun","Shishikuiura",""]],
+	"7750513":[[36,"海部郡海陽町","宍喰浦","","Kaiyo-cho, Kaifu-gun","Shishikuiura",""]]
 })

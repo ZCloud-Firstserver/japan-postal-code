@@ -312,7 +312,7 @@ zipdata({
 	"7993704":[[38,"宇和島市","吉田町魚棚","","Uwajima-shi","Yoshidacho Uotana",""]],
 	"7993705":[[38,"宇和島市","吉田町本町","","Uwajima-shi","Yoshidacho Hommachi",""]],
 	"7993706":[[38,"宇和島市","吉田町裡町","","Uwajima-shi","Yoshidacho Uramachi",""]],
-	"7993707":[[38,"宇和島市","吉田町鶴間","","Uwajima-shi","Yoshidacho Tsuruma ",""]],
+	"7993707":[[38,"宇和島市","吉田町鶴間","","Uwajima-shi","Yoshidacho Tsuruma",""]],
 	"7993710":[[38,"宇和島市","吉田町立間尻","","Uwajima-shi","Yoshidacho Tachimajiri",""]],
 	"7993720":[[38,"宇和島市","吉田町知永","","Uwajima-shi","Yoshidacho Chinaga",""]],
 	"7993730":[[38,"宇和島市","吉田町立間","","Uwajima-shi","Yoshidacho Tachima",""]],
@@ -322,7 +322,7 @@ zipdata({
 	"7993751":[[38,"宇和島市","吉田町沖村","","Uwajima-shi","Yoshidacho Okimura",""]],
 	"7993752":[[38,"宇和島市","吉田町河内","","Uwajima-shi","Yoshidacho Kawachi",""]],
 	"7993761":[[38,"宇和島市","吉田町鶴間","","Uwajima-shi","Yoshidacho Tsuruma",""]],
-	"7993762":[[38,"宇和島市","吉田町鶴間","","Uwajima-shi","Yoshidacho Tsuruma ",""]],
+	"7993762":[[38,"宇和島市","吉田町鶴間","","Uwajima-shi","Yoshidacho Tsuruma",""]],
 	"7993763":[[38,"宇和島市","吉田町浅川","","Uwajima-shi","Yoshidacho Asakawa",""]],
 	"7993771":[[38,"宇和島市","吉田町南君","","Uwajima-shi","Yoshidacho Nagimi",""]],
 	"7993772":[[38,"宇和島市","吉田町奥浦","","Uwajima-shi","Yoshidacho Okura",""]]

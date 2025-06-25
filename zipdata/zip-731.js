@@ -115,7 +115,7 @@ zipdata({
 	"7311711":[[34,"山県郡北広島町","戸谷","","Kitahiroshima-cho, Yamagata-gun","Todani",""]],
 	"7311712":[[34,"山県郡北広島町","都志見","","Kitahiroshima-cho, Yamagata-gun","Tsushimi",""]],
 	"7311713":[[34,"山県郡北広島町","長笹","","Kitahiroshima-cho, Yamagata-gun","Nagasasa",""]],
-	"7311714":[[34,"山県郡北広島町","吉木","","Kitahiroshima-cho, Yamagata-gun","Yoshiki ",""]],
+	"7311714":[[34,"山県郡北広島町","吉木","","Kitahiroshima-cho, Yamagata-gun","Yoshiki",""]],
 	"7312101":[[34,"山県郡北広島町","宮迫","","Kitahiroshima-cho, Yamagata-gun","Miyazako",""]],
 	"7312102":[[34,"山県郡北広島町","岩戸","","Kitahiroshima-cho, Yamagata-gun","Iwado",""]],
 	"7312103":[[34,"山県郡北広島町","新庄","","Kitahiroshima-cho, Yamagata-gun","Shinjo",""]],

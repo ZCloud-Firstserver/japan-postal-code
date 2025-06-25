@@ -1,5 +1,5 @@
 zipdata({
-	"5400001":[[27,"大阪市中央区","城見","","Chuo-ku, Osaka-shi","Shiromi ",""]],
+	"5400001":[[27,"大阪市中央区","城見","","Chuo-ku, Osaka-shi","Shiromi",""]],
 	"5400002":[[27,"大阪市中央区","大阪城","","Chuo-ku, Osaka-shi","Osakajo",""]],
 	"5400003":[[27,"大阪市中央区","森ノ宮中央","","Chuo-ku, Osaka-shi","Morinomiyachuo",""]],
 	"5400004":[[27,"大阪市中央区","玉造","","Chuo-ku, Osaka-shi","Tamatsukuri",""]],

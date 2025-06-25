@@ -77,7 +77,7 @@ zipdata({
 	"7400901":[[35,"岩国市","錦町宇佐","","Iwakuni-shi","Nishikimachi Usa",""]],
 	"7400902":[[35,"岩国市","錦町宇佐郷","","Iwakuni-shi","Nishikimachi Usago",""]],
 	"7400903":[[35,"岩国市","錦町大原","","Iwakuni-shi","Nishikimachi Ohara",""]],
-	"7400904":[[35,"岩国市","錦町宇佐郷","","Iwakuni-shi","Nishikimachi Usago ",""]],
+	"7400904":[[35,"岩国市","錦町宇佐郷","","Iwakuni-shi","Nishikimachi Usago",""]],
 	"7401201":[[35,"岩国市","美和町秋掛","","Iwakuni-shi","Miwamachi Akigake",""]],
 	"7401202":[[35,"岩国市","美和町北中山","","Iwakuni-shi","Miwamachi Kitanakayama",""]],
 	"7401211":[[35,"岩国市","美和町釜ケ原","","Iwakuni-shi","Miwamachi Kamagahara",""]],

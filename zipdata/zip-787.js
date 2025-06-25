@@ -3,7 +3,7 @@ zipdata({
 	"7870001":[[39,"四万十市","中村本町","","Shimanto-shi","Nakamura Hommachi",""]],
 	"7870002":[[39,"四万十市","中村桜町","","Shimanto-shi","Nakamura Sakuramachi",""]],
 	"7870003":[[39,"四万十市","中村丸の内","","Shimanto-shi","Nakamura Marunochi",""]],
-	"7870004":[[39,"四万十市","中村丸の内","","Shimanto-shi","Nakamura Marunochi ",""]],
+	"7870004":[[39,"四万十市","中村丸の内","","Shimanto-shi","Nakamura Marunochi",""]],
 	"7870005":[[39,"四万十市","中村","","Shimanto-shi","Nakamura",""]],
 	"7870006":[[39,"四万十市","麻生","","Shimanto-shi","Aso",""]],
 	"7870007":[[39,"四万十市","秋田","","Shimanto-shi","Aida",""]],

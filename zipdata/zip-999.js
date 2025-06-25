@@ -467,7 +467,7 @@ zipdata({
 	"9996607":[[6,"東田川郡庄内町","肝煎","","Shonai-machi, Higashitagawa-gun","Kimoiri",""]],
 	"9996608":[[6,"東田川郡庄内町","科沢","","Shonai-machi, Higashitagawa-gun","Shinazawa",""]],
 	"9996609":[[6,"東田川郡庄内町","立谷沢","","Shonai-machi, Higashitagawa-gun","Tachiyazawa",""]],
-	"9996652":[[6,"鶴岡市","添川","","Tsuruoka-shi","Soegawa ",""]],
+	"9996652":[[6,"鶴岡市","添川","","Tsuruoka-shi","Soegawa",""]],
 	"9996701":[[6,"酒田市","砂越","","Sakata-shi","Sagoshi",""]],
 	"9996702":[[6,"酒田市","砂越緑町","","Sakata-shi","Sagoshimidoricho",""]],
 	"9996703":[[6,"酒田市","天神堂","","Sakata-shi","Tenjindo",""]],

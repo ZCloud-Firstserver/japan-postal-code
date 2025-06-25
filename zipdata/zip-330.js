@@ -22,7 +22,7 @@ zipdata({
 	"3300073":[[11,"さいたま市浦和区","元町","","Urawa-ku, Saitama-shi","Motocho",""]],
 	"3300074":[[11,"さいたま市浦和区","北浦和","","Urawa-ku, Saitama-shi","Kitaurawa",""]],
 	"3300075":[[11,"さいたま市浦和区","針ヶ谷","","Urawa-ku, Saitama-shi","Harigaya",""]],
-	"3300081":[[11,"さいたま市中央区","新都心","","Chuo-ku, Saitama-shi","Shintoshin ",""]],
+	"3300081":[[11,"さいたま市中央区","新都心","","Chuo-ku, Saitama-shi","Shintoshin",""]],
 	"3300800":[[11,"さいたま市大宮区","","","Omiya-ku, Saitama-shi","",""]],
 	"3300801":[[11,"さいたま市大宮区","土手町","","Omiya-ku, Saitama-shi","Dotecho",""]],
 	"3300802":[[11,"さいたま市大宮区","宮町","","Omiya-ku, Saitama-shi","Miyacho",""]],

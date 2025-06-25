@@ -9,7 +9,7 @@ zipdata({
 	"9800012":[[4,"仙台市青葉区","錦町","","Aoba-ku, Sendai-shi","Nishikicho",""]],
 	"9800013":[[4,"仙台市青葉区","花京院","","Aoba-ku, Sendai-shi","Kakyoin",""]],
 	"9800014":[[4,"仙台市青葉区","本町","","Aoba-ku, Sendai-shi","Honcho",""]],
-	"9800021":[[4,"仙台市青葉区","中央","","Aoba-ku, Sendai-shi","Chuo ",""]],
+	"9800021":[[4,"仙台市青葉区","中央","","Aoba-ku, Sendai-shi","Chuo",""]],
 	"9800022":[[4,"仙台市青葉区","五橋","","Aoba-ku, Sendai-shi","Itsutsubashi",""]],
 	"9800023":[[4,"仙台市青葉区","北目町","","Aoba-ku, Sendai-shi","Kitamemachi",""]],
 	"9800065":[[4,"仙台市青葉区","土樋","","Aoba-ku, Sendai-shi","Tsuchitoi",""]],

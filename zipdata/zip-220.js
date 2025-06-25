@@ -7,7 +7,7 @@ zipdata({
 	"2200005":[[14,"横浜市西区","南幸","","Nishi-ku, Yokohama-shi","Minamisaiwai",""]],
 	"2200006":[[14,"横浜市西区","宮ケ谷","","Nishi-ku, Yokohama-shi","Miyagaya",""]],
 	"2200011":[[14,"横浜市西区","高島","","Nishi-ku, Yokohama-shi","Takashima",""]],
-	"2200012":[[14,"横浜市西区","みなとみらい","","Nishi-ku, Yokohama-shi","Minatomirai ",""]],
+	"2200012":[[14,"横浜市西区","みなとみらい","","Nishi-ku, Yokohama-shi","Minatomirai",""]],
 	"2200013":[[14,"横浜市西区","緑町","","Nishi-ku, Yokohama-shi","Midoricho",""]],
 	"2200021":[[14,"横浜市西区","桜木町","","Nishi-ku, Yokohama-shi","Sakuragicho",""]],
 	"2200022":[[14,"横浜市西区","花咲町","","Nishi-ku, Yokohama-shi","Hanasakicho",""]],

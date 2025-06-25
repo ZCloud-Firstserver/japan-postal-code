@@ -9,7 +9,7 @@ zipdata({
 	"7190112":[[33,"浅口市","金光町須恵","","Asakuchi-shi","Konkocho Sue",""]],
 	"7190113":[[33,"浅口市","金光町佐方","","Asakuchi-shi","Konkocho Sagata",""]],
 	"7190200":[[33,"浅口市","","","Asakuchi-shi","",""]],
-	"7190221":[[33,"浅口市","金光町上竹","","Asakuchi-shi","Konkocho Kamidake ",""]],
+	"7190221":[[33,"浅口市","金光町上竹","","Asakuchi-shi","Konkocho Kamidake",""]],
 	"7190231":[[33,"浅口市","鴨方町小坂西","","Asakuchi-shi","Kamogatacho Kosakanishi",""]],
 	"7190232":[[33,"浅口市","鴨方町本庄","","Asakuchi-shi","Kamogatacho Honjo",""]],
 	"7190233":[[33,"浅口市","鴨方町地頭上","","Asakuchi-shi","Kamogatacho Jitokami",""]],

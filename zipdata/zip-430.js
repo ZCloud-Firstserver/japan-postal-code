@@ -62,7 +62,7 @@ zipdata({
 	"4300925":[[22,"浜松市中央区","寺島町","","Chuo-ku, Hamamatsu-shi","Terajimacho",""]],
 	"4300926":[[22,"浜松市中央区","砂山町","","Chuo-ku, Hamamatsu-shi","Sunayamacho",""]],
 	"4300927":[[22,"浜松市中央区","旭町","","Chuo-ku, Hamamatsu-shi","Asahicho",""]],
-	"4300928":[[22,"浜松市中央区","板屋町","","Chuo-ku, Hamamatsu-shi","Itayamachi ",""]],
+	"4300928":[[22,"浜松市中央区","板屋町","","Chuo-ku, Hamamatsu-shi","Itayamachi",""]],
 	"4300929":[[22,"浜松市中央区","中央","","Chuo-ku, Hamamatsu-shi","Chuo",""]],
 	"4300931":[[22,"浜松市中央区","神明町","","Chuo-ku, Hamamatsu-shi","Shimmeicho",""]],
 	"4300932":[[22,"浜松市中央区","肴町","","Chuo-ku, Hamamatsu-shi","Sakanamachi",""]],

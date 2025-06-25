@@ -293,7 +293,7 @@ zipdata({
 	"5152501":[[24,"津市","一志町庄村","","Tsu-shi","Ichishicho Shomura",""]],
 	"5152502":[[24,"津市","一志町其村","","Tsu-shi","Ichishicho Sonomura",""]],
 	"5152503":[[24,"津市","一志町日置","","Tsu-shi","Ichishicho Hioki",""]],
-	"5152504":[[24,"津市","一志町高野","","Tsu-shi","Ichishicho Takano ",""]],
+	"5152504":[[24,"津市","一志町高野","","Tsu-shi","Ichishicho Takano",""]],
 	"5152505":[[24,"津市","一志町小戸木","","Tsu-shi","Ichishicho Kobeki",""]],
 	"5152511":[[24,"津市","一志町片野","","Tsu-shi","Ichishicho Katano",""]],
 	"5152512":[[24,"津市","一志町新沢田","","Tsu-shi","Ichishicho Shinsawada",""]],

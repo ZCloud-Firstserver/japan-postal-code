@@ -222,7 +222,7 @@ zipdata({
 	"9610995":[[7,"白河市","中山","","Shirakawa-shi","Nakayama",""]],
 	"9610996":[[7,"白河市","北堀川端","","Shirakawa-shi","Kitahorikawabata",""]],
 	"9618001":[[7,"西白河郡西郷村","羽太","","Nishigo-mura, Nishishirakawa-gun","Habuto",""]],
-	"9618002":[[7,"白河市","大信隈戸","","Shirakawa-shi","Taishin Kumado ",""]],
+	"9618002":[[7,"白河市","大信隈戸","","Shirakawa-shi","Taishin Kumado",""]],
 	"9618011":[[7,"西白河郡西郷村","柏野","","Nishigo-mura, Nishishirakawa-gun","Kashiwano",""]],
 	"9618021":[[7,"西白河郡西郷村","長坂","","Nishigo-mura, Nishishirakawa-gun","Nagasaka",""]],
 	"9618031":[[7,"西白河郡西郷村","米","","Nishigo-mura, Nishishirakawa-gun","Yone",""]],

@@ -109,7 +109,7 @@ zipdata({
 	"9590257":[[15,"燕市","吉田幸町","","Tsubame-shi","Yoshidasaiwaicho",""]],
 	"9590261":[[15,"燕市","吉田鴻巣","","Tsubame-shi","Yoshidakonosu",""]],
 	"9590262":[[15,"燕市","吉田若生町","","Tsubame-shi","Yoshidawakocho",""]],
-	"9590263":[[15,"燕市","吉田","","Tsubame-shi","Yoshida ",""]],
+	"9590263":[[15,"燕市","吉田","","Tsubame-shi","Yoshida",""]],
 	"9590264":[[15,"燕市","吉田","","Tsubame-shi","Yoshida",""]],
 	"9590265":[[15,"燕市","吉田東町","","Tsubame-shi","Yoshidaazumacho",""]],
 	"9590266":[[15,"燕市","吉田文京町","","Tsubame-shi","Yoshidabunkyocho",""]],

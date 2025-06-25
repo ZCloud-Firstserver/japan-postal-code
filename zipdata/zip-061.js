@@ -268,7 +268,7 @@ zipdata({
 	"0613282":[[1,"石狩市","花畔二条","","Ishikari-shi","Bannaguro 2-jo",""]],
 	"0613283":[[1,"石狩市","花畔三条","","Ishikari-shi","Bannaguro 3-jo",""]],
 	"0613284":[[1,"石狩市","花畔四条","","Ishikari-shi","Bannaguro 4-jo",""]],
-	"0613331":[[1,"石狩市","厚田区聚富","","Ishikari-shi","Atsutaku Shippu ",""]],
+	"0613331":[[1,"石狩市","厚田区聚富","","Ishikari-shi","Atsutaku Shippu",""]],
 	"0613332":[[1,"石狩市","厚田区虹が原","","Ishikari-shi","Atsutaku Nijigahara",""]],
 	"0613361":[[1,"石狩市","八幡","","Ishikari-shi","Hachiman",""]],
 	"0613362":[[1,"石狩市","北生振","","Ishikari-shi","Kitaoyafuru",""]],

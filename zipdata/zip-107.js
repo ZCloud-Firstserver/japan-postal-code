@@ -1,6 +1,6 @@
 zipdata({
 	"1070051":[[13,"港区","元赤坂","","Minato-ku","Motoakasaka",""]],
-	"1070052":[[13,"港区","赤坂","","Minato-ku","Akasaka ",""]],
+	"1070052":[[13,"港区","赤坂","","Minato-ku","Akasaka",""]],
 	"1070061":[[13,"港区","北青山","","Minato-ku","Kitaaoyama",""]],
 	"1070062":[[13,"港区","南青山","","Minato-ku","Minamiaoyama",""]],
 	"1076001":[[13,"港区","赤坂赤坂アークヒルズ・アーク森ビ","","Minato-ku","Akasaka Akasakaakuhiruzu.akumoribir",""]],

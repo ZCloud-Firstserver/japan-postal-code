@@ -3,7 +3,7 @@ zipdata({
 	"7960001":[[38,"八幡浜市","向灘","","Yawatahama-shi","Mukainada",""]],
 	"7960002":[[38,"八幡浜市","大平","","Yawatahama-shi","Ohira",""]],
 	"7960003":[[38,"八幡浜市","大平","","Yawatahama-shi","Ohira",""]],
-	"7960004":[[38,"八幡浜市","大平","","Yawatahama-shi","Ohira ",""]],
+	"7960004":[[38,"八幡浜市","大平","","Yawatahama-shi","Ohira",""]],
 	"7960005":[[38,"八幡浜市","高野地","","Yawatahama-shi","Takanoji",""]],
 	"7960010":[[38,"八幡浜市","松柏","","Yawatahama-shi","Matsukaya",""]],
 	"7960011":[[38,"八幡浜市","木多町","","Yawatahama-shi","Kitamachi",""]],

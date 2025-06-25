@@ -205,7 +205,7 @@ zipdata({
 	"7913164":[[38,"伊予郡松前町","中川原","","Masaki-cho, Iyo-gun","Nakagawara",""]],
 	"7913201":[[38,"伊予市","中山町佐礼谷","","Iyo-shi","Nakayamacho Saretani",""]],
 	"7913202":[[38,"伊予市","中山町栗田","","Iyo-shi","Nakayamacho Kurida",""]],
-	"7913203":[[38,"伊予市","中山町出渕","","Iyo-shi","Nakayamacho Izubuchi ",""]],
+	"7913203":[[38,"伊予市","中山町出渕","","Iyo-shi","Nakayamacho Izubuchi",""]],
 	"7913204":[[38,"伊予市","中山町出渕","","Iyo-shi","Nakayamacho Izubuchi",""]],
 	"7913205":[[38,"伊予市","中山町中山","","Iyo-shi","Nakayamacho Nakayama",""]],
 	"7913206":[[38,"伊予市","中山町中山","","Iyo-shi","Nakayamacho Nakayama",""]],

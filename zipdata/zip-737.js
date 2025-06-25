@@ -164,7 +164,7 @@ zipdata({
 	"7370901":[[34,"呉市","焼山ひばりケ丘町","","Kure-shi","Yakeyama Hibarigaokacho",""]],
 	"7370902":[[34,"呉市","焼山此原町","","Kure-shi","Yakeyama Konoharacho",""]],
 	"7370903":[[34,"呉市","焼山西","","Kure-shi","Yakeyama Nishi",""]],
-	"7370904":[[34,"呉市","焼山","","Kure-shi","Yakeyama ",""]],
+	"7370904":[[34,"呉市","焼山","","Kure-shi","Yakeyama",""]],
 	"7370905":[[34,"呉市","焼山町","","Kure-shi","Yakeyamacho",""]],
 	"7370906":[[34,"呉市","焼山町","","Kure-shi","Yakeyamacho",""]],
 	"7370907":[[34,"呉市","焼山町","","Kure-shi","Yakeyamacho",""]],

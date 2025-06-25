@@ -283,7 +283,7 @@ zipdata({
 	"7795345":[[36,"三好市","山城町瀬貝","","Miyoshi-shi","Yamashirocho Segai",""]],
 	"7795346":[[36,"三好市","山城町脇","","Miyoshi-shi","Yamashirocho Waki",""]],
 	"7795347":[[36,"三好市","山城町大月","","Miyoshi-shi","Yamashirocho Otsuki",""]],
-	"7795422":[[36,"三好市","山城町重実","","Miyoshi-shi","Yamashirocho Shigezane ",""]],
+	"7795422":[[36,"三好市","山城町重実","","Miyoshi-shi","Yamashirocho Shigezane",""]],
 	"7795451":[[36,"三好市","山城町西宇","","Miyoshi-shi","Yamashirocho Nishiu",""]],
 	"7795452":[[36,"三好市","山城町上名","","Miyoshi-shi","Yamashirocho Kamimyo",""]],
 	"7795453":[[36,"三好市","山城町下名","","Miyoshi-shi","Yamashirocho Shimomyo",""]]

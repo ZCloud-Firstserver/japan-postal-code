@@ -1,6 +1,6 @@
 zipdata({
 	"1060031":[[13,"港区","西麻布","","Minato-ku","Nishiazabu",""]],
-	"1060032":[[13,"港区","六本木","","Minato-ku","Roppongi ",""]],
+	"1060032":[[13,"港区","六本木","","Minato-ku","Roppongi",""]],
 	"1060041":[[13,"港区","麻布台","","Minato-ku","Azabudai",""]],
 	"1060042":[[13,"港区","麻布狸穴町","","Minato-ku","Azabumamianacho",""]],
 	"1060043":[[13,"港区","麻布永坂町","","Minato-ku","Azabunagasakacho",""]],

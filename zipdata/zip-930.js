@@ -520,7 +520,7 @@ zipdata({
 	"9301337":[[16,"富山市","田畠","","Toyama-shi","Tabatake",""]],
 	"9301338":[[16,"富山市","田畠","","Toyama-shi","Tabatake",""]],
 	"9301361":[[16,"中新川郡立山町","伊豆林","","Tateyama-machi, Nakaniikawa-gun","Izubayashi",""],[16,"中新川郡立山町","下田","","Tateyama-machi, Nakaniikawa-gun","Misada",""]],
-	"9301362":[[16,"中新川郡立山町","吉峰野開","","Tateyama-machi, Nakaniikawa-gun","Yoshiminenobiraki",""],[16,"中新川郡立山町","米道","","Tateyama-machi, Nakaniikawa-gun","Yonemichi ",""]],
+	"9301362":[[16,"中新川郡立山町","吉峰野開","","Tateyama-machi, Nakaniikawa-gun","Yoshiminenobiraki",""],[16,"中新川郡立山町","米道","","Tateyama-machi, Nakaniikawa-gun","Yonemichi",""]],
 	"9301363":[[16,"中新川郡立山町","栃津","","Tateyama-machi, Nakaniikawa-gun","Tochizu",""]],
 	"9301364":[[16,"中新川郡立山町","天林","","Tateyama-machi, Nakaniikawa-gun","Tembayashi",""]],
 	"9301365":[[16,"中新川郡立山町","東中野新","","Tateyama-machi, Nakaniikawa-gun","Higashinakanoshin",""]],
