@@ -350,6 +350,7 @@ zipdata({
 	"9902376":[[6,"山形市","桜ケ丘","","Yamagata-shi","Sakuragaoka",""]],
 	"9902377":[[6,"山形市","藤沢川","","Yamagata-shi","Fujisawagawa",""]],
 	"9902378":[[6,"山形市","反町","","Yamagata-shi","Sorimachi",""]],
+	"9902379":[[6,"山形市","替所","","Yamagata-shi","Kaesho",""]],
 	"9902381":[[6,"山形市","常明寺","","Yamagata-shi","Jomyoji",""]],
 	"9902382":[[6,"山形市","滝平","","Yamagata-shi","Takinohira",""]],
 	"9902383":[[6,"山形市","芳沢","","Yamagata-shi","Yoshizawa",""]],

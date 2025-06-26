@@ -3,7 +3,7 @@ zipdata({
 	"1410021":[[13,"品川区","上大崎","","Shinagawa-ku","Kamiosaki",""]],
 	"1410022":[[13,"品川区","東五反田","","Shinagawa-ku","Higashigotanda",""]],
 	"1410031":[[13,"品川区","西五反田","","Shinagawa-ku","Nishigotanda",""]],
-	"1410032":[[13,"品川区","大崎","","Shinagawa-ku","Osaki ",""]],
+	"1410032":[[13,"品川区","大崎","","Shinagawa-ku","Osaki",""]],
 	"1410033":[[13,"品川区","西品川","","Shinagawa-ku","Nishishinagawa",""]],
 	"1416001":[[13,"品川区","大崎ＴｈｉｎｋＰａｒｋＴｏｗｅｒ","","Shinagawa-ku","Osaki Shinkupakutawa 1f",""]],
 	"1416002":[[13,"品川区","大崎ＴｈｉｎｋＰａｒｋＴｏｗｅｒ","","Shinagawa-ku","Osaki Shinkupakutawa 2f",""]],

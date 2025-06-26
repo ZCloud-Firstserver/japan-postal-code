@@ -23,7 +23,7 @@ zipdata({
 	"5450042":[[27,"大阪市阿倍野区","丸山通","","Abeno-ku, Osaka-shi","Maruyamadori",""]],
 	"5450043":[[27,"大阪市阿倍野区","松虫通","","Abeno-ku, Osaka-shi","Matsumushidori",""]],
 	"5450051":[[27,"大阪市阿倍野区","旭町","","Abeno-ku, Osaka-shi","Asahimachi",""]],
-	"5450052":[[27,"大阪市阿倍野区","阿倍野筋","","Abeno-ku, Osaka-shi","Abenosuji ",""]],
+	"5450052":[[27,"大阪市阿倍野区","阿倍野筋","","Abeno-ku, Osaka-shi","Abenosuji",""]],
 	"5450053":[[27,"大阪市阿倍野区","松崎町","","Abeno-ku, Osaka-shi","Matsuzakicho",""]],
 	"5456001":[[27,"大阪市阿倍野区","阿倍野筋あべのハルカス１階","","Abeno-ku, Osaka-shi","Abenosuji Abenoharukasu 1f",""]],
 	"5456002":[[27,"大阪市阿倍野区","阿倍野筋あべのハルカス２階","","Abeno-ku, Osaka-shi","Abenosuji Abenoharukasu 2f",""]],

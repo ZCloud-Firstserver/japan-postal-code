@@ -146,6 +146,7 @@ zipdata({
 	"9650837":[[7,"会津若松市","錦町","","Aizuwakamatsu-shi","Nishikimachi",""]],
 	"9650838":[[7,"会津若松市","古川町","","Aizuwakamatsu-shi","Furukawamachi",""]],
 	"9650839":[[7,"会津若松市","東年貢","","Aizuwakamatsu-shi","Higashinengu",""]],
+	"9650840":[[7,"会津若松市","飯寺南","","Aizuwakamatsu-shi","Niideraminami",""]],
 	"9650841":[[7,"会津若松市","門田町日吉","","Aizuwakamatsu-shi","Mondemmachi Hiyoshi",""]],
 	"9650842":[[7,"会津若松市","門田町中野","","Aizuwakamatsu-shi","Mondemmachi Nakano",""]],
 	"9650843":[[7,"会津若松市","門田町徳久","","Aizuwakamatsu-shi","Mondemmachi Tokuhisa",""]],

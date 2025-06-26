@@ -72,7 +72,7 @@ zipdata({
 	"7450512":[[35,"周南市","中須南","","Shunan-shi","Nakazu Minami",""]],
 	"7450611":[[35,"周南市","奥関屋","","Shunan-shi","Okusekiya",""]],
 	"7450612":[[35,"周南市","呼坂","","Shunan-shi","Yobisaka",""]],
-	"7450613":[[35,"周南市","夢ケ丘","","Shunan-shi","Yumegaoka",""]],
+	"7450613":[[35,"周南市","夢ヶ丘","","Shunan-shi","Yumegaoka",""]],
 	"7450614":[[35,"周南市","御所尾原","","Shunan-shi","Goshobara",""]],
 	"7450615":[[35,"周南市","勝間ヶ丘","","Shunan-shi","Katsumagaoka",""]],
 	"7450616":[[35,"周南市","緑ケ丘","","Shunan-shi","Midorigaoka",""]],

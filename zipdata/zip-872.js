@@ -56,7 +56,7 @@ zipdata({
 	"8720344":[[44,"宇佐市","院内町大門","","Usa-shi","Innaimachi Daimon",""]],
 	"8720345":[[44,"宇佐市","院内町月俣","","Usa-shi","Innaimachi Tsukinomata",""]],
 	"8720346":[[44,"宇佐市","院内町定別当","","Usa-shi","Innaimachi Jobetto",""]],
-	"8720366":[[44,"宇佐市","上拝田","","Usa-shi","Kamihaita ",""]],
+	"8720366":[[44,"宇佐市","上拝田","","Usa-shi","Kamihaita",""]],
 	"8720451":[[44,"宇佐市","院内町下余","","Usa-shi","Innaimachi Shimoamari",""]],
 	"8720452":[[44,"宇佐市","院内町上納持","","Usa-shi","Innaimachi Kaminoji",""]],
 	"8720453":[[44,"宇佐市","院内町平原","","Usa-shi","Innaimachi Hirabaru",""]],

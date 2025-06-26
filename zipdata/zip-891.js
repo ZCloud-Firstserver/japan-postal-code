@@ -34,7 +34,7 @@ zipdata({
 	"8910204":[[46,"鹿児島市","喜入一倉町","","Kagoshima-shi","Kiire Hitokuracho",""]],
 	"8910205":[[46,"鹿児島市","喜入前之浜町","","Kagoshima-shi","Kiire Maenohamacho",""]],
 	"8910206":[[46,"鹿児島市","喜入生見町","","Kagoshima-shi","Kiire Nukumicho",""]],
-	"8910304":[[46,"指宿市","東方","","Ibusuki-shi","Higashikata",""],[46,"指宿市","１０６０３〜１１０１５）","","Ibusuki-shi","10603-11015)",""]],
+	"8910304":[[46,"指宿市","東方","","Ibusuki-shi","Higashikata",""]],
 	"8910311":[[46,"指宿市","西方","","Ibusuki-shi","Nishikata",""]],
 	"8910312":[[46,"指宿市","池田","","Ibusuki-shi","Ikeda",""]],
 	"8910313":[[46,"指宿市","新西方","","Ibusuki-shi","Shinnishikata",""]],

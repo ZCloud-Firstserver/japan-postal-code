@@ -10,7 +10,7 @@ zipdata({
 	"9340014":[[16,"射水市","緑町","","Imizu-shi","Midorimachi",""]],
 	"9340015":[[16,"射水市","桜町","","Imizu-shi","Sakuramachi",""]],
 	"9340016":[[16,"射水市","三日曽根","","Imizu-shi","Mikkasone",""]],
-	"9340021":[[16,"射水市","堀岡新明神","","Imizu-shi","Horiokashimmyojin ",""]],
+	"9340021":[[16,"射水市","堀岡新明神","","Imizu-shi","Horiokashimmyojin",""]],
 	"9340022":[[16,"射水市","放生津町","","Imizu-shi","Hojozumachi",""]],
 	"9340023":[[16,"射水市","海王町","","Imizu-shi","Kaiomachi",""]],
 	"9340024":[[16,"射水市","越の潟町","","Imizu-shi","Koshinokatamachi",""]],

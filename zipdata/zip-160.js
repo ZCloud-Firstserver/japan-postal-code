@@ -18,7 +18,7 @@ zipdata({
 	"1600018":[[13,"新宿区","須賀町","","Shinjuku-ku","Sugacho",""]],
 	"1600021":[[13,"新宿区","歌舞伎町","","Shinjuku-ku","Kabukicho",""]],
 	"1600022":[[13,"新宿区","新宿","","Shinjuku-ku","Shinjuku",""]],
-	"1600023":[[13,"新宿区","西新宿","","Shinjuku-ku","Nishishinjuku ",""]],
+	"1600023":[[13,"新宿区","西新宿","","Shinjuku-ku","Nishishinjuku",""]],
 	"1606101":[[13,"新宿区","西新宿住友不動産新宿グランドタ","","Shinjuku-ku","Nishishinjuku Sumitomofudosan Shinj",""]],
 	"1606102":[[13,"新宿区","西新宿住友不動産新宿グランドタ","","Shinjuku-ku","Nishishinjuku Sumitomofudosan Shinj",""]],
 	"1606103":[[13,"新宿区","西新宿住友不動産新宿グランドタ","","Shinjuku-ku","Nishishinjuku Sumitomofudosan Shinj",""]],

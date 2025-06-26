@@ -43,7 +43,7 @@ zipdata({
 	"8890901":[[45,"東臼杵郡美郷町","北郷宇納間","","Misato-cho, Higashiusuki-gun","Kitago Unama",""]],
 	"8890902":[[45,"東臼杵郡美郷町","北郷入下","","Misato-cho, Higashiusuki-gun","Kitago Nyushita",""]],
 	"8890903":[[45,"東臼杵郡美郷町","北郷黒木","","Misato-cho, Higashiusuki-gun","Kitago Kurogi",""]],
-	"8891101":[[45,"日向市","東郷町山陰乙","","Hyuga-shi","Togocho Yamageotsu ",""]],
+	"8891101":[[45,"日向市","東郷町山陰乙","","Hyuga-shi","Togocho Yamageotsu",""]],
 	"8891111":[[45,"日向市","美々津町","","Hyuga-shi","Mimitsucho",""]],
 	"8891112":[[45,"日向市","幸脇","","Hyuga-shi","Saiwaki",""]],
 	"8891121":[[45,"日向市","東郷町山陰甲","","Hyuga-shi","Togocho Yamageko",""]],

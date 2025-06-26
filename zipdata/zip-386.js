@@ -103,5 +103,5 @@ zipdata({
 	"3862202":[[20,"上田市","真田町本原","","Ueda-shi","Sanadamachi Motohara",""]],
 	"3862203":[[20,"上田市","真田町傍陽","","Ueda-shi","Sanadamachi Soehi",""]],
 	"3862204":[[20,"上田市","菅平高原","","Ueda-shi","Sugadairakogen",""]],
-	"3862211":[[20,"須坂市","仁礼町","","Suzaka-shi","Nireimachi",""]]
+	"3862211":[[20,"須坂市","仁礼","","Suzaka-shi","Nirei",""]]
 })

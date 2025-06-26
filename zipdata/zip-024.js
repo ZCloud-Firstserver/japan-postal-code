@@ -68,5 +68,5 @@ zipdata({
 	"0240333":[[3,"北上市","和賀町長沼","","Kitakami-shi","Wagacho Naganuma",""]],
 	"0240334":[[3,"北上市","和賀町藤根","","Kitakami-shi","Wagacho Fujine",""]],
 	"0240335":[[3,"北上市","和賀町後藤","","Kitakami-shi","Wagacho Goto",""]],
-	"0240341":[[3,"和賀郡西和賀町","杉名畑４４地割","","Nishiwaga-machi, Waga-gun","Suginahata44-chiwari ",""]]
+	"0240341":[[3,"和賀郡西和賀町","杉名畑４４地割","","Nishiwaga-machi, Waga-gun","Suginahata44-chiwari",""]]
 })

@@ -9,7 +9,7 @@ zipdata({
 	"5310073":[[27,"大阪市北区","本庄西","","Kita-ku, Osaka-shi","Honjonishi",""]],
 	"5310074":[[27,"大阪市北区","本庄東","","Kita-ku, Osaka-shi","Honjohigashi",""]],
 	"5310075":[[27,"大阪市北区","大淀南","","Kita-ku, Osaka-shi","Oyodominami",""]],
-	"5310076":[[27,"大阪市北区","大淀中","","Kita-ku, Osaka-shi","Oyodonaka ",""]],
+	"5310076":[[27,"大阪市北区","大淀中","","Kita-ku, Osaka-shi","Oyodonaka",""]],
 	"5310077":[[27,"大阪市北区","大淀北","","Kita-ku, Osaka-shi","Oyodokita",""]],
 	"5316001":[[27,"大阪市北区","大淀中梅田スカイビルタワーイース","","Kita-ku, Osaka-shi","Oyodonaka Umedasukaibirutawaisuto",""]],
 	"5316002":[[27,"大阪市北区","大淀中梅田スカイビルタワーイース","","Kita-ku, Osaka-shi","Oyodonaka Umedasukaibirutawaisuto",""]],

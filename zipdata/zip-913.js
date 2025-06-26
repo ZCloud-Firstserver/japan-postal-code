@@ -25,7 +25,7 @@ zipdata({
 	"9130035":[[18,"坂井市","三国町沖野々","","Sakai-shi","Mikunicho Okinono",""],[18,"坂井市","三国町横越","","Sakai-shi","Mikunicho Yokogoshi",""]],
 	"9130036":[[18,"坂井市","三国町米納津","","Sakai-shi","Mikunicho Yonozu",""]],
 	"9130037":[[18,"坂井市","三国町黒目","","Sakai-shi","Mikunicho Kurome",""]],
-	"9130038":[[18,"坂井市","三国町黒目","","Sakai-shi","Mikunicho Kurome ",""],[18,"坂井市","三国町新保","","Sakai-shi","Mikunicho Shimbo ",""],[18,"坂井市","三国町山岸","","Sakai-shi","Mikunicho Yamagishi ",""],[18,"坂井市","三国町米納津","","Sakai-shi","Mikunicho Yonozu ",""]],
+	"9130038":[[18,"坂井市","三国町黒目","","Sakai-shi","Mikunicho Kurome",""],[18,"坂井市","三国町新保","","Sakai-shi","Mikunicho Shimbo",""],[18,"坂井市","三国町山岸","","Sakai-shi","Mikunicho Yamagishi",""],[18,"坂井市","三国町米納津","","Sakai-shi","Mikunicho Yonozu",""]],
 	"9130041":[[18,"坂井市","三国町覚善","","Sakai-shi","Mikunicho Kakuzen",""]],
 	"9130042":[[18,"坂井市","三国町中央","","Sakai-shi","Mikunicho Chuo",""]],
 	"9130043":[[18,"坂井市","三国町錦","","Sakai-shi","Mikunicho Nishiki",""]],
@@ -44,7 +44,7 @@ zipdata({
 	"9130058":[[18,"坂井市","三国町新宿","","Sakai-shi","Mikunicho Shinshuku",""]],
 	"9130061":[[18,"坂井市","三国町梶","","Sakai-shi","Mikunicho Kaji",""]],
 	"9130062":[[18,"坂井市","三国町陣ケ岡","","Sakai-shi","Mikunicho Jingaoka",""]],
-	"9130063":[[18,"坂井市","三国町安島","","Sakai-shi","Mikunicho Anto ",""]],
+	"9130063":[[18,"坂井市","三国町安島","","Sakai-shi","Mikunicho Anto",""]],
 	"9130064":[[18,"坂井市","三国町安島","","Sakai-shi","Mikunicho Anto",""]],
 	"9130065":[[18,"坂井市","三国町崎","","Sakai-shi","Mikunicho Saki",""]]
 })

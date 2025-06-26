@@ -11,7 +11,7 @@ zipdata({
 	"2610014":[[12,"千葉市美浜区","若葉","","Mihama-ku, Chiba-shi","Wakaba",""]],
 	"2610021":[[12,"千葉市美浜区","ひび野","","Mihama-ku, Chiba-shi","Hibino",""]],
 	"2610022":[[12,"千葉市美浜区","美浜","","Mihama-ku, Chiba-shi","Mihama",""]],
-	"2610023":[[12,"千葉市美浜区","中瀬","","Mihama-ku, Chiba-shi","Nakase ",""]],
+	"2610023":[[12,"千葉市美浜区","中瀬","","Mihama-ku, Chiba-shi","Nakase",""]],
 	"2610024":[[12,"千葉市美浜区","豊砂","","Mihama-ku, Chiba-shi","Toyosuna",""]],
 	"2610025":[[12,"千葉市美浜区","浜田","","Mihama-ku, Chiba-shi","Hamada",""]],
 	"2610026":[[12,"千葉市美浜区","幕張西","","Mihama-ku, Chiba-shi","Makuharinishi",""]],

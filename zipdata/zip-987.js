@@ -24,6 +24,7 @@ zipdata({
 	"9870036":[[4,"遠田郡美里町","妻の神","","Misato-machi, Toda-gun","Sainokami",""]],
 	"9870037":[[4,"遠田郡美里町","新藤ケ崎","","Misato-machi, Toda-gun","Shinfujigasaki",""]],
 	"9870038":[[4,"遠田郡美里町","駅東","","Misato-machi, Toda-gun","Ekihigashi",""]],
+	"9870039":[[4,"遠田郡美里町","新峯山","","Misato-machi, Toda-gun","Shimmineyama",""]],
 	"9870041":[[4,"遠田郡美里町","峯山","","Misato-machi, Toda-gun","Mineyama",""]],
 	"9870042":[[4,"遠田郡美里町","峯山浦","","Misato-machi, Toda-gun","Mineyamaura",""]],
 	"9870043":[[4,"遠田郡美里町","新妻の神","","Misato-machi, Toda-gun","Shinsainokami",""]],

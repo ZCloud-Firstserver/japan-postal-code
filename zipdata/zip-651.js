@@ -78,6 +78,7 @@ zipdata({
 	"6511221":[[28,"神戸市北区","緑町","","Kita-ku, Kobe-shi","Midorimachi",""]],
 	"6511222":[[28,"神戸市北区","大原","","Kita-ku, Kobe-shi","Ohara",""]],
 	"6511223":[[28,"神戸市北区","桂木","","Kita-ku, Kobe-shi","Katsuragi",""]],
+	"6511224":[[28,"神戸市北区","山の街","","Kita-ku, Kobe-shi","Yamanomachi",""]],
 	"6511231":[[28,"神戸市北区","青葉台","","Kita-ku, Kobe-shi","Aobadai",""]],
 	"6511232":[[28,"神戸市北区","松が枝町","","Kita-ku, Kobe-shi","Matsugaecho",""]],
 	"6511233":[[28,"神戸市北区","日の峰","","Kita-ku, Kobe-shi","Hinomine",""]],

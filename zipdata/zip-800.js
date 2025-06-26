@@ -91,7 +91,7 @@ zipdata({
 	"8000225":[[40,"北九州市小倉南区","田原","","Kokuraminami-ku, Kitakyushu-shi","Tahara",""]],
 	"8000226":[[40,"北九州市小倉南区","田原新町","","Kokuraminami-ku, Kitakyushu-shi","Taharashimmachi",""]],
 	"8000227":[[40,"北九州市小倉南区","津田新町","","Kokuraminami-ku, Kitakyushu-shi","Tsudashimmachi",""]],
-	"8000228":[[40,"北九州市小倉南区","長野","","Kokuraminami-ku, Kitakyushu-shi","Nagano ",""]],
+	"8000228":[[40,"北九州市小倉南区","長野","","Kokuraminami-ku, Kitakyushu-shi","Nagano",""]],
 	"8000229":[[40,"北九州市小倉南区","曽根北町","","Kokuraminami-ku, Kitakyushu-shi","Sonekitamachi",""]],
 	"8000231":[[40,"北九州市小倉南区","朽網","","Kokuraminami-ku, Kitakyushu-shi","Kusami",""]],
 	"8000232":[[40,"北九州市小倉南区","朽網東","","Kokuraminami-ku, Kitakyushu-shi","Kusamihigashi",""]],

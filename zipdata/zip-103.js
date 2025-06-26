@@ -20,7 +20,7 @@ zipdata({
 	"1030024":[[13,"中央区","日本橋小舟町","","Chuo-ku","Nihombashikobunacho",""]],
 	"1030025":[[13,"中央区","日本橋茅場町","","Chuo-ku","Nihombashikayabacho",""]],
 	"1030026":[[13,"中央区","日本橋兜町","","Chuo-ku","Nihombashikabutocho",""]],
-	"1030027":[[13,"中央区","日本橋","","Chuo-ku","Nihombashi ",""]],
+	"1030027":[[13,"中央区","日本橋","","Chuo-ku","Nihombashi",""]],
 	"1030028":[[13,"中央区","八重洲","","Chuo-ku","Yaesu",""]],
 	"1036001":[[13,"中央区","日本橋東京日本橋タワー１階","","Chuo-ku","Nihombashi Tokyonihombashitawa",""]],
 	"1036002":[[13,"中央区","日本橋東京日本橋タワー２階","","Chuo-ku","Nihombashi Tokyonihombashitawa",""]],

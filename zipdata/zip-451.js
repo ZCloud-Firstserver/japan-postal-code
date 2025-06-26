@@ -23,7 +23,7 @@ zipdata({
 	"4510043":[[23,"名古屋市西区","新道","","Nishi-ku, Nagoya-shi","Shimmichi",""]],
 	"4510044":[[23,"名古屋市西区","菊井","","Nishi-ku, Nagoya-shi","Kikui",""]],
 	"4510045":[[23,"名古屋市西区","名駅","","Nishi-ku, Nagoya-shi","Meieki",""]],
-	"4510046":[[23,"名古屋市西区","牛島町","","Nishi-ku, Nagoya-shi","Ushijimacho ",""]],
+	"4510046":[[23,"名古屋市西区","牛島町","","Nishi-ku, Nagoya-shi","Ushijimacho",""]],
 	"4510051":[[23,"名古屋市西区","則武新町","","Nishi-ku, Nagoya-shi","Noritakeshimmachi",""]],
 	"4510052":[[23,"名古屋市西区","栄生","","Nishi-ku, Nagoya-shi","Sako",""]],
 	"4510053":[[23,"名古屋市西区","枇杷島","","Nishi-ku, Nagoya-shi","Biwajima",""]],

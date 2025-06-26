@@ -38,6 +38,7 @@ zipdata({
 	"6210044":[[26,"亀岡市","千代川町日吉台","","Kameoka-shi","Chiyokawacho Hiyoshidai",""]],
 	"6210045":[[26,"亀岡市","千代川町湯井","","Kameoka-shi","Chiyokawacho Yui",""]],
 	"6210046":[[26,"亀岡市","千代川町北ノ庄","","Kameoka-shi","Chiyokawacho Kitanosho",""]],
+	"6210047":[[26,"亀岡市","千代川町明晴","","Kameoka-shi","Chiyokawacho Asuhare",""]],
 	"6210051":[[26,"亀岡市","千代川町今津","","Kameoka-shi","Chiyokawacho Imazu",""]],
 	"6210052":[[26,"亀岡市","千代川町千原","","Kameoka-shi","Chiyokawacho Chihara",""]],
 	"6210053":[[26,"亀岡市","千代川町拝田","","Kameoka-shi","Chiyokawacho Haida",""]],

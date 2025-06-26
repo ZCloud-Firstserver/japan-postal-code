@@ -1,5 +1,5 @@
 zipdata({
-	"1710014":[[13,"豊島区","池袋","","Toshima-ku","Ikebukuro ",""]],
+	"1710014":[[13,"豊島区","池袋","","Toshima-ku","Ikebukuro",""]],
 	"1710021":[[13,"豊島区","西池袋","","Toshima-ku","Nishiikebukuro",""]],
 	"1710022":[[13,"豊島区","南池袋","","Toshima-ku","Minamiikebukuro",""]],
 	"1710031":[[13,"豊島区","目白","","Toshima-ku","Mejiro",""]],

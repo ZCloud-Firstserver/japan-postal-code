@@ -12,7 +12,7 @@ zipdata({
 	"0190402":[[5,"湯沢市","相川","","Yuzawa-shi","Aikawa",""]],
 	"0190403":[[5,"湯沢市","宇留院内","","Yuzawa-shi","Uruinnai",""]],
 	"0190404":[[5,"湯沢市","高松","","Yuzawa-shi","Takamatsu",""]],
-	"0190481":[[5,"湯沢市","皆瀬","","Yuzawa-shi","Minase ",""]],
+	"0190481":[[5,"湯沢市","皆瀬","","Yuzawa-shi","Minase",""]],
 	"0190501":[[5,"横手市","十文字町腕越","","Yokote-shi","Jumonjimachi Udekoshi",""]],
 	"0190502":[[5,"横手市","十文字町西原２番町","","Yokote-shi","Jumonjimachi Nishihara2-bancho",""]],
 	"0190503":[[5,"横手市","十文字町西原１番町","","Yokote-shi","Jumonjimachi Nishihara1-bancho",""]],

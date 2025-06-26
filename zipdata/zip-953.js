@@ -34,7 +34,7 @@ zipdata({
 	"9530064":[[15,"新潟市西蒲区","桜林","","Nishikan-ku, Niigata-shi","Sakurabayashi",""]],
 	"9530065":[[15,"新潟市西蒲区","下和納","","Nishikan-ku, Niigata-shi","Shimowano",""]],
 	"9530066":[[15,"新潟市西蒲区","安尻","","Nishikan-ku, Niigata-shi","Ajiri",""]],
-	"9530067":[[15,"新潟市西蒲区","潟頭","","Nishikan-ku, Niigata-shi","Gatagashira",""]],
+	"9530067":[[15,"新潟市西蒲区","潟頭","","Nishikan-ku, Niigata-shi","Katagashira",""]],
 	"9530071":[[15,"新潟市西蒲区","下木島","","Nishikan-ku, Niigata-shi","Shimokijima",""]],
 	"9530072":[[15,"新潟市西蒲区","鷲ノ木","","Nishikan-ku, Niigata-shi","Washinoki",""]],
 	"9530073":[[15,"新潟市西蒲区","上木島","","Nishikan-ku, Niigata-shi","Kamikijima",""]],

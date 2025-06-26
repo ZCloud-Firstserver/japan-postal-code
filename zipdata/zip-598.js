@@ -50,6 +50,7 @@ zipdata({
 	"5980073":[[27,"泉佐野市","南泉ケ丘","","Izumisano-shi","Minamiizumigaoka",""]],
 	"5980074":[[27,"泉佐野市","東佐野台","","Izumisano-shi","Higashisanodai",""]],
 	"5980075":[[27,"泉佐野市","佐野台","","Izumisano-shi","Sanodai",""]],
+	"5980076":[[27,"泉佐野市","貝田町","","Izumisano-shi","Kaitacho",""]],
 	"5980091":[[27,"泉南郡田尻町","嘉祥寺","","Tajiri-cho, Sennan-gun","Kashoji",""]],
 	"5980092":[[27,"泉南郡田尻町","吉見","","Tajiri-cho, Sennan-gun","Yoshimi",""]],
 	"5980093":[[27,"泉南郡田尻町","りんくうポート北","","Tajiri-cho, Sennan-gun","Rinkupoto Kita",""]],

@@ -70,7 +70,7 @@ zipdata({
 	"6970431":[[32,"浜田市","旭町坂本","","Hamada-shi","Asahicho Sakamoto",""]],
 	"6970511":[[32,"浜田市","旭町都川","","Hamada-shi","Asahicho Tsukawa",""]],
 	"6970512":[[32,"浜田市","旭町来尾","","Hamada-shi","Asahicho Kitao",""]],
-	"6970513":[[32,"浜田市","旭町坂本","","Hamada-shi","Asahicho Sakamoto ",""]],
+	"6970513":[[32,"浜田市","旭町坂本","","Hamada-shi","Asahicho Sakamoto",""]],
 	"6970514":[[32,"浜田市","旭町市木","","Hamada-shi","Asahicho Ichigi",""]],
 	"6970631":[[32,"邑智郡邑南町","市木","","Onan-cho, Ochi-gun","Ichigi",""]],
 	"6971121":[[32,"浜田市","弥栄町野坂","","Hamada-shi","Yasakacho Nosaka",""]],

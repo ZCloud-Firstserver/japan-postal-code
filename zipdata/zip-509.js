@@ -416,7 +416,7 @@ zipdata({
 	"5095312":[[21,"土岐市","鶴里町柿野","","Toki-shi","Tsurusatocho Kakino",""]],
 	"5095401":[[21,"土岐市","駄知町","","Toki-shi","Dachicho",""]],
 	"5095402":[[21,"土岐市","曽木町","","Toki-shi","Sogicho",""]],
-	"5095403":[[21,"土岐市","旭ケ丘町","","Toki-shi","Asahigaokacho",""],[21,"土岐市","肥田町肥田","","Toki-shi","Hidacho Hida",""]],
+	"5095403":[[21,"土岐市","肥田町肥田","","Toki-shi","Hidacho Hida",""]],
 	"5096100":[[21,"瑞浪市","","","Mizunami-shi","",""]],
 	"5096101":[[21,"瑞浪市","土岐町","","Mizunami-shi","Tokicho",""]],
 	"5096102":[[21,"瑞浪市","稲津町萩原","","Mizunami-shi","Inatsucho Hagiwara",""]],

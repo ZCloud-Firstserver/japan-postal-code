@@ -42,6 +42,7 @@ zipdata({
 	"2430124":[[14,"厚木市","森の里若宮","","Atsugi-shi","Morinosatowakamiya",""]],
 	"2430125":[[14,"厚木市","小野","","Atsugi-shi","Ono",""]],
 	"2430126":[[14,"厚木市","岡津古久","","Atsugi-shi","Okatsukoku",""]],
+	"2430127":[[14,"厚木市","森の里紅葉台","","Atsugi-shi","Morinosatomomijidai",""]],
 	"2430201":[[14,"厚木市","上荻野","","Atsugi-shi","Kamiogino",""]],
 	"2430202":[[14,"厚木市","中荻野","","Atsugi-shi","Nakaogino",""]],
 	"2430203":[[14,"厚木市","下荻野","","Atsugi-shi","Shimogino",""]],

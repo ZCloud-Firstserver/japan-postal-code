@@ -151,7 +151,7 @@ zipdata({
 	"8592304":[[42,"南島原市","北有馬町丁","","Minamishimabara-shi","Kitaarimacho Tei",""]],
 	"8592305":[[42,"南島原市","北有馬町戊","","Minamishimabara-shi","Kitaarimacho Bo",""]],
 	"8592306":[[42,"南島原市","北有馬町己","","Minamishimabara-shi","Kitaarimacho Ki",""]],
-	"8592316":[[42,"南島原市","南有馬町己","","Minamishimabara-shi","Minamiarimacho Ki ",""]],
+	"8592316":[[42,"南島原市","南有馬町己","","Minamishimabara-shi","Minamiarimacho Ki",""]],
 	"8592411":[[42,"南島原市","南有馬町甲","","Minamishimabara-shi","Minamiarimacho Ko",""]],
 	"8592412":[[42,"南島原市","南有馬町乙","","Minamishimabara-shi","Minamiarimacho Otsu",""]],
 	"8592413":[[42,"南島原市","南有馬町丙","","Minamishimabara-shi","Minamiarimacho Hei",""]],

@@ -191,7 +191,7 @@ zipdata({
 	"6902522":[[32,"雲南市","三刀屋町六重","","Unnan-shi","Mitoyacho Mue",""]],
 	"6902523":[[32,"雲南市","三刀屋町中野","","Unnan-shi","Mitoyacho Nakano",""]],
 	"6902524":[[32,"雲南市","三刀屋町須所","","Unnan-shi","Mitoyacho Suzo",""]],
-	"6902525":[[32,"雲南市","三刀屋町坂本","","Unnan-shi","Mitoyacho Sakamoto ",""]],
+	"6902525":[[32,"雲南市","三刀屋町坂本","","Unnan-shi","Mitoyacho Sakamoto",""]],
 	"6902625":[[32,"雲南市","三刀屋町坂本","","Unnan-shi","Mitoyacho Sakamoto",""]],
 	"6902631":[[32,"雲南市","三刀屋町根波別所","","Unnan-shi","Mitoyacho Nebabesshiyo",""]],
 	"6902632":[[32,"雲南市","三刀屋町里坊","","Unnan-shi","Mitoyacho Satobo",""]],

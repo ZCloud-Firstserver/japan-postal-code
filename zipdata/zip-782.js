@@ -20,7 +20,7 @@ zipdata({
 	"7820018":[[39,"香美市","土佐山田町戸板島","","Kami-shi","Tosayamadachotoitajima",""]],
 	"7820019":[[39,"香美市","土佐山田町中野","","Kami-shi","Tosayamadachonakano",""]],
 	"7820021":[[39,"香美市","土佐山田町岩次","","Kami-shi","Tosayamadachoiwatsugi",""]],
-	"7820022":[[39,"香美市","土佐山田町京田","","Kami-shi","Tosayamadachokyoden ",""]],
+	"7820022":[[39,"香美市","土佐山田町京田","","Kami-shi","Tosayamadachokyoden",""]],
 	"7820023":[[39,"香美市","土佐山田町京田","","Kami-shi","Tosayamadachokyoden",""]],
 	"7820024":[[39,"香美市","土佐山田町神通寺","","Kami-shi","Tosayamadachojintsuji",""]],
 	"7820025":[[39,"香美市","土佐山田町松本","","Kami-shi","Tosayamadachomatsumoto",""]],
@@ -57,7 +57,7 @@ zipdata({
 	"7820074":[[39,"香美市","土佐山田町大後入","","Kami-shi","Tosayamadachoogonyu",""]],
 	"7820075":[[39,"香美市","土佐山田町西後入","","Kami-shi","Tosayamadachonishigonyu",""]],
 	"7820076":[[39,"香美市","土佐山田町本村","","Kami-shi","Tosayamadachohommura",""]],
-	"7820077":[[39,"香美市","土佐山田町佐野","","Kami-shi","Tosayamadachosano ",""]],
+	"7820077":[[39,"香美市","土佐山田町佐野","","Kami-shi","Tosayamadachosano",""]],
 	"7820078":[[39,"香美市","土佐山田町大平","","Kami-shi","Tosayamadachoohira",""]],
 	"7820079":[[39,"香美市","土佐山田町佐野","","Kami-shi","Tosayamadachosano",""]]
 })

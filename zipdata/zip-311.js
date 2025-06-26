@@ -187,6 +187,7 @@ zipdata({
 	"3111703":[[8,"行方市","成田","","Namegata-shi","Narita",""]],
 	"3111704":[[8,"行方市","山田","","Namegata-shi","Yamada",""]],
 	"3111705":[[8,"行方市","内宿","","Namegata-shi","Uchijuku",""]],
+	"3111706":[[8,"行方市","北浦","","Namegata-shi","Kitaura",""]],
 	"3111711":[[8,"行方市","吉川","","Namegata-shi","Yoshikawa",""]],
 	"3111712":[[8,"行方市","繁昌","","Namegata-shi","Hanjo",""]],
 	"3111713":[[8,"行方市","中根","","Namegata-shi","Nakane",""]],

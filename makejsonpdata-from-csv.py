@@ -131,6 +131,7 @@ def normalize_area_ja(area_ja, main_area_ja):
     if re.search(r'^[^（]*）$', area_ja): return main_area_ja
     if re.search(r'^[^（]*、[^（]*）$', area_ja): return main_area_ja
     if main_area_ja and '（' not in area_ja and '、' in area_ja: return main_area_ja
+    if main_area_ja and area_ja != main_area_ja and area_ja.endswith(u'）') and u'（' not in area_ja: return main_area_ja
     words = re.sub(r'（([０-９]+階)）', r'\1', area_ja)
     words = re.sub(r'（.*$', '', words)
     words = words.replace('　', '')
@@ -148,7 +149,7 @@ def normalize_area_en(area_ro):
     words = re.sub(r'\(.*$', '', words)
     words = words.split(' ')
     words = map(lambda word: word.capitalize(), words)
-    return ' '.join(words)
+    return ' '.join(words).strip()
 
 def address_in_english(address):
     postalcode, prefecture_id, city_ja, area_ja, street_ja, city_en, area_en, street_en = address

@@ -337,7 +337,7 @@ zipdata({
 	"8998212":[[46,"曽於市","大隅町月野","","So-shi","Osumicho Tsukino",""]],
 	"8998213":[[46,"曽於市","大隅町境木町","","So-shi","Osumicho Sakaigimachi",""]],
 	"8998311":[[46,"曽於市","大隅町荒谷","","So-shi","Osumicho Aratani",""]],
-	"8998312":[[46,"志布志市","有明町野神","","Shibushi-shi","Ariakecho Nogami ",""]],
+	"8998312":[[46,"志布志市","有明町野神","","Shibushi-shi","Ariakecho Nogami",""]],
 	"8998313":[[46,"曽於郡大崎町","野方","","Osaki-cho, So-gun","Nogata",""]],
 	"8998421":[[46,"曽於市","大隅町大谷","","So-shi","Osumicho Otani",""]],
 	"8998422":[[46,"曽於市","大隅町坂元","","So-shi","Osumicho Sakamoto",""]],

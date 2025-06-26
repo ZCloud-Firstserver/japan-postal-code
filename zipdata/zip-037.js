@@ -112,6 +112,8 @@ zipdata({
 	"0370512":[[2,"北津軽郡中泊町","小泊朝間","","Nakadomari-machi, Kitatsugaru-gun","Kodomari Asama",""]],
 	"0370513":[[2,"北津軽郡中泊町","小泊割長根","","Nakadomari-machi, Kitatsugaru-gun","Kodomari Warinagane",""]],
 	"0370514":[[2,"北津軽郡中泊町","小泊浜野","","Nakadomari-machi, Kitatsugaru-gun","Kodomari Hamano",""]],
+	"0370515":[[2,"北津軽郡中泊町","小泊築上","","Nakadomari-machi, Kitatsugaru-gun","Kodomari Tsukiage",""]],
+	"0370516":[[2,"北津軽郡中泊町","小泊山崎","","Nakadomari-machi, Kitatsugaru-gun","Kodomari Yamazaki",""]],
 	"0370521":[[2,"北津軽郡中泊町","小泊折戸","","Nakadomari-machi, Kitatsugaru-gun","Kodomari Orito",""]],
 	"0370522":[[2,"北津軽郡中泊町","小泊小泊","","Nakadomari-machi, Kitatsugaru-gun","Kodomari Kodomari",""]],
 	"0370523":[[2,"北津軽郡中泊町","小泊稲荷","","Nakadomari-machi, Kitatsugaru-gun","Kodomari Inari",""]],

@@ -15,8 +15,8 @@ zipdata({
 	"7780013":[[36,"三好市","池田町シンヤマ","","Miyoshi-shi","Ikedacho Shinyama",""]],
 	"7780014":[[36,"三好市","池田町イタノ","","Miyoshi-shi","Ikedacho Itano",""]],
 	"7780020":[[36,"三好市","池田町州津","","Miyoshi-shi","Ikedacho Shuzu",""]],
-	"7780031":[[36,"三好市","池田町西山","","Miyoshi-shi","Ikedacho Nishiyama ",""]],
-	"7780032":[[36,"三好市","池田町西山","","Miyoshi-shi","Ikedacho Nishiyama ",""]],
+	"7780031":[[36,"三好市","池田町西山","","Miyoshi-shi","Ikedacho Nishiyama",""]],
+	"7780032":[[36,"三好市","池田町西山","","Miyoshi-shi","Ikedacho Nishiyama",""]],
 	"7780040":[[36,"三好市","池田町西山","","Miyoshi-shi","Ikedacho Nishiyama",""]],
 	"7780101":[[36,"三好市","西祖谷山村一宇","","Miyoshi-shi","Nishiiyayamamura Ichiu",""],[36,"三好市","西祖谷山村尾井ノ内","","Miyoshi-shi","Nishiiyayamamura Oinochi",""],[36,"三好市","西祖谷山村重末","","Miyoshi-shi","Nishiiyayamamura Shigesue",""],[36,"三好市","西祖谷山村田ノ内","","Miyoshi-shi","Nishiiyayamamura Tanochi",""],[36,"三好市","西祖谷山村戸ノ谷","","Miyoshi-shi","Nishiiyayamamura Tonotani",""],[36,"三好市","西祖谷山村眠谷","","Miyoshi-shi","Nishiiyayamamura Nemuridani",""],[36,"三好市","西祖谷山村冥地","","Miyoshi-shi","Nishiiyayamamura Myoji",""]],
 	"7780102":[[36,"三好市","西祖谷山村今久保","","Miyoshi-shi","Nishiiyayamamura Imakubo",""],[36,"三好市","西祖谷山村閑定","","Miyoshi-shi","Nishiiyayamamura Kanjo",""],[36,"三好市","西祖谷山村善徳","","Miyoshi-shi","Nishiiyayamamura Zentoku",""],[36,"三好市","西祖谷山村中尾","","Miyoshi-shi","Nishiiyayamamura Nakao",""]],
@@ -33,5 +33,5 @@ zipdata({
 	"7785251":[[36,"三好市","池田町白地","","Miyoshi-shi","Ikedacho Hakuchi",""]],
 	"7785252":[[36,"三好市","池田町馬路","","Miyoshi-shi","Ikedacho Umaji",""]],
 	"7785253":[[36,"三好市","池田町佐野","","Miyoshi-shi","Ikedacho Sano",""]],
-	"7785254":[[36,"三好市","山城町佐連","","Miyoshi-shi","Yamashirocho Sare ",""]]
+	"7785254":[[36,"三好市","山城町佐連","","Miyoshi-shi","Yamashirocho Sare",""]]
 })
